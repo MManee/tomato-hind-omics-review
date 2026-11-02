@@ -1,0 +1,40 @@
+species	id	country	bin	median_to_conspecifics_pct	nearest_other_species	nearest_other_pct
+Cephalopholis aurantia	JN312974.1	Indonesia	BOLD:AAI7557	3.24	Cephalopholis spiloparaea	3.24
+Cephalopholis aurantia	KM226217.1	India	BOLD:AAI7557	3.24	Cephalopholis spiloparaea	3.24
+Cephalopholis aurantia	KM226218.1	India	BOLD:AAI7557	3.25	Cephalopholis spiloparaea	3.25
+Cephalopholis aurantia	MT888912.1	Mauritius		3.25	Cephalopholis spiloparaea	3.25
+Cephalopholis aurantia	BIFZD750-17	Indonesia	BOLD:AAI7557	3.24	Cephalopholis spiloparaea	3.24
+Cephalopholis aurantia	FADLI023-17	Indonesia	BOLD:AAI7557	3.24	Cephalopholis spiloparaea	3.24
+Cephalopholis aurantia	FADLI024-17	Indonesia	BOLD:AAI7557	3.24	Cephalopholis spiloparaea	3.24
+Cephalopholis aurantia	FADLI025-17	Indonesia	BOLD:AAI7557	3.43	Cephalopholis spiloparaea	3.43
+Cephalopholis aurantia	FADLI026-17	Indonesia	BOLD:AAI7557	3.24	Cephalopholis spiloparaea	3.24
+Cephalopholis aurantia	FADLI027-17	Indonesia	BOLD:AAI7557	3.24	Cephalopholis spiloparaea	3.24
+Cephalopholis aurantia	SAIAB975-08	Tanzania	BOLD:AAI7557	4.34	Cephalopholis spiloparaea	4.34
+Cephalopholis boenak	KM077907.1	New Caledonia		2.54	Cephalopholis miniata	9.35
+Cephalopholis boenak	KR863486.1	Malaysia		3.22	Cephalopholis cyanostigma	10.41
+Cephalopholis boenak	MN869981.1	Indonesia	BOLD:AAB3684	2.16	Cephalopholis miniata	8.01
+Cephalopholis boenak	MN870407.1	Indonesia	BOLD:AAB3684	2.2	Cephalopholis miniata	7.81
+Cephalopholis boenak	MN870536.1	Indonesia	BOLD:AAB3684	2.16	Cephalopholis miniata	8.01
+Cephalopholis boenak	OZ556101.1	Australia		2.16	Cephalopholis miniata	8.01
+Cephalopholis boenak	FOAH443-08	Australia	BOLD:AAB3684	2.15	Cephalopholis miniata	8.39
+Cephalopholis boenak	FOAO1410-18	Australia	BOLD:AAB3684	2.37	Cephalopholis miniata	8.2
+Cephalopholis boenak	RESIC139-11	New Caledonia	BOLD:AAB3684	2.54	Cephalopholis miniata	9.35
+Cephalopholis cruentata	MXIV488-10	Mexico		2.36	Cephalopholis panamensis	7.55
+Cephalopholis formosa	JQ268570.1	Not recorded	BOLD:AAF0621	2.11	Cephalopholis cyanostigma	8.74
+Cephalopholis fulva	KF929697.1	Belize		7.64	Cephalopholis urodeta	14.2
+Cephalopholis microprion	FJ237608.1	India	BOLD:AAC0217	6.5	Cephalopholis cyanostigma	0.67
+Cephalopholis microprion	JX674953.1	India	BOLD:AAC0217	6.68	Cephalopholis cyanostigma	0.7
+Cephalopholis microprion	JX674954.1	India	BOLD:AAC0217	6.68	Cephalopholis cyanostigma	0.7
+Cephalopholis microprion	KM656839.1	Not recorded	BOLD:AAC0217	6.5	Cephalopholis cyanostigma	0.67
+Cephalopholis miniata	KU942707.1	Taiwan	BOLD:AAC0217	19.53	Cephalopholis cyanostigma	0.36
+Cephalopholis miniata	FTWS476-09	Taiwan	BOLD:AAC0217	20.11	Cephalopholis cyanostigma	0.33
+Cephalopholis sonnerati	JX674958.1	India	BOLD:ACC0647	2.02	Cephalopholis oligosticta	5
+Cephalopholis sonnerati	JX674959.1	India	BOLD:ACC0647	2.02	Cephalopholis oligosticta	5
+Cephalopholis sonnerati	JX674960.1	India	BOLD:ACC0647	2.02	Cephalopholis oligosticta	5
+Cephalopholis sonnerati	JX674961.1	India	BOLD:ACC0647	2.02	Cephalopholis oligosticta	5
+Cephalopholis sonnerati	JX674962.1	India	BOLD:ACC0647	2.02	Cephalopholis oligosticta	5
+Cephalopholis sonnerati	FOAN570-11	Indonesia	BOLD:AAD4737	2.59	Cephalopholis oligosticta	5.67
+Cephalopholis spiloparaea	KU668655.1	Not recorded	BOLD:AAB5432	4.87	Cephalopholis aurantia	0
+Cephalopholis spiloparaea	OR524305.1	Philippines	BOLD:ADL0078	16.02	Cephalopholis fulva	14.69
+Cephalopholis spiloparaea	OR524306.1	Philippines	BOLD:ADL0078	16.02	Cephalopholis fulva	14.69
+Cephalopholis spiloparaea	FTW074-08	Taiwan	BOLD:AAB5432	4.87	Cephalopholis aurantia	0

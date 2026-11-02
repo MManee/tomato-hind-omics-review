@@ -1,0 +1,8 @@
+query	gene	length	best_species	best_identity	best_ref	identity_to_C_sonnerati	C_sonnerati_ref	second_species	second_identity	n_species_compared
+KX298697.1	16S	579	Cephalopholis oligosticta	99.82	KX298691.1	99.10	KM261673.1	Cephalopholis sonnerati	99.10	23
+KX298698.1	16S	581	Cephalopholis oligosticta	98.94	KX298696.1	98.02	KM261673.1	Cephalopholis sonnerati	98.02	23
+KX298699.1	16S	581	Cephalopholis oligosticta	98.94	KX298696.1	98.02	KM261673.1	Cephalopholis sonnerati	98.02	23
+KX298707.1	12S	533	Cephalopholis oligosticta	99.63	KX298706.1	98.87	PZ210651.1	Cephalopholis sonnerati	98.87	16
+KX298708.1	12S	533	Cephalopholis oligosticta	99.63	KX298706.1	98.87	PZ210651.1	Cephalopholis sonnerati	98.87	16
+KX298709.1	12S	533	Cephalopholis oligosticta	99.63	KX298706.1	98.87	PZ210651.1	Cephalopholis sonnerati	98.87	16
+KX298710.1	12S	533	Cephalopholis oligosticta	99.63	KX298706.1	98.87	PZ210651.1	Cephalopholis sonnerati	98.87	16

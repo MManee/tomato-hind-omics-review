@@ -1,0 +1,17 @@
+1: OG354.ilmn.NOVA_230324_AD
+Identifiers: BioSample: SAMN49597358; Sample name: Cephalopholis sonnerati (OG354); SRA: SRS25579008
+Organism: Cephalopholis sonnerati
+Attributes:
+    /isolate="OG354"
+    /collection date="missing"
+    /broad-scale environmental context="ENVO:00000447"
+    /local-scale environmental context="ENVO_01000048"
+    /environmental medium="ENVO:00002149"
+    /geographic location="missing"
+    /isolation and growth condition="not applicable"
+    /observed biotic relationship="free living"
+    /source material identifiers="missing"
+    /latitude and longitude="not collected"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN49597358	ID: 49597358

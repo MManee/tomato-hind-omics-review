@@ -1,0 +1,23 @@
+species	n	n_countries	n_GenBank	n_BOLD_only	intra_mean_pct	intra_max_pct	nn_species	nn_min_pct	barcode_gap_pct
+Cephalopholis boenak	283	17	259	24	0.7	5.52	Cephalopholis miniata	7.81	2.29
+Cephalopholis urodeta	160	16	145	15	0.42	2.22	Cephalopholis nigripinnis	0	-2.22
+Cephalopholis sonnerati	116	13	88	28	1.14	12.17	Cephalopholis aurantia	0.17	-12
+Cephalopholis nigripinnis	96	9	74	22	0.27	1.17	Cephalopholis urodeta	0	-1.17
+Cephalopholis formosa	92	9	76	16	0.4	2.84	Cephalopholis cyanostigma	6	3.16
+Cephalopholis miniata	91	16	68	23	1.02	20.7	Cephalopholis cyanostigma	0.33	-20.37
+Cephalopholis hemistiktos	71	8	68	3	0.98	1.86	Cephalopholis leopardus	7.13	5.27
+Cephalopholis argus	53	15	44	9	0.43	1.03	Cephalopholis microprion	12.9	11.87
+Cephalopholis cyanostigma	44	4	34	10	0.39	1.76	Cephalopholis miniata	0.33	-1.43
+Cephalopholis fulva	43	12	29	14	0.53	8.18	Cephalopholis sonnerati	9.73	1.55
+Cephalopholis cruentata	42	8	24	18	0.23	2.53	Cephalopholis panamensis	5.01	2.48
+Cephalopholis leopardus	26	5	21	5	0.52	1.26	Cephalopholis spiloparaea	6.41	5.15
+Cephalopholis sexmaculata	26	7	25	1	0.39	1.17	Cephalopholis miniata	3.61	2.44
+Cephalopholis aurantia	24	8	17	7	1.86	4.69	Cephalopholis spiloparaea	0	-4.69
+Cephalopholis spiloparaea	22	8	21	1	3.67	16.46	Cephalopholis aurantia	0	-16.46
+Cephalopholis microprion	17	4	17	0	2.82	6.89	Cephalopholis cyanostigma	0.67	-6.22
+Cephalopholis igarashiensis	11	6	9	2	0.31	1.29	Cephalopholis polleni	11.23	9.94
+Cephalopholis polleni	9	3	9	0	0.13	0.35	Cephalopholis igarashiensis	11.23	10.88
+Cephalopholis panamensis	8	3	2	6	0.08	0.33	Cephalopholis cruentata	5.01	4.68
+Cephalopholis nigri	7	3	4	3	0.24	0.35	Cephalopholis boenak	14.26	13.91
+Cephalopholis taeniops	7	3	5	2	0.05	0.17	Cephalopholis leopardus	10.15	9.98
+Cephalopholis oligosticta	2	1	2	0	0	0	Cephalopholis sonnerati	2.92	2.92

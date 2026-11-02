@@ -1,0 +1,34 @@
+GenBank COI sequences read: 1285 
+BOLD status: BOLD download (2026-10-08 10:11:55 UTC): OK; 1323 records downloaded, 1273 with a COI sequence of >= 100 bp 
+BOLD COI records read: 1273 
+BOLD records linked to a GenBank record (counted once, as GenBank): 899 
+BOLD-only records with a GenBank-mined process ID (GB...) dropped as duplicates: 137 
+BOLD-only records (no GenBank counterpart found): 237 
+Records with an unresolved name (sp., cf., hybrids, blank) kept out of species statistics: 81 
+Reference COI: KC593378.1 length 1551 bp; first codon GTG 
+Aligning 1522 sequences to the reference COI ... 
+Barcode window: KC593378 COI positions 94-696 (603 bp; max coverage 1516 sequences) 
+QC outcome: 
+                           
+                            BOLD GenBank
+  frameshift_indel             3       3
+  low_identity_to_reference    2       0
+  pass                       218    1138
+  short_coverage_of_window    14     143
+  too_many_ambiguous_bases     0       1
+Sequences passing QC with a resolved species name: 1276 in 23 species 
+Sequences flagged by the nearest-neighbour screen: 27 (flags mark records to check; they are not proof of misidentification) 
+BINs: 27 | BINs shared by >1 species name: 6 | species split across >1 BIN: 7 
+GenBank records whose linked BOLD record carries a different species name: 8 
+Excluded from network and from the 'excluding flagged' diagnostic run: FJ237556.1, JN208551.1, KU064366.1, KU064376.1, KU064392.1, KU064408.1, KU064447.1, KU064454.1, KU064493.1, KU064501.1, KU943514.1, MH331694.1, MN870605.1, MW423580.1, MT888917.1, OQ387830.1, OR524291.1, OR524307.1, PZ554652.1, OZ556110.1, BIFZD656-17, BIFZD684-17, BIFZD688-17, BIFZD689-17, FADLI039-17, KIR015-13 
+C. sonnerati records within 1% of another named species (set aside): 3 (JQ431574.1, JQ431575.1, MK566843.1) 
+C. sonnerati: 113 QC-pass sequences; network core = window columns 1-580 (KC593378 COI 94-673, 580 bp); 104 complete over the core, 9 excluded 
+[all_qc_pass] C. sonnerati n = 118, C. oligosticta n = 2 | named references present & passing QC: KM656840=TRUE, MH707291=TRUE 
+  fixed differences: 7 (C. sonnerati base absent from all other species at 0); K2P between species: min 2.92%, mean 3.71%, max 10.59% 
+[excluding_flagged] C. sonnerati n = 116, C. oligosticta n = 2 | named references present & passing QC: KM656840=TRUE, MH707291=TRUE 
+  fixed differences: 10 (C. sonnerati base absent from all other species at 0); K2P between species: min 2.92%, mean 3.65%, max 10.59% 
+[curated] C. sonnerati n = 113, C. oligosticta n = 2 | named references present & passing QC: KM656840=TRUE, MH707291=TRUE 
+  fixed differences: 15 (C. sonnerati base absent from all other species at 0); K2P between species: min 2.92%, mean 3.47%, max 5.67% 
+NJ tree: 448 unique haplotypes; 500 bootstrap replicates 
+
+Done. Outputs in ./results/coi_analysis 

@@ -1,0 +1,10 @@
+species	nearest_other_species	n_records_within_1pct
+Cephalopholis urodeta	Cephalopholis nigripinnis	159
+Cephalopholis nigripinnis	Cephalopholis urodeta	96
+Cephalopholis cyanostigma	Cephalopholis microprion	36
+Cephalopholis aurantia	Cephalopholis spiloparaea	13
+Cephalopholis cyanostigma	Cephalopholis miniata	5
+Cephalopholis microprion	Cephalopholis cyanostigma	4
+Cephalopholis sonnerati	Cephalopholis aurantia	3
+Cephalopholis spiloparaea	Cephalopholis aurantia	2
+Cephalopholis miniata	Cephalopholis cyanostigma	2

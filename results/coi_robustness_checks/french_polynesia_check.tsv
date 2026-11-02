@@ -1,0 +1,4 @@
+id	species	nearest_other_species	nearest_other_id	min_other_species_pct	min_conspecific_pct	nearest_conspecific_id
+JQ431574.1	Cephalopholis sonnerati	Cephalopholis aurantia	GU673953.1	0.17	0	JQ431575.1
+JQ431575.1	Cephalopholis sonnerati	Cephalopholis aurantia	GU673953.1	0.17	0	JQ431574.1
+MK566843.1	Cephalopholis sonnerati	Cephalopholis aurantia	GU673953.1	0.17	0	JQ431574.1

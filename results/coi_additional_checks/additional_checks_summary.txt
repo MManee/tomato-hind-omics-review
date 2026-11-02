@@ -1,0 +1,85 @@
+Run: 2026-11-02 09:34 +03 | R version 4.6.0 (2026-04-24) 
+Curated records: 1247 in 22 species 
+
+== 1. Records behind the largest within-species distances (curated set) == 
+  Cephalopholis miniata        max  20.70%: PX905042.1 / FTWS476-09 | Indonesia / Taiwan |  / BOLD:AAC0217 | overlap 542 bp 
+  Cephalopholis spiloparaea    max  16.46%: MT888915.1 / OR524305.1 | Mauritius / Philippines | BOLD:AAE4050 / BOLD:ADL0078 | overlap 603 bp 
+  Cephalopholis fulva          max   8.18%: FJ583005.1 / KF929697.1 | Cuba / Belize | BOLD:AAB4588 /  | overlap 583 bp 
+  Cephalopholis microprion     max   6.89%: GU674037.1 / JX674953.1 | Indonesia / India | BOLD:AAF0629 / BOLD:AAC0217 | overlap 603 bp 
+  Cephalopholis boenak         max   5.52%: KR863486.1 / FOAO1410-18 | Malaysia / Australia |  / BOLD:AAB3684 | overlap 603 bp 
+  Cephalopholis aurantia       max   4.69%: OQ387248.1 / SAIAB975-08 | Philippines / Tanzania | BOLD:AAB5432 / BOLD:AAI7557 | overlap 597 bp 
+  Cephalopholis sonnerati      max   4.68%: JQ268571.1 / FOAN570-11 | Not recorded / Indonesia | BOLD:AAD4737 / BOLD:AAD4737 | overlap 552 bp 
+  Cephalopholis formosa        max   2.84%: JQ268570.1 / MK340597.1 | Not recorded / Bangladesh | BOLD:AAF0621 / BOLD:AAF0621 | overlap 576 bp 
+  Cephalopholis cruentata      max   2.53%: JQ840791.1 / MXIV488-10 | Belize / Mexico | BOLD:AAB3619 /  | overlap 603 bp 
+  Cephalopholis urodeta        max   2.22%: FJ459565.1 / KU686889.1 | Not recorded / Philippines | BOLD:AAC4202 / BOLD:AAC4202 | overlap 552 bp 
+  Minimum pairwise overlap among all curated pairs: 487 bp 
+  Records whose median distance to conspecifics exceeds 2%: 39 
+    Cephalopholis aurantia JN312974.1 (Indonesia; BOLD:AAI7557): median 3.24% to conspecifics; nearest other species Cephalopholis spiloparaea at 3.24% 
+    Cephalopholis aurantia KM226217.1 (India; BOLD:AAI7557): median 3.24% to conspecifics; nearest other species Cephalopholis spiloparaea at 3.24% 
+    Cephalopholis aurantia KM226218.1 (India; BOLD:AAI7557): median 3.25% to conspecifics; nearest other species Cephalopholis spiloparaea at 3.25% 
+    Cephalopholis aurantia MT888912.1 (Mauritius; ): median 3.25% to conspecifics; nearest other species Cephalopholis spiloparaea at 3.25% 
+    Cephalopholis aurantia BIFZD750-17 (Indonesia; BOLD:AAI7557): median 3.24% to conspecifics; nearest other species Cephalopholis spiloparaea at 3.24% 
+    Cephalopholis aurantia FADLI023-17 (Indonesia; BOLD:AAI7557): median 3.24% to conspecifics; nearest other species Cephalopholis spiloparaea at 3.24% 
+    Cephalopholis aurantia FADLI024-17 (Indonesia; BOLD:AAI7557): median 3.24% to conspecifics; nearest other species Cephalopholis spiloparaea at 3.24% 
+    Cephalopholis aurantia FADLI025-17 (Indonesia; BOLD:AAI7557): median 3.43% to conspecifics; nearest other species Cephalopholis spiloparaea at 3.43% 
+    Cephalopholis aurantia FADLI026-17 (Indonesia; BOLD:AAI7557): median 3.24% to conspecifics; nearest other species Cephalopholis spiloparaea at 3.24% 
+    Cephalopholis aurantia FADLI027-17 (Indonesia; BOLD:AAI7557): median 3.24% to conspecifics; nearest other species Cephalopholis spiloparaea at 3.24% 
+    Cephalopholis aurantia SAIAB975-08 (Tanzania; BOLD:AAI7557): median 4.34% to conspecifics; nearest other species Cephalopholis spiloparaea at 4.34% 
+    Cephalopholis boenak KM077907.1 (New Caledonia; ): median 2.54% to conspecifics; nearest other species Cephalopholis miniata at 9.35% 
+    Cephalopholis boenak KR863486.1 (Malaysia; ): median 3.22% to conspecifics; nearest other species Cephalopholis cyanostigma at 10.41% 
+    Cephalopholis boenak MN869981.1 (Indonesia; BOLD:AAB3684): median 2.16% to conspecifics; nearest other species Cephalopholis miniata at 8.01% 
+    Cephalopholis boenak MN870407.1 (Indonesia; BOLD:AAB3684): median 2.20% to conspecifics; nearest other species Cephalopholis miniata at 7.81% 
+    Cephalopholis boenak MN870536.1 (Indonesia; BOLD:AAB3684): median 2.16% to conspecifics; nearest other species Cephalopholis miniata at 8.01% 
+    Cephalopholis boenak OZ556101.1 (Australia; ): median 2.16% to conspecifics; nearest other species Cephalopholis miniata at 8.01% 
+    Cephalopholis boenak FOAH443-08 (Australia; BOLD:AAB3684): median 2.15% to conspecifics; nearest other species Cephalopholis miniata at 8.39% 
+    Cephalopholis boenak FOAO1410-18 (Australia; BOLD:AAB3684): median 2.37% to conspecifics; nearest other species Cephalopholis miniata at 8.20% 
+    Cephalopholis boenak RESIC139-11 (New Caledonia; BOLD:AAB3684): median 2.54% to conspecifics; nearest other species Cephalopholis miniata at 9.35% 
+    Cephalopholis cruentata MXIV488-10 (Mexico; ): median 2.36% to conspecifics; nearest other species Cephalopholis panamensis at 7.55% 
+    Cephalopholis formosa JQ268570.1 (Not recorded; BOLD:AAF0621): median 2.11% to conspecifics; nearest other species Cephalopholis cyanostigma at 8.74% 
+    Cephalopholis fulva KF929697.1 (Belize; ): median 7.64% to conspecifics; nearest other species Cephalopholis urodeta at 14.20% 
+    Cephalopholis microprion FJ237608.1 (India; BOLD:AAC0217): median 6.50% to conspecifics; nearest other species Cephalopholis cyanostigma at 0.67% 
+    Cephalopholis microprion JX674953.1 (India; BOLD:AAC0217): median 6.68% to conspecifics; nearest other species Cephalopholis cyanostigma at 0.70% 
+    Cephalopholis microprion JX674954.1 (India; BOLD:AAC0217): median 6.68% to conspecifics; nearest other species Cephalopholis cyanostigma at 0.70% 
+    Cephalopholis microprion KM656839.1 (Not recorded; BOLD:AAC0217): median 6.50% to conspecifics; nearest other species Cephalopholis cyanostigma at 0.67% 
+    Cephalopholis miniata KU942707.1 (Taiwan; BOLD:AAC0217): median 19.53% to conspecifics; nearest other species Cephalopholis cyanostigma at 0.36% 
+    Cephalopholis miniata FTWS476-09 (Taiwan; BOLD:AAC0217): median 20.11% to conspecifics; nearest other species Cephalopholis cyanostigma at 0.33% 
+    Cephalopholis sonnerati JX674958.1 (India; BOLD:ACC0647): median 2.02% to conspecifics; nearest other species Cephalopholis oligosticta at 5.00% 
+    Cephalopholis sonnerati JX674959.1 (India; BOLD:ACC0647): median 2.02% to conspecifics; nearest other species Cephalopholis oligosticta at 5.00% 
+    Cephalopholis sonnerati JX674960.1 (India; BOLD:ACC0647): median 2.02% to conspecifics; nearest other species Cephalopholis oligosticta at 5.00% 
+    Cephalopholis sonnerati JX674961.1 (India; BOLD:ACC0647): median 2.02% to conspecifics; nearest other species Cephalopholis oligosticta at 5.00% 
+    Cephalopholis sonnerati JX674962.1 (India; BOLD:ACC0647): median 2.02% to conspecifics; nearest other species Cephalopholis oligosticta at 5.00% 
+    Cephalopholis sonnerati FOAN570-11 (Indonesia; BOLD:AAD4737): median 2.59% to conspecifics; nearest other species Cephalopholis oligosticta at 5.67% 
+    Cephalopholis spiloparaea KU668655.1 (Not recorded; BOLD:AAB5432): median 4.87% to conspecifics; nearest other species Cephalopholis aurantia at -0.00% 
+    Cephalopholis spiloparaea OR524305.1 (Philippines; BOLD:ADL0078): median 16.02% to conspecifics; nearest other species Cephalopholis fulva at 14.69% 
+    Cephalopholis spiloparaea OR524306.1 (Philippines; BOLD:ADL0078): median 16.02% to conspecifics; nearest other species Cephalopholis fulva at 14.69% 
+    Cephalopholis spiloparaea FTW074-08 (Taiwan; BOLD:AAB5432): median 4.87% to conspecifics; nearest other species Cephalopholis aurantia at -0.00% 
+
+== 2. Diversity over the 580 bp core == 
+  network (complete over core)       n = 104; haplotypes 19; S = 48; Hd = 0.5909; pi = 0.00611 
+  same-voucher duplicates removed    n = 102; haplotypes 19; S = 48; Hd = 0.5877; pi = 0.00619 
+  Removed for the second row: PP680539.1, PP680540.1 
+
+== 3. Amino acids coded by each sequence's own codon at the 15 positions == 
+  117 (codon pos 3): sonnerati A:112 | oligosticta A:2 | synonymous for all sequences: TRUE 
+  309 (codon pos 3): sonnerati W:113 | oligosticta W:2 | synonymous for all sequences: TRUE 
+  351 (codon pos 3): sonnerati G:113 | oligosticta G:2 | synonymous for all sequences: TRUE 
+  393 (codon pos 3): sonnerati P:113 | oligosticta P:2 | synonymous for all sequences: TRUE 
+  433 (codon pos 1): sonnerati L:113 | oligosticta L:2 | synonymous for all sequences: TRUE 
+  441 (codon pos 3): sonnerati I:113 | oligosticta I:2 | synonymous for all sequences: TRUE 
+  540 (codon pos 3): sonnerati Q:113 | oligosticta Q:2 | synonymous for all sequences: TRUE 
+  549 (codon pos 3): sonnerati L:113 | oligosticta L:2 | synonymous for all sequences: TRUE 
+  603 (codon pos 3): sonnerati V:113 | oligosticta V:2 | synonymous for all sequences: TRUE 
+  606 (codon pos 3): sonnerati L:113 | oligosticta L:2 | synonymous for all sequences: TRUE 
+  621 (codon pos 3): sonnerati T:113 | oligosticta T:2 | synonymous for all sequences: TRUE 
+  630 (codon pos 3): sonnerati L:113 | oligosticta L:2 | synonymous for all sequences: TRUE 
+  672 (codon pos 3): sonnerati G:111 | oligosticta G:2 | synonymous for all sequences: TRUE 
+  675 (codon pos 3): sonnerati G:106 | oligosticta G:2 | synonymous for all sequences: TRUE 
+  687 (codon pos 3): sonnerati I:102,M:1 | oligosticta I:2 | synonymous for all sequences: FALSE 
+  Positions not synonymous for every sequence: 1 
+
+== 4. C. oligosticta COI records == 
+  accession = KM656840.1 | organism = Cephalopholis oligosticta | country =  | locality =  | lat_lon =  | specimen_voucher = L178 | isolate =  | collection_date =  | bold_xref =  | first_reference = The historical biogeography of groupers: Clade diversification patterns and processes | definition = Cephalopholis oligosticta voucher L178 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial | record_length = 637 
+  accession = MH707291.1 | organism = Cephalopholis oligosticta | country = Egypt | locality = Egypt | lat_lon =  | specimen_voucher =  | isolate = Ez3_1 | collection_date =  | bold_xref =  | first_reference = DNA barcoding of major grouper species in Egypt (Sinai peninsula and Red Sea governorate) | definition = Cephalopholis oligosticta isolate Ez3_1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial | record_length = 662 
+  Same voucher: FALSE | K2P between them: 0 % | overlap: 603 bp 
+
+Done. Summary written to: ./results/coi_additional_checks/additional_checks_summary.txt 

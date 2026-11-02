@@ -1,0 +1,124 @@
+LOCUS       DQ107916                 655 bp    DNA     linear   VRT 05-MAR-2012
+DEFINITION  Cephalopholis sonnerati voucher BIOUG<CAN>:BW-A580 cytochrome
+            oxidase subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   DQ107916
+VERSION     DQ107916.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 655)
+  AUTHORS   Ward,R.D., Zemlak,T.S., Innes,B.H., Last,P.R. and Hebert,P.D.
+  TITLE     DNA barcoding Australia's fish species
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1847-1857
+            (2005)
+   PUBMED   16214743
+REFERENCE   2  (bases 1 to 655)
+  AUTHORS   Ward,R.D., Zemlak,T.S., Innes,B.H., Last,P.R. and Hebert,P.D.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-2005) Marine and Atmospheric Research, CSIRO, GPO
+            Box 1538, Hobart, Tasmania 7001, Australia
+FEATURES             Location/Qualifiers
+     source          1..655
+                     /organism="Cephalopholis sonnerati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BIOUG<CAN>:BW-A580"
+                     /db_xref="BOLD:FOA580-04"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Australia: Western Australia, Shark Bay"
+                     /collection_date="01-Sep-1995"
+                     /identified_by="G. Yearsley"
+                     /PCR_primers="fwd_seq: tcaaccaaccacaaagacattggcac,
+                     rev_seq: tagacttctgggtggccaaagaatca"
+     gene            <1..>655
+                     /gene="COI"
+     CDS             <1..>655
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="AAZ07285.1"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF
+                     "
+ORIGIN      
+        1 cctttatcta gtatttggtg cctgggccgg tatagtgggg acggctctca gcctattaat
+       61 ccgggccgag ctaagccaac caggcgcttt actcggcgat gatcaaatct acaatgtaat
+      121 tgttacggca catgctttcg taataatttt ctttatagta ataccaatta tgattggtgg
+      181 gttcggaaac tgacttattc cattaataat tggtgctccc gatatagcat tccctcgaat
+      241 gaataatatg agcttctggc tcctccctcc atccttccta cttctgctag cctcctctgg
+      301 agtagaagcc ggtgctggta ctggttgaac agtatatcca cccttagccg gtaacctagc
+      361 ccacgcaggt gcctctgttg acttaactat cttctccctg catttagcag gaatctcatc
+      421 aattttaggg gcaattaact ttattaccac cattattaac ataaaacctc ctgccatctc
+      481 tcaataccaa acacccctat ttgtctgagc cgtactcatc acagccgtcc ttcttctact
+      541 ctccctccct gttctcgccg ccggtattac aatgctccta acagatcgaa atcttaacac
+      601 taccttcttc gaccctgctg gaggaggaga cccaatcctt taccaacatc tgttc
+//
+
+LOCUS       DQ107927                 652 bp    DNA     linear   VRT 05-MAR-2012
+DEFINITION  Cephalopholis sonnerati voucher BIOUG<CAN>:BW-A577 cytochrome
+            oxidase subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   DQ107927
+VERSION     DQ107927.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 652)
+  AUTHORS   Ward,R.D., Zemlak,T.S., Innes,B.H., Last,P.R. and Hebert,P.D.
+  TITLE     DNA barcoding Australia's fish species
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1847-1857
+            (2005)
+   PUBMED   16214743
+REFERENCE   2  (bases 1 to 652)
+  AUTHORS   Ward,R.D., Zemlak,T.S., Innes,B.H., Last,P.R. and Hebert,P.D.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-2005) Marine and Atmospheric Research, CSIRO, GPO
+            Box 1538, Hobart, Tasmania 7001, Australia
+FEATURES             Location/Qualifiers
+     source          1..652
+                     /organism="Cephalopholis sonnerati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BIOUG<CAN>:BW-A577"
+                     /db_xref="BOLD:FOA577-04"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Australia: Western Australia, Shark Bay"
+                     /collection_date="01-Sep-1995"
+                     /identified_by="G. Yearsley"
+                     /PCR_primers="fwd_seq: tcgactaatcataaagatatcggcac,
+                     rev_seq: acttcagggtgaccgaagaatcagaa"
+     gene            <1..>652
+                     /gene="COI"
+     CDS             <1..>652
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="AAZ07296.1"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL"
+ORIGIN      
+        1 cctttatcta gtatttggtg cctgggccgg tatagtgggg acggctctca gcctattaat
+       61 ccgggccgag ctaagccaac caggcgcttt actcggcgat gatcaaatct acaatgtaat
+      121 tgttacggca catgctttcg taataatttt ctttatagta ataccaatta tgattggtgg
+      181 gttcggaaac tgacttattc cattaataat tggtgctccc gatatagcat tccctcgaat
+      241 gaataatatg agcttctggc tcctccctcc atccttccta cttctgctag cctcctctgg
+      301 agtagaagcc ggtgctggta ctggttgaac agtatatcca cccttagccg gtaacctagc
+      361 ccacgcaggt gcctctgttg acttaactat cttctccctg catttagcag gaatctcatc
+      421 aattttaggg gcaattaact ttattaccac cattattaac ataaaacctc ctgccatctc
+      481 tcaataccaa acacccctat ttgtctgagc cgtactcatc acagccgtcc ttcttctact
+      541 ctccctccct gttctcgccg ccggtattac aatgctccta acagatcgaa atcttaacac
+      601 taccttcttc gaccctgctg gaggaggaga cccaatcctt taccaacatc tg
+//

@@ -1,0 +1,11 @@
+COI download log
+Run started      : 2026-10-08 10:10:27 UTC
+Entrez Direct    : 26.3
+Python           : Python 3.12.15
+GenBank cutoff   : PDAT <= 2026/10/08
+GenBank query    : "Cephalopholis"[Organism] AND (mitochondrion[filter] OR COI[Gene] OR COX1[Gene] OR CO1[Gene] OR "cytochrome oxidase subunit"[Title] OR "cytochrome c oxidase subunit"[Title]) AND 1900/01/01:2026/10/08[PDAT] AND 100:20000[SLEN] NOT srcdb_refseq[PROP]
+GenBank hits     : 1851
+GenBank records  : 1851
+Named refs       : KC593378.1 KM656840.1 MH707291.1 
+BOLD download (2026-10-08 10:11:55 UTC): OK; 1323 records downloaded, 1273 with a COI sequence of >= 100 bp
+Run finished     : 2026-10-08 10:11:55 UTC

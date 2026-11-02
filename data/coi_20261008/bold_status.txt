@@ -1,0 +1,1 @@
+BOLD download (2026-10-08 10:11:55 UTC): OK; 1323 records downloaded, 1273 with a COI sequence of >= 100 bp

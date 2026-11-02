@@ -1,0 +1,28 @@
+id	source	species	country	bin	min_conspecific_pct	nearest_other_species	nearest_other_id	min_other_species_pct	flag
+FJ237556.1	GenBank	Cephalopholis argus	India	BOLD:AAD4737	16.43	Cephalopholis sonnerati	MN708813.1	0.17	closer_to_another_species;far_from_all_conspecifics
+JN208551.1	GenBank	Cephalopholis cyanostigma	Not recorded	BOLD:AAC0217	0.71	Cephalopholis microprion	FJ237608.1	0	closer_to_another_species
+KF929697.1	GenBank	Cephalopholis fulva	Belize		7.22	Cephalopholis urodeta	PX905049.1	14.2	far_from_all_conspecifics
+KU064366.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0.17	Cephalopholis urodeta	MN870605.1	0	closer_to_another_species
+KU064376.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0.33	Cephalopholis urodeta	KU064411.1	0	closer_to_another_species
+KU064392.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0.17	Cephalopholis urodeta	KU943459.1	0	closer_to_another_species
+KU064408.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0.33	Cephalopholis nigripinnis	KU064367.1	0.17	closer_to_another_species
+KU064447.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0.17	Cephalopholis nigripinnis	KU064395.1	0	closer_to_another_species
+KU064454.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0.18	Cephalopholis nigripinnis	KU064394.1	0.17	closer_to_another_species
+KU064493.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0.17	Cephalopholis urodeta	MT888917.1	0	closer_to_another_species
+KU064501.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0.17	Cephalopholis urodeta	KU064423.1	0	closer_to_another_species
+KU943514.1	GenBank	Cephalopholis argus	Taiwan	BOLD:AAC4475	17.47	Cephalopholis fulva	KF929697.1	16.85	closer_to_another_species;far_from_all_conspecifics
+MH331694.1	GenBank	Cephalopholis miniata	Australia	BOLD:AAC0216	0.18	Cephalopholis sexmaculata	OZ556110.1	0	closer_to_another_species
+MN870605.1	GenBank	Cephalopholis urodeta	Indonesia	BOLD:AAC4202	0.17	Cephalopholis nigripinnis	KU064366.1	0	closer_to_another_species
+MW423580.1	GenBank	Cephalopholis miniata	Not recorded		11.2	Cephalopholis spiloparaea	GU673736.1	0	closer_to_another_species;far_from_all_conspecifics
+MT888917.1	GenBank	Cephalopholis urodeta	Mauritius	BOLD:AAC4202	0.33	Cephalopholis nigripinnis	KU064493.1	0	closer_to_another_species
+OQ387830.1	GenBank	Cephalopholis aitha	Philippines	BOLD:ADL0078	0.17	Cephalopholis spiloparaea	OR524307.1	0	closer_to_another_species
+OR524291.1	GenBank	Cephalopholis aitha	Philippines	BOLD:ADL0078	0.17	Cephalopholis spiloparaea	OR524305.1	0	closer_to_another_species
+OR524307.1	GenBank	Cephalopholis spiloparaea	Philippines	BOLD:ADL0078	0.17	Cephalopholis aitha	OQ387830.1	0	closer_to_another_species
+PZ554652.1	GenBank	Cephalopholis aurantia	Viet Nam		4.67	Cephalopholis spiloparaea	GU673736.1	0	closer_to_another_species;far_from_all_conspecifics
+OZ556110.1	GenBank	Cephalopholis sexmaculata	Not recorded		3.61	Cephalopholis miniata	MH331694.1	0	closer_to_another_species;far_from_all_conspecifics
+BIFZD656-17	BOLD	Cephalopholis urodeta	Indonesia	BOLD:AAB8386	17.4	Cephalopholis leopardus	OM273102.1	16.12	closer_to_another_species;far_from_all_conspecifics
+BIFZD684-17	BOLD	Cephalopholis spiloparaea	Indonesia	BOLD:AAI7557	3.24	Cephalopholis aurantia	JN312974.1	0	closer_to_another_species;far_from_all_conspecifics
+BIFZD688-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAC4202	0.5	Cephalopholis nigripinnis	KU366479.1	0	closer_to_another_species
+BIFZD689-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAC4202	0.5	Cephalopholis nigripinnis	KU064371.1	0	closer_to_another_species
+FADLI039-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0.17	Cephalopholis urodeta	JQ349871.1	0	closer_to_another_species
+KIR015-13	BOLD	Cephalopholis urodeta	Kiribati	BOLD:AAC4202	0.5	Cephalopholis nigripinnis	KU366479.1	0.33	closer_to_another_species

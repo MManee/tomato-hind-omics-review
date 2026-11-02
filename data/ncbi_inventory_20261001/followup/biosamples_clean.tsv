@@ -1,0 +1,66 @@
+accession	submission_date	title	geo_loc_name	lat_lon	tissue	sex	dev_stage	isolate	collected_by	collection_date	specimen_voucher
+SAMN17766311	2021-02-03	Model organism or animal sample from Cephalopholis sonnerati			blood	female		cs-2020			
+SAMN19844628	2021-06-24	muscle sample from Cephalopholis sonnerati			muscle	female					
+SAMN19844808	2021-06-24	Model organism or animal sample from Cephalopholis sonnerati			intestine	female					
+SAMN19844809	2021-06-24	Model organism or animal sample from Cephalopholis sonnerati			pituitary	female					
+SAMN19844810	2021-06-24	Model organism or animal sample from Cephalopholis sonnerati			liver	female					
+SAMN19844811	2021-06-24	Model organism or animal sample from Cephalopholis sonnerati			muscle	female					
+SAMN19844812	2021-06-24	Model organism or animal sample from Cephalopholis sonnerati			brain	female					
+SAMN19844813	2021-06-24	Model organism or animal sample from Cephalopholis sonnerati			skin	female					
+SAMN19844814	2021-06-24	Model organism or animal sample from Cephalopholis sonnerati			gill	female					
+SAMN19844815	2021-06-24	Model organism or animal sample from Cephalopholis sonnerati			kidney	female					
+SAMN19844816	2021-06-24	Model organism or animal sample from Cephalopholis sonnerati			head kidney	female					
+SAMN19844817	2021-06-24	Model organism or animal sample from Cephalopholis sonnerati			gonad	female					
+SAMN19844818	2021-06-24	Model organism or animal sample from Cephalopholis sonnerati			heart	female					
+SAMN41688836	2024-06-05	Model organism or animal sample from Cephalopholis sonnerati	China		muscle; liver	hermaphrodite		HN-2023		2023-06-04	
+SAMN43576832	2024-09-11	Model organism or animal sample from Cephalopholis sonnerati	not collected	not collected	gonad	female		not collected	not collected	2024-06-27	not collected
+SAMN43576833	2024-09-11	Model organism or animal sample from Cephalopholis sonnerati	not collected	not collected	gonad	female		not collected	not collected	2024-06-27	not collected
+SAMN43576834	2024-09-11	Model organism or animal sample from Cephalopholis sonnerati	not collected	not collected	gonad	female		not collected	not collected	2024-06-27	not collected
+SAMN43576835	2024-09-11	Model organism or animal sample from Cephalopholis sonnerati	not collected	not collected	gonad	female		not collected	not collected	2024-06-27	not collected
+SAMN43576836	2024-09-11	Model organism or animal sample from Cephalopholis sonnerati	not collected	not collected	gonad	female		not collected	not collected	2024-06-27	not collected
+SAMN43576837	2024-09-11	Model organism or animal sample from Cephalopholis sonnerati	not collected	not collected	gonad	female		not collected	not collected	2024-06-27	not collected
+SAMN43576838	2024-09-11	Model organism or animal sample from Cephalopholis sonnerati	not collected	not collected	brain	female		not collected	not collected	2024-06-27	not collected
+SAMN43576839	2024-09-11	Model organism or animal sample from Cephalopholis sonnerati	not collected	not collected	brain	female		not collected	not collected	2024-06-27	not collected
+SAMN43576840	2024-09-11	Model organism or animal sample from Cephalopholis sonnerati	not collected	not collected	brain	female		not collected	not collected	2024-06-27	not collected
+SAMN43576841	2024-09-11	Model organism or animal sample from Cephalopholis sonnerati	not collected	not collected	brain	female		not collected	not collected	2024-06-27	not collected
+SAMN43576842	2024-09-11	Model organism or animal sample from Cephalopholis sonnerati	not collected	not collected	brain	female		not collected	not collected	2024-06-27	not collected
+SAMN43576843	2024-09-11	Model organism or animal sample from Cephalopholis sonnerati	not collected	not collected	brain	female		not collected	not collected	2024-06-27	not collected
+SAMN49597358	2025-06-25	OG354.ilmn.NOVA_230324_AD	missing	not collected				OG354		missing	
+SAMN50673795	2025-08-19	Fish-cs1	China: Hainan		intestine	female	Immortality	Intestinal tissue		2025-03-14	
+SAMN50673796	2025-08-19	Fish-cs2	China: Hainan		intestine	female	Immortality	Intestinal tissue		2025-03-14	
+SAMN50673797	2025-08-19	Fish-cs3	China: Hainan		intestine	female	Immortality	Intestinal tissue		2025-03-14	
+SAMN50673798	2025-08-19	Fish-cs4	China: Hainan		intestine	female	Immortality	Intestinal tissue		2025-03-14	
+SAMN50673799	2025-08-19	Fish-cs5	China: Hainan		intestine	female	Immortality	Intestinal tissue		2025-03-14	
+SAMN50673800	2025-08-19	Fish-cs6	China: Hainan		intestine	female	Immortality	Intestinal tissue		2025-03-14	
+SAMN50673801	2025-08-19	Fish-cs7	China: Hainan		intestine	female	Immortality	Intestinal tissue		2025-03-14	
+SAMN50673802	2025-08-19	Fish-cs8	China: Hainan		intestine	female	Immortality	Intestinal tissue		2025-03-14	
+SAMN50673803	2025-08-19	Fish-cs9	China: Hainan		intestine	female	Immortality	Intestinal tissue		2025-03-14	
+SAMN50673804	2025-08-19	Fish-cs10	China: Hainan		intestine	female	Immortality	Intestinal tissue		2025-03-14	
+SAMN50673805	2025-08-19	Fish-cs11	China: Hainan		intestine	female	Immortality	Intestinal tissue		2025-03-14	
+SAMN50673806	2025-08-19	Fish-cs12	China: Hainan		intestine	female	Immortality	Intestinal tissue		2025-03-14	
+SAMN56354321	2026-03-05	B1	China:wanning		brain	not provided		missing		2024-12-15	
+SAMN56354322	2026-03-05	B2	China:wanning		brain	not provided		missing		2024-12-15	
+SAMN56354323	2026-03-05	B3	China:wanning		brain	not provided		missing		2024-12-15	
+SAMN56354324	2026-03-05	B4	China:wanning		brain	not provided		missing		2024-12-15	
+SAMN56354325	2026-03-05	B5	China:wanning		brain	not provided		missing		2024-12-15	
+SAMN56354326	2026-03-05	B6	China:wanning		brain	not provided		missing		2024-12-15	
+SAMN56354327	2026-03-05	B7	China:wanning		brain	not provided		missing		2024-12-15	
+SAMN56354328	2026-03-05	B8	China:wanning		brain	not provided		missing		2024-12-15	
+SAMN56354329	2026-03-05	B9	China:wanning		brain	not provided		missing		2024-12-15	
+SAMN56354330	2026-03-05	B10	China:wanning		brain	not provided		missing		2024-12-15	
+SAMN56354331	2026-03-05	B11	China:wanning		brain	not provided		missing		2024-12-15	
+SAMN56354332	2026-03-05	B12	China:wanning		brain	not provided		missing		2024-12-15	
+SAMN56354333	2026-03-05	M1	China:wanning		muscle	not provided		missing		2024-12-15	
+SAMN56354334	2026-03-05	M2	China:wanning		muscle	not provided		missing		2024-12-15	
+SAMN56354335	2026-03-05	M3	China:wanning		muscle	not provided		missing		2024-12-15	
+SAMN56354336	2026-03-05	M4	China:wanning		muscle	not provided		missing		2024-12-15	
+SAMN56354337	2026-03-05	M5	China:wanning		muscle	not provided		missing		2024-12-15	
+SAMN56354338	2026-03-05	M6	China:wanning		muscle	not provided		missing		2024-12-15	
+SAMN56354339	2026-03-05	M7	China:wanning		muscle	not provided		missing		2024-12-15	
+SAMN56354340	2026-03-05	M8	China:wanning		muscle	not provided		missing		2024-12-15	
+SAMN56354341	2026-03-05	M9	China:wanning		muscle	not provided		missing		2024-12-15	
+SAMN56354342	2026-03-05	M10	China:wanning		muscle	not provided		missing		2024-12-15	
+SAMN56354343	2026-03-05	M11	China:wanning		muscle	not provided		missing		2024-12-15	
+SAMN56354344	2026-03-05	M12	China:wanning		muscle	not provided		missing		2024-12-15	
+SAMN56723270	2026-03-26	Genome skim of Cephalopholis sonnerati USNM:FISH:405896	Pacific Ocean: Philippines, Mindanao, Davao del Sur	7.018439 N 125.495847 E	muscle	not collected		not collected		2012-05-19	
+SAMEA123450337	2026-09-12	Cephalopholis sonnerati (Tomato Hind)									

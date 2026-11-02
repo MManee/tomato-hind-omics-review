@@ -1,0 +1,17 @@
+ref_acc = KC593378
+focal = Cephalopholis sonnerati
+sister = Cephalopholis oligosticta
+sister_refs = KM656840,MH707291
+min_pid = 80
+win_frac = 0.8
+min_cov = 0.9
+max_amb = 0.01
+thr = 0.02
+core_frac = 0.95
+n_boot = 500
+seed = 2026
+misid_thr = 0.01
+window = 94-696
+distance = K2P (ape::dist.dna, model K80, pairwise deletion)
+genetic code = vertebrate mitochondrial (Biostrings SGC1)
+run date = 2026-11-02 09:34 +03

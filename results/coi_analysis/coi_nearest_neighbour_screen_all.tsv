@@ -1,0 +1,1277 @@
+id	source	species	country	bin	min_conspecific_pct	nearest_other_species	nearest_other_id	min_other_species_pct	flag
+DQ107916.1	GenBank	Cephalopholis sonnerati	Australia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+DQ107917.1	GenBank	Cephalopholis cyanostigma	Australia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+DQ107918.1	GenBank	Cephalopholis cyanostigma	Australia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.67	
+DQ107919.1	GenBank	Cephalopholis cyanostigma	Australia	BOLD:AAC0217	0.33	Cephalopholis microprion	FJ237608.1	1	
+DQ107923.1	GenBank	Cephalopholis sexmaculata	Australia	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	4.09	
+DQ107924.1	GenBank	Cephalopholis miniata	Australia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+DQ107925.1	GenBank	Cephalopholis miniata	Australia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.33	
+DQ107926.1	GenBank	Cephalopholis sonnerati	Australia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.67	
+DQ107927.1	GenBank	Cephalopholis sonnerati	Australia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+DQ107928.1	GenBank	Cephalopholis sonnerati	Australia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+DQ107929.1	GenBank	Cephalopholis sonnerati	Australia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.34	
+DQ884988.1	GenBank	Cephalopholis miniata	South Africa	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.18	
+DQ884989.1	GenBank	Cephalopholis miniata	South Africa	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.18	
+DQ884990.1	GenBank	Cephalopholis sonnerati	South Africa	BOLD:AAB5431	0	Cephalopholis argus	FJ237556.1	1.51	
+DQ884991.1	GenBank	Cephalopholis sonnerati	South Africa	BOLD:AAB5431	0	Cephalopholis argus	FJ237556.1	1.68	
+DQ884992.1	GenBank	Cephalopholis sonnerati	South Africa	BOLD:AAB5431	0	Cephalopholis argus	FJ237556.1	1.68	
+DQ884993.1	GenBank	Cephalopholis sonnerati	South Africa	BOLD:AAB5431	0	Cephalopholis argus	FJ237556.1	1.52	
+EU752069.1	GenBank	Cephalopholis fulva	Not recorded		0.17	Cephalopholis urodeta	PX905049.1	10.67	
+EU752070.1	GenBank	Cephalopholis fulva	Not recorded		0	Cephalopholis urodeta	PX905049.1	10.44	
+FJ583003.1	GenBank	Cephalopholis formosa	Sri Lanka	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.44	
+FJ583004.1	GenBank	Cephalopholis formosa	Sri Lanka	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.44	
+FJ583005.1	GenBank	Cephalopholis fulva	Cuba	BOLD:AAB4588	0.33	Cephalopholis argus	FJ237556.1	11.09	
+FJ583006.1	GenBank	Cephalopholis fulva	Cuba	BOLD:AAB4588	0	Cephalopholis argus	FJ237556.1	10.69	
+FJ583007.1	GenBank	Cephalopholis fulva	Cuba	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.67	
+FJ583008.1	GenBank	Cephalopholis fulva	Cuba	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.44	
+FJ583009.1	GenBank	Cephalopholis fulva	Philippines	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.67	
+FJ583010.1	GenBank	Cephalopholis leopardus	Philippines	BOLD:AAD9032	0	Cephalopholis spiloparaea	KJ594963.1	6.46	
+FJ583011.1	GenBank	Cephalopholis miniata	Sri Lanka	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+FJ583012.1	GenBank	Cephalopholis urodeta	Philippines	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0	
+FJ583013.1	GenBank	Cephalopholis urodeta	Philippines	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064362.1	0	
+FJ583014.1	GenBank	Cephalopholis urodeta	Philippines	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+FJ583015.1	GenBank	Cephalopholis urodeta	Philippines	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+FJ237674.1	GenBank	Cephalopholis boenak	China	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+FJ237675.1	GenBank	Cephalopholis boenak	China	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+FJ237676.1	GenBank	Cephalopholis boenak	China	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+FJ237677.1	GenBank	Cephalopholis boenak	China	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+FJ237678.1	GenBank	Cephalopholis boenak	China	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+FJ237679.1	GenBank	Cephalopholis boenak	China	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+FJ237680.1	GenBank	Cephalopholis boenak	China	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+FJ237541.1	GenBank	Cephalopholis sonnerati	India	BOLD:AAD4737	0.17	Cephalopholis argus	FJ237556.1	0.5	
+FJ237553.1	GenBank	Cephalopholis boenak	India	BOLD:AAB3684	0.17	Cephalopholis cyanostigma	OQ386211.1	8.56	
+FJ237554.1	GenBank	Cephalopholis boenak	India	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+FJ237555.1	GenBank	Cephalopholis boenak	India	BOLD:AAB3684	0.17	Cephalopholis cyanostigma	OQ386211.1	8.17	
+FJ237556.1	GenBank	Cephalopholis argus	India	BOLD:AAD4737	16.43	Cephalopholis sonnerati	MN708813.1	0.17	closer_to_another_species;far_from_all_conspecifics
+FJ237607.1	GenBank	Cephalopholis miniata	India	BOLD:AAC0216	0.17	Cephalopholis sexmaculata	OZ556110.1	0.33	
+FJ237608.1	GenBank	Cephalopholis microprion	India	BOLD:AAC0217	0	Cephalopholis cyanostigma	JN208551.1	0	
+GU225172.1	GenBank	Cephalopholis cruentata	Mexico	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.06	
+GU225173.1	GenBank	Cephalopholis cruentata	Mexico	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.01	
+GU225174.1	GenBank	Cephalopholis cruentata	Mexico	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.19	
+GU225175.1	GenBank	Cephalopholis cruentata	Mexico	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.01	
+GU225176.1	GenBank	Cephalopholis cruentata	Mexico	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.19	
+GU673641.1	GenBank	Cephalopholis formosa	Indonesia	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.44	
+GU673736.1	GenBank	Cephalopholis spiloparaea	Indonesia	BOLD:AAE4050	0	Cephalopholis miniata	MW423580.1	0	
+GU673834.1	GenBank	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+GU673835.1	GenBank	Cephalopholis microprion	Indonesia	BOLD:AAF0629	0	Cephalopholis cyanostigma	OQ386211.1	5.78	
+GU673947.1	GenBank	Cephalopholis sexmaculata	Indonesia	BOLD:AAE4051	0.17	Cephalopholis miniata	MH331694.1	3.9	
+GU673953.1	GenBank	Cephalopholis aurantia	Indonesia	BOLD:AAB5432	0	Cephalopholis spiloparaea	KU668655.1	0	
+GU673956.1	GenBank	Cephalopholis igarashiensis	Indonesia	BOLD:AAE9793	0	Cephalopholis polleni	HM422434.1	11.43	
+GU674035.1	GenBank	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+GU674037.1	GenBank	Cephalopholis microprion	Indonesia	BOLD:AAF0629	0	Cephalopholis cyanostigma	OQ386211.1	5.96	
+GU674048.1	GenBank	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+GU674059.1	GenBank	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+GU674280.1	GenBank	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+GU674361.1	GenBank	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+GU674369.1	GenBank	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.5	
+GU674437.1	GenBank	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+GU805050.1	GenBank	Cephalopholis sonnerati	South Africa	BOLD:AAB5431	0	Cephalopholis argus	FJ237556.1	1.7	
+GU224752.1	GenBank	Cephalopholis cruentata	Mexico	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.01	
+HM379863.1	GenBank	Cephalopholis cruentata	Mexico	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.01	
+HM422434.1	GenBank	Cephalopholis polleni	Indonesia	BOLD:AAK0631	0	Cephalopholis igarashiensis	MH707707.1	11.23	
+HQ149822.1	GenBank	Cephalopholis hemistiktos	Iran	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.55	
+HQ564407.1	GenBank	Cephalopholis polleni	Indonesia	BOLD:AAK0631	0.17	Cephalopholis igarashiensis	MH707707.1	11.43	
+HQ564422.1	GenBank	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+HQ564436.1	GenBank	Cephalopholis microprion	Indonesia	BOLD:AAF0629	0	Cephalopholis cyanostigma	OQ386211.1	5.96	
+HQ573512.1	GenBank	Cephalopholis fulva	Mexico		0	Cephalopholis urodeta	PX905049.1	10.44	
+HQ611096.1	GenBank	Cephalopholis sonnerati	South Africa	BOLD:AAB5431	0	Cephalopholis argus	FJ237556.1	1.51	
+HQ611097.1	GenBank	Cephalopholis sonnerati	South Africa	BOLD:AAB5431	0	Cephalopholis argus	FJ237556.1	1.51	
+HQ611098.1	GenBank	Cephalopholis sonnerati	South Africa	BOLD:AAB5431	0	Cephalopholis argus	FJ237556.1	1.51	
+JF493083.1	GenBank	Cephalopholis miniata	South Africa	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+JF493084.1	GenBank	Cephalopholis sexmaculata	Mozambique	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	3.71	
+JF493085.1	GenBank	Cephalopholis sonnerati	South Africa	BOLD:AAB5431	0	Cephalopholis argus	FJ237556.1	1.68	
+JN312862.1	GenBank	Cephalopholis urodeta	Indonesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064365.1	0	
+JN312920.1	GenBank	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+JN312973.1	GenBank	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+JN312974.1	GenBank	Cephalopholis aurantia	Indonesia	BOLD:AAI7557	0	Cephalopholis spiloparaea	BIFZD684-17	0	
+JN313032.1	GenBank	Cephalopholis leopardus	Indonesia	BOLD:AAD9032	0	Cephalopholis spiloparaea	KJ594963.1	6.46	
+JN313051.1	GenBank	Cephalopholis aurantia	Indonesia	BOLD:AAB5432	0.17	Cephalopholis spiloparaea	KU668655.1	0.17	
+JN313066.1	GenBank	Cephalopholis argus	Indonesia	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.5	
+JN313067.1	GenBank	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+JN313068.1	GenBank	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+JN313069.1	GenBank	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+JN313107.1	GenBank	Cephalopholis urodeta	Indonesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0.17	
+JN313109.1	GenBank	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+JN313139.1	GenBank	Cephalopholis igarashiensis	Indonesia	BOLD:AAE9793	0	Cephalopholis polleni	HM422434.1	11.43	
+JN313140.1	GenBank	Cephalopholis sexmaculata	Indonesia	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	3.9	
+JN313332.1	GenBank	Cephalopholis formosa	Indonesia	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.65	
+JN313630.1	GenBank	Cephalopholis fulva	Mexico	BOLD:AAB4588	0.17	Cephalopholis urodeta	PX905049.1	10.44	
+JN313632.1	GenBank	Cephalopholis fulva	Mexico	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.44	
+JN313791.1	GenBank	Cephalopholis cruentata	Mexico		0	Cephalopholis panamensis	OXF100-11	5.01	
+JN208551.1	GenBank	Cephalopholis cyanostigma	Not recorded	BOLD:AAC0217	0.71	Cephalopholis microprion	FJ237608.1	0	closer_to_another_species
+JN208552.1	GenBank	Cephalopholis formosa	Not recorded	BOLD:AAF0621	0.18	Cephalopholis cyanostigma	PX905050.1	6.3	
+JN208553.1	GenBank	Cephalopholis formosa	Not recorded	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.3	
+JN208554.1	GenBank	Cephalopholis formosa	Not recorded	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.52	
+JN208555.1	GenBank	Cephalopholis formosa	Not recorded	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.52	
+JN208556.1	GenBank	Cephalopholis formosa	Not recorded	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.3	
+JN208557.1	GenBank	Cephalopholis formosa	Not recorded	BOLD:AAF0621	0.18	Cephalopholis cyanostigma	PX905050.1	6.3	
+JN208558.1	GenBank	Cephalopholis formosa	Not recorded	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.52	
+JN208559.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0	Cephalopholis cyanostigma	KP194176.1	8.57	
+JN208560.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0	Cephalopholis cyanostigma	KP194176.1	8.38	
+JN208561.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0	Cephalopholis cyanostigma	KP194176.1	8.57	
+JN208562.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0	Cephalopholis cyanostigma	KP194176.1	8.57	
+JN208563.1	GenBank	Cephalopholis sonnerati	Not recorded	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.36	
+FJ459564.1	GenBank	Cephalopholis urodeta	Not recorded	BOLD:AAC4202	0.17	Cephalopholis nigripinnis	SAIAB821-08	0.83	
+FJ459565.1	GenBank	Cephalopholis urodeta	Not recorded	BOLD:AAC4202	0.17	Cephalopholis nigripinnis	SAIAB821-08	1	
+JQ268570.1	GenBank	Cephalopholis formosa	Not recorded	BOLD:AAF0621	1.77	Cephalopholis cyanostigma	PX905050.1	8.74	
+JQ268571.1	GenBank	Cephalopholis sonnerati	Not recorded	BOLD:AAD4737	1.83	Cephalopholis argus	FJ237556.1	2.21	
+JQ349856.1	GenBank	Cephalopholis argus	Madagascar	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.49	
+JQ349857.1	GenBank	Cephalopholis argus	Madagascar	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.49	
+JQ349858.1	GenBank	Cephalopholis boenak	Madagascar	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.55	
+JQ349859.1	GenBank	Cephalopholis boenak	Madagascar	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.55	
+JQ349860.1	GenBank	Cephalopholis boenak	Madagascar	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+JQ349861.1	GenBank	Cephalopholis boenak	Madagascar	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+JQ349862.1	GenBank	Cephalopholis miniata	Madagascar	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+JQ349863.1	GenBank	Cephalopholis miniata	Madagascar	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+JQ349864.1	GenBank	Cephalopholis miniata	Madagascar	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+JQ349865.1	GenBank	Cephalopholis miniata	Madagascar	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+JQ349866.1	GenBank	Cephalopholis miniata	Madagascar	BOLD:AAC0216	0.18	Cephalopholis sexmaculata	OZ556110.1	0.5	
+JQ349867.1	GenBank	Cephalopholis spiloparaea	Reunion	BOLD:AAE4050	0	Cephalopholis miniata	MW423580.1	0.17	
+JQ349868.1	GenBank	Cephalopholis spiloparaea	Reunion	BOLD:AAE4050	0	Cephalopholis miniata	MW423580.1	0	
+JQ349869.1	GenBank	Cephalopholis urodeta	Reunion	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064360.1	0	
+JQ349870.1	GenBank	Cephalopholis urodeta	Reunion	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064360.1	0	
+JQ349871.1	GenBank	Cephalopholis urodeta	Reunion	BOLD:AAC4202	0	Cephalopholis nigripinnis	FADLI039-17	0	
+JQ349872.1	GenBank	Cephalopholis urodeta	Reunion	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064360.1	0	
+JQ349873.1	GenBank	Cephalopholis urodeta	Reunion	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064360.1	0	
+JQ013809.1	GenBank	Cephalopholis argus	Not recorded		0	Cephalopholis microprion	GU674037.1	13.29	
+JQ431564.1	GenBank	Cephalopholis argus	French Polynesia	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.5	
+JQ431565.1	GenBank	Cephalopholis argus	French Polynesia	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.5	
+JQ431566.1	GenBank	Cephalopholis argus	French Polynesia	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	12.97	
+JQ431567.1	GenBank	Cephalopholis argus	French Polynesia	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.5	
+JQ431568.1	GenBank	Cephalopholis argus	French Polynesia	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+JQ431569.1	GenBank	Cephalopholis argus	French Polynesia	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.5	
+JQ431570.1	GenBank	Cephalopholis leopardus	French Polynesia	BOLD:AAD9032	0	Cephalopholis spiloparaea	KF929701.1	6.41	
+JQ431571.1	GenBank	Cephalopholis leopardus	French Polynesia	BOLD:AAD9032	0	Cephalopholis spiloparaea	KF929701.1	6.64	
+JQ431572.1	GenBank	Cephalopholis sexmaculata	French Polynesia	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	4.09	
+JQ431573.1	GenBank	Cephalopholis sexmaculata	French Polynesia	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	3.51	
+JQ431574.1	GenBank	Cephalopholis sonnerati	French Polynesia	BOLD:AAB5432	0	Cephalopholis aurantia	GU673953.1	0.17	
+JQ431575.1	GenBank	Cephalopholis sonnerati	French Polynesia	BOLD:AAB5432	0	Cephalopholis aurantia	GU673953.1	0.17	
+JQ431576.1	GenBank	Cephalopholis spiloparaea	French Polynesia	BOLD:AAE4050	0	Cephalopholis miniata	MW423580.1	0	
+JQ431577.1	GenBank	Cephalopholis urodeta	French Polynesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064362.1	0	
+JQ431578.1	GenBank	Cephalopholis urodeta	French Polynesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+JQ365277.1	GenBank	Cephalopholis fulva	Brazil	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.44	
+JQ365278.1	GenBank	Cephalopholis fulva	Brazil	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.44	
+JQ365279.1	GenBank	Cephalopholis fulva	Brazil	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.67	
+JQ839727.1	GenBank	Cephalopholis cruentata	Bahamas	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.01	
+JQ839728.1	GenBank	Cephalopholis cruentata	Bahamas	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.19	
+JQ840791.1	GenBank	Cephalopholis cruentata	Belize	BOLD:AAB3619	0.17	Cephalopholis panamensis	OXF100-11	5.19	
+JQ839991.1	GenBank	Cephalopholis fulva	Belize	BOLD:AAB4588	0.17	Cephalopholis urodeta	PX905049.1	10.48	
+JQ841494.1	GenBank	Cephalopholis cruentata	Belize	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.19	
+JQ841495.1	GenBank	Cephalopholis fulva	Belize	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.44	
+JQ842037.1	GenBank	Cephalopholis cruentata	Netherlands Antilles	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.01	
+JQ842038.1	GenBank	Cephalopholis cruentata	Netherlands Antilles	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.1	
+JQ842039.1	GenBank	Cephalopholis cruentata	Netherlands Antilles	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.19	
+JQ842042.1	GenBank	Cephalopholis fulva	Netherlands Antilles	BOLD:AAB4588	0	Cephalopholis argus	FJ237556.1	10.78	
+JQ842043.1	GenBank	Cephalopholis fulva	Netherlands Antilles	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.53	
+JQ840439.1	GenBank	Cephalopholis cruentata	Belize	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.19	
+JQ840440.1	GenBank	Cephalopholis cruentata	Belize	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.05	
+JQ840441.1	GenBank	Cephalopholis cruentata	Belize	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.03	
+JQ840442.1	GenBank	Cephalopholis cruentata	Belize	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.01	
+JQ841105.1	GenBank	Cephalopholis fulva	Belize	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.44	
+JQ841106.1	GenBank	Cephalopholis fulva	Belize	BOLD:AAB4588	0.17	Cephalopholis urodeta	PX905049.1	10.67	
+JQ841107.1	GenBank	Cephalopholis fulva	Belize	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.44	
+JX674946.1	GenBank	Cephalopholis argus	India	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.72	
+JX674947.1	GenBank	Cephalopholis argus	India	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.72	
+JX674948.1	GenBank	Cephalopholis argus	India	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.72	
+JX674949.1	GenBank	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.46	
+JX674950.1	GenBank	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.3	
+JX674951.1	GenBank	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.46	
+JX674952.1	GenBank	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.46	
+JX674953.1	GenBank	Cephalopholis microprion	India	BOLD:AAC0217	0	Cephalopholis cyanostigma	JN208551.1	0	
+JX674954.1	GenBank	Cephalopholis microprion	India	BOLD:AAC0217	0	Cephalopholis cyanostigma	JN208551.1	0	
+JX674955.1	GenBank	Cephalopholis miniata	India	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.83	
+JX674956.1	GenBank	Cephalopholis miniata	India	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.83	
+JX674957.1	GenBank	Cephalopholis miniata	India	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.83	
+JX674958.1	GenBank	Cephalopholis sonnerati	India	BOLD:ACC0647	0	Cephalopholis argus	FJ237556.1	2.36	
+JX674959.1	GenBank	Cephalopholis sonnerati	India	BOLD:ACC0647	0	Cephalopholis argus	FJ237556.1	2.36	
+JX674960.1	GenBank	Cephalopholis sonnerati	India	BOLD:ACC0647	0	Cephalopholis argus	FJ237556.1	2.36	
+JX674961.1	GenBank	Cephalopholis sonnerati	India	BOLD:ACC0647	0	Cephalopholis argus	FJ237556.1	2.36	
+JX674962.1	GenBank	Cephalopholis sonnerati	India	BOLD:ACC0647	0	Cephalopholis argus	FJ237556.1	2.36	
+JX674963.1	GenBank	Cephalopholis urodeta	India	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064362.1	0.67	
+JX674964.1	GenBank	Cephalopholis urodeta	India	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064362.1	0.67	
+JX674965.1	GenBank	Cephalopholis urodeta	India	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064362.1	0.67	
+JX674966.1	GenBank	Cephalopholis urodeta	India	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064362.1	0.67	
+JX093918.1	GenBank	Cephalopholis sonnerati	New Caledonia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+KC537759.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+KC593377.1	GenBank	Cephalopholis argus	Not recorded	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+KC593378.1	GenBank	Cephalopholis sonnerati	Not recorded	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.5	
+KC970460.1	GenBank	Cephalopholis miniata	Philippines		0	Cephalopholis sexmaculata	OZ556110.1	0.33	
+KC970461.1	GenBank	Cephalopholis sexmaculata	Philippines		0.17	Cephalopholis miniata	MH331694.1	3.71	
+KC970463.1	GenBank	Cephalopholis urodeta	Philippines		0.17	Cephalopholis nigripinnis	KU064376.1	0.17	
+KF009577.1	GenBank	Cephalopholis miniata	Philippines		0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+KF009578.1	GenBank	Cephalopholis urodeta	Philippines		0.17	Cephalopholis nigripinnis	KM226230.1	0.17	
+KF009579.1	GenBank	Cephalopholis urodeta	Philippines		0	Cephalopholis nigripinnis	KU064387.1	0.17	
+KF714909.1	GenBank	Cephalopholis boenak	Philippines		0	Cephalopholis cyanostigma	OQ386211.1	8.75	
+KF929697.1	GenBank	Cephalopholis fulva	Belize		7.22	Cephalopholis urodeta	PX905049.1	14.2	far_from_all_conspecifics
+KF929698.1	GenBank	Cephalopholis fulva	Belize	BOLD:AAB4588	0.17	Cephalopholis urodeta	PX905049.1	10.65	
+KF929699.1	GenBank	Cephalopholis leopardus	Seychelles	BOLD:AAD9032	0	Cephalopholis spiloparaea	KJ594963.1	6.87	
+KF929700.1	GenBank	Cephalopholis sonnerati	Seychelles	BOLD:AAB5431	0	Cephalopholis argus	FJ237556.1	1.53	
+KF929701.1	GenBank	Cephalopholis spiloparaea	Northern Mariana Islands	BOLD:AAE4050	0.18	Cephalopholis miniata	MW423580.1	0.5	
+KF929702.1	GenBank	Cephalopholis urodeta	Northern Mariana Islands	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0	
+KJ130963.1	GenBank	Cephalopholis boenak	Philippines		0	Cephalopholis cyanostigma	OQ386211.1	8.75	
+KJ469385.1	GenBank	Cephalopholis sexmaculata	Not recorded	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	3.51	
+KF809394.1	GenBank	Cephalopholis boenak	Philippines		0.33	Cephalopholis cyanostigma	OQ386211.1	8.75	
+KJ202143.1	GenBank	Cephalopholis boenak	Philippines		0	Cephalopholis cyanostigma	OQ386211.1	8.75	
+KJ607968.1	GenBank	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.44	
+KF268151.1	GenBank	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.27	
+KF268152.1	GenBank	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.27	
+KF268153.1	GenBank	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.27	
+KF268154.1	GenBank	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.27	
+KF268155.1	GenBank	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.27	
+KF268156.1	GenBank	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.27	
+KF268157.1	GenBank	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.27	
+KF268158.1	GenBank	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.27	
+KJ594963.1	GenBank	Cephalopholis spiloparaea	Philippines		0	Cephalopholis miniata	MW423580.1	0	
+KJ594959.1	GenBank	Cephalopholis polleni	Philippines		0	Cephalopholis igarashiensis	MH707707.1	11.53	
+KJ594961.1	GenBank	Cephalopholis sonnerati	Philippines		0.18	Cephalopholis argus	FJ237556.1	0.83	
+KJ594962.1	GenBank	Cephalopholis sonnerati	Philippines		0.36	Cephalopholis argus	FJ237556.1	1.17	
+KJ594964.1	GenBank	Cephalopholis spiloparaea	Philippines		0	Cephalopholis miniata	MW423580.1	0	
+KJ594965.1	GenBank	Cephalopholis urodeta	Philippines		0.17	Cephalopholis nigripinnis	KM226226.1	0.17	
+KM077907.1	GenBank	Cephalopholis boenak	New Caledonia		0	Cephalopholis miniata	FTWS476-09	9.35	
+KM077908.1	GenBank	Cephalopholis cyanostigma	Australia		0	Cephalopholis microprion	FJ237608.1	0.67	
+KM077909.1	GenBank	Cephalopholis miniata	New Caledonia		0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+KM077910.1	GenBank	Cephalopholis spiloparaea	New Caledonia		0	Cephalopholis miniata	MW423580.1	0	
+KM656838.1	GenBank	Cephalopholis aurantia	Not recorded	BOLD:AAB5432	0	Cephalopholis spiloparaea	KU668655.1	0	
+KM656839.1	GenBank	Cephalopholis microprion	Not recorded	BOLD:AAC0217	0	Cephalopholis cyanostigma	JN208551.1	0	
+KM656840.1	GenBank	Cephalopholis oligosticta	Not recorded	BOLD:ADJ9433	0	Cephalopholis sonnerati	JN208563.1	2.92	
+KM226217.1	GenBank	Cephalopholis aurantia	India	BOLD:AAI7557	0	Cephalopholis spiloparaea	BIFZD684-17	0	
+KM226218.1	GenBank	Cephalopholis aurantia	India	BOLD:AAI7557	0.33	Cephalopholis spiloparaea	BIFZD684-17	0.33	
+KM226219.1	GenBank	Cephalopholis argus	India	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+KM226220.1	GenBank	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.03	
+KM226221.1	GenBank	Cephalopholis miniata	India	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+KM226222.1	GenBank	Cephalopholis miniata	India	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+KM226223.1	GenBank	Cephalopholis miniata	India	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+KM226224.1	GenBank	Cephalopholis miniata	India	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+KM226225.1	GenBank	Cephalopholis miniata	India	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+KM226226.1	GenBank	Cephalopholis nigripinnis	India	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KM226227.1	GenBank	Cephalopholis nigripinnis	India	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KM226228.1	GenBank	Cephalopholis nigripinnis	India	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KM226229.1	GenBank	Cephalopholis nigripinnis	India	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KM226230.1	GenBank	Cephalopholis nigripinnis	India	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583012.1	0	
+KM226231.1	GenBank	Cephalopholis sonnerati	India	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+KM226232.1	GenBank	Cephalopholis sonnerati	India	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+KM226233.1	GenBank	Cephalopholis sonnerati	India	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+KM226234.1	GenBank	Cephalopholis sonnerati	India	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+KP194063.1	GenBank	Cephalopholis cyanostigma	Australia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.67	
+KP194149.1	GenBank	Cephalopholis boenak	Australia	BOLD:AAB3684	0	Cephalopholis miniata	FTWS476-09	8.2	
+KP194176.1	GenBank	Cephalopholis cyanostigma	Australia	BOLD:AAC0217	0	Cephalopholis miniata	KU942707.1	0.36	
+KP194367.1	GenBank	Cephalopholis boenak	Australia	BOLD:AAB3684	0	Cephalopholis miniata	FTWS476-09	8.2	
+KP194491.1	GenBank	Cephalopholis boenak	Australia	BOLD:AAB3684	0	Cephalopholis miniata	FTWS476-09	8.2	
+KP194546.1	GenBank	Cephalopholis boenak	Australia	BOLD:AAB3684	0	Cephalopholis miniata	FTWS476-09	8.2	
+KP194699.1	GenBank	Cephalopholis microprion	Australia	BOLD:AAF0629	0	Cephalopholis cyanostigma	OQ386211.1	5.78	
+KP194861.1	GenBank	Cephalopholis boenak	Australia	BOLD:AAB3684	0	Cephalopholis miniata	FTWS476-09	8.2	
+KP194946.1	GenBank	Cephalopholis boenak	Australia	BOLD:AAB3684	0	Cephalopholis miniata	FTWS476-09	8.2	
+KP331698.1	GenBank	Cephalopholis fulva	Not recorded	BOLD:AAB4588	0.36	Cephalopholis argus	FJ237556.1	9.51	
+KP331699.1	GenBank	Cephalopholis fulva	Not recorded	BOLD:AAB4588	0	Cephalopholis argus	FJ237556.1	9.73	
+KP331700.1	GenBank	Cephalopholis fulva	Not recorded	BOLD:AAB4588	0	Cephalopholis argus	FJ237556.1	9.51	
+KR024641.1	GenBank	Cephalopholis sonnerati	India	BOLD:AAD4737	0.17	Cephalopholis argus	FJ237556.1	0.17	
+KR863482.1	GenBank	Cephalopholis boenak	Malaysia		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+KR863483.1	GenBank	Cephalopholis boenak	Malaysia		0	Cephalopholis cyanostigma	OQ386211.1	8.75	
+KR863484.1	GenBank	Cephalopholis boenak	Malaysia		0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+KR863485.1	GenBank	Cephalopholis boenak	Malaysia		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+KR863486.1	GenBank	Cephalopholis boenak	Malaysia		1.49	Cephalopholis cyanostigma	PX905050.1	10.41	
+KR863487.1	GenBank	Cephalopholis boenak	Malaysia		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+KR863488.1	GenBank	Cephalopholis boenak	Malaysia		0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+KR863489.1	GenBank	Cephalopholis boenak	Malaysia		0.33	Cephalopholis cyanostigma	OQ386211.1	8.95	
+KR863490.1	GenBank	Cephalopholis formosa	Malaysia		0	Cephalopholis cyanostigma	PX905050.1	6.44	
+KT216197.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.35	
+KT216198.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.75	
+KT216199.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.16	
+KT216200.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.16	
+KT216201.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.55	
+KT216202.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.35	
+KT216203.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.55	
+KT216204.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.75	
+KT216205.1	GenBank	Cephalopholis hemistiktos	Djibouti	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.75	
+KT216206.1	GenBank	Cephalopholis hemistiktos	Djibouti	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.16	
+KT216207.1	GenBank	Cephalopholis hemistiktos	Djibouti	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.35	
+KT216208.1	GenBank	Cephalopholis hemistiktos	Djibouti	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.35	
+KT216209.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.55	
+KT216210.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.35	
+KT216211.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.35	
+KT216212.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	OR524296.1	7.41	
+KT216213.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.75	
+KT216214.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.75	
+KT216215.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.55	
+KT216216.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.95	
+KT216217.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.95	
+KT216218.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.55	
+KT216219.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.95	
+KT216220.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.55	
+KT216221.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.74	
+KT216222.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.75	
+KT216223.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.75	
+KT216224.1	GenBank	Cephalopholis hemistiktos	Oman	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.74	
+KT216225.1	GenBank	Cephalopholis hemistiktos	Oman	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.55	
+KT216226.1	GenBank	Cephalopholis hemistiktos	Oman	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.75	
+KT216227.1	GenBank	Cephalopholis hemistiktos	Oman	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.35	
+KT216228.1	GenBank	Cephalopholis hemistiktos	Sudan	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.75	
+KT216229.1	GenBank	Cephalopholis hemistiktos	Sudan	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.75	
+KT216230.1	GenBank	Cephalopholis hemistiktos	Sudan	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.55	
+KT216231.1	GenBank	Cephalopholis hemistiktos	Sudan	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.55	
+KT216232.1	GenBank	Cephalopholis hemistiktos	Sudan	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.55	
+KT216233.1	GenBank	Cephalopholis hemistiktos	Sudan	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.55	
+KT216234.1	GenBank	Cephalopholis hemistiktos	Sudan	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.94	
+KT216235.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.95	
+KT835681.1	GenBank	Cephalopholis boenak	India	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+KT835682.1	GenBank	Cephalopholis miniata	India	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+KU170633.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia		0	Cephalopholis leopardus	JQ431570.1	7.55	
+KU686889.1	GenBank	Cephalopholis urodeta	Philippines	BOLD:AAC4202	0.18	Cephalopholis nigripinnis	KU064387.1	0.36	
+KU891818.2	GenBank	Cephalopholis urodeta	Not recorded	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0.17	
+KU499672.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia		0	Cephalopholis leopardus	JQ431570.1	7.75	
+KU499673.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia		0	Cephalopholis leopardus	JQ431570.1	7.75	
+KU499674.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia		0	Cephalopholis leopardus	JQ431570.1	7.75	
+KU499784.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia		0	Cephalopholis leopardus	JQ431570.1	7.75	
+KU366470.1	GenBank	Cephalopholis argus	India	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13	
+KU366479.1	GenBank	Cephalopholis nigripinnis	India	BOLD:AAC4202	0	Cephalopholis sonnerati	BIFZD688-17	0	
+KU722909.1	GenBank	Cephalopholis boenak	Malaysia		0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+KU722910.1	GenBank	Cephalopholis boenak	Malaysia		0	Cephalopholis cyanostigma	OQ386211.1	8.75	
+KU722911.1	GenBank	Cephalopholis boenak	Malaysia		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+KU722912.1	GenBank	Cephalopholis boenak	Malaysia		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+KU722913.1	GenBank	Cephalopholis boenak	Malaysia		0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+KU722914.1	GenBank	Cephalopholis formosa	Malaysia		0	Cephalopholis cyanostigma	PX905050.1	6.03	
+KU722915.1	GenBank	Cephalopholis formosa	Malaysia		0	Cephalopholis cyanostigma	PX905050.1	6.44	
+KU722916.1	GenBank	Cephalopholis miniata	Malaysia		0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+KU064359.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064360.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	JQ349869.1	0	
+KU064361.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064362.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583013.1	0	
+KU064363.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064364.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064365.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	JN312862.1	0	
+KU064366.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0.17	Cephalopholis urodeta	MN870605.1	0	closer_to_another_species
+KU064367.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0.17	
+KU064368.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064369.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064370.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064371.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	KU064424.1	0	
+KU064372.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	JQ349869.1	0	
+KU064373.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	JQ349869.1	0	
+KU064374.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064375.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064376.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0.33	Cephalopholis urodeta	KU064411.1	0	closer_to_another_species
+KU064377.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	KU064424.1	0	
+KU064378.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583012.1	0	
+KU064379.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064380.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	KU064424.1	0	
+KU064381.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0.17	Cephalopholis urodeta	KU064424.1	0.17	
+KU064382.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583012.1	0	
+KU064383.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064384.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583012.1	0	
+KU064385.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583012.1	0	
+KU064386.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	JQ349869.1	0	
+KU064387.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	JQ431578.1	0	
+KU064388.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	JQ431578.1	0	
+KU064389.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064390.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	KU943491.1	0	
+KU064391.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0.17	
+KU064392.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0.17	Cephalopholis urodeta	KU943459.1	0	closer_to_another_species
+KU064393.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064394.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0.17	Cephalopholis urodeta	KU064430.1	0.17	
+KU064395.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	KU064447.1	0	
+KU064396.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064397.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	JQ431578.1	0	
+KU064398.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	JQ349869.1	0	
+KU064399.1	GenBank	Cephalopholis nigripinnis	Australia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583012.1	0	
+KU064400.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0	
+KU064401.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064360.1	0	
+KU064402.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064403.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064360.1	0	
+KU064404.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0.17	Cephalopholis nigripinnis	KU064387.1	0.17	
+KU064405.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064406.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064360.1	0	
+KU064407.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064408.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0.33	Cephalopholis nigripinnis	KU064367.1	0.17	closer_to_another_species
+KU064409.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	FADLI048-17	0	
+KU064410.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0	
+KU064411.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064376.1	0	
+KU064412.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0.17	Cephalopholis nigripinnis	KU064360.1	0.17	
+KU064413.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0	
+KU064414.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0.17	Cephalopholis nigripinnis	KU064376.1	0.17	
+KU064415.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064501.1	0.17	
+KU064416.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064417.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0.17	
+KU064418.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064419.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064420.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064365.1	0	
+KU064421.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064422.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064423.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064501.1	0	
+KU064424.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064371.1	0	
+KU064425.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064362.1	0	
+KU064426.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0.17	
+KU064427.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064428.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064429.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	FADLI048-17	0	
+KU064430.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+KU064431.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0	
+KU064432.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064360.1	0	
+KU064433.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0.17	
+KU064434.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064435.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064436.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064437.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064438.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064439.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064440.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064441.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064442.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064443.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064444.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064501.1	0	
+KU064445.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064446.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+KU064447.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0.17	Cephalopholis nigripinnis	KU064395.1	0	closer_to_another_species
+KU064448.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064449.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0.17	
+KU064450.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064451.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064452.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0.17	
+KU064453.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0.17	Cephalopholis nigripinnis	KM226226.1	0.17	
+KU064454.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0.18	Cephalopholis nigripinnis	KU064394.1	0.17	closer_to_another_species
+KU064455.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064371.1	0	
+KU064456.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0	
+KU064457.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+KU064458.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+KU064459.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064460.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064360.1	0	
+KU064461.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064462.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064362.1	0	
+KU064463.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064501.1	0.17	
+KU064464.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064465.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064360.1	0	
+KU064466.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064467.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0.17	Cephalopholis nigripinnis	KM226226.1	0.17	
+KU064468.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064469.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+KU064470.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0.17	
+KU064471.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064472.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064360.1	0	
+KU064473.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+KU064474.1	GenBank	Cephalopholis urodeta	Australia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0.17	
+KU064475.1	GenBank	Cephalopholis urodeta	Micronesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	FADLI039-17	0	
+KU064476.1	GenBank	Cephalopholis urodeta	Micronesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0	
+KU064477.1	GenBank	Cephalopholis urodeta	Micronesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0	
+KU064478.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064479.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064480.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064481.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064482.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	JN312862.1	0	
+KU064483.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	KU064424.1	0	
+KU064484.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064485.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	JQ349869.1	0	
+KU064486.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064487.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064488.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064489.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064490.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064491.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064492.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0.33	Cephalopholis urodeta	FJ583014.1	0.5	
+KU064493.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0.17	Cephalopholis urodeta	MT888917.1	0	closer_to_another_species
+KU064494.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583013.1	0	
+KU064495.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0.17	Cephalopholis urodeta	JQ349869.1	0.17	
+KU064496.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	JQ349869.1	0	
+KU064497.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	JQ349869.1	0	
+KU064498.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064499.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064500.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	JQ349869.1	0	
+KU064501.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0.17	Cephalopholis urodeta	KU064423.1	0	closer_to_another_species
+KU064502.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064503.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis sonnerati	BIFZD688-17	0	
+KU064504.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	JN312862.1	0	
+KU064505.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+KU064506.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0.17	Cephalopholis urodeta	JQ349869.1	0.17	
+KU064507.1	GenBank	Cephalopholis nigripinnis	Maldives	BOLD:AAC4202	0	Cephalopholis urodeta	JQ349869.1	0	
+KU064508.1	GenBank	Cephalopholis urodeta	Palau	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0.17	
+KU064509.1	GenBank	Cephalopholis urodeta	Palau	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064371.1	0	
+KU064510.1	GenBank	Cephalopholis urodeta	Palau	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0.17	
+KU064511.1	GenBank	Cephalopholis urodeta	Palau	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0	
+KU064512.1	GenBank	Cephalopholis urodeta	Palau	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064513.1	GenBank	Cephalopholis urodeta	Palau	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064360.1	0	
+KU064514.1	GenBank	Cephalopholis urodeta	Palau	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU064515.1	GenBank	Cephalopholis urodeta	Palau	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0.17	
+KU064516.1	GenBank	Cephalopholis urodeta	Philippines	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0	
+KU064517.1	GenBank	Cephalopholis urodeta	Philippines	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064501.1	0	
+KU064518.1	GenBank	Cephalopholis urodeta	Philippines	BOLD:AAC4202	0	Cephalopholis nigripinnis	FADLI039-17	0	
+KU942707.1	GenBank	Cephalopholis miniata	Taiwan	BOLD:AAC0217	0	Cephalopholis cyanostigma	KP194176.1	0.36	
+KU943450.1	GenBank	Cephalopholis aurantia	Taiwan	BOLD:AAB5432	0	Cephalopholis spiloparaea	KU668655.1	0	
+KU943459.1	GenBank	Cephalopholis urodeta	Taiwan	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU943484.1	GenBank	Cephalopholis boenak	Taiwan	BOLD:AAB3684	0	Cephalopholis cyanostigma	PX905050.1	8.94	
+KU943491.1	GenBank	Cephalopholis urodeta	Taiwan	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0	
+KU943492.1	GenBank	Cephalopholis urodeta	Taiwan	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+KU943493.1	GenBank	Cephalopholis miniata	Taiwan	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.36	
+KU943496.1	GenBank	Cephalopholis boenak	Taiwan	BOLD:AAB3684	0	Cephalopholis cyanostigma	PX905050.1	8.94	
+KU943497.1	GenBank	Cephalopholis boenak	Taiwan	BOLD:AAB3684	0	Cephalopholis cyanostigma	PX905050.1	9.17	
+KU943514.1	GenBank	Cephalopholis argus	Taiwan	BOLD:AAC4475	17.47	Cephalopholis fulva	KF929697.1	16.85	closer_to_another_species;far_from_all_conspecifics
+KU943552.1	GenBank	Cephalopholis sonnerati	Taiwan	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.36	
+KU668622.1	GenBank	Cephalopholis sexmaculata	Not recorded	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	3.51	
+KU668630.1	GenBank	Cephalopholis polleni	Not recorded	BOLD:AAK0631	0	Cephalopholis igarashiensis	MH707707.1	11.43	
+KU668631.1	GenBank	Cephalopholis sonnerati	Not recorded	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+KU668632.1	GenBank	Cephalopholis sonnerati	Not recorded	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+KU668633.1	GenBank	Cephalopholis sonnerati	Not recorded	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+KU668634.1	GenBank	Cephalopholis sonnerati	Not recorded	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+KU668641.1	GenBank	Cephalopholis argus	Not recorded	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+KU668644.1	GenBank	Cephalopholis miniata	Not recorded	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+KU668645.1	GenBank	Cephalopholis miniata	Not recorded	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+KU668646.1	GenBank	Cephalopholis miniata	Not recorded	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+KU668647.1	GenBank	Cephalopholis cyanostigma	Not recorded	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+KU668655.1	GenBank	Cephalopholis spiloparaea	Not recorded	BOLD:AAB5432	0	Cephalopholis aurantia	GU673953.1	0	
+KU668656.1	GenBank	Cephalopholis igarashiensis	Not recorded	BOLD:AAE9793	0	Cephalopholis polleni	HM422434.1	11.43	
+KU191068.1	GenBank	Cephalopholis miniata	Saudi Arabia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.36	
+KU191069.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	OR524296.1	7.2	
+KU191256.1	GenBank	Cephalopholis miniata	Saudi Arabia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.18	
+KU191264.1	GenBank	Cephalopholis miniata	Saudi Arabia	BOLD:AAC0216	0.18	Cephalopholis sexmaculata	OZ556110.1	0.36	
+KX758564.1	GenBank	Cephalopholis taeniops	Not recorded	BOLD:ABX9081	0	Cephalopholis leopardus	KF929699.1	10.15	
+KX758568.1	GenBank	Cephalopholis nigri	Not recorded	BOLD:ACC1733	0	Cephalopholis boenak	FOAO1410-18	14.64	
+KY371318.1	GenBank	Cephalopholis boenak	China	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+KY675600.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	OR524296.1	7.13	
+KY675922.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	OR524296.1	7.54	
+KY676052.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	OR524296.1	7.13	
+KY676090.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	OR524296.1	7.13	
+KY676116.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	OR524296.1	7.54	
+MF185407.1	GenBank	Cephalopholis argus	Not recorded	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.08	
+MF185408.1	GenBank	Cephalopholis argus	Not recorded	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+MF185409.1	GenBank	Cephalopholis argus	Not recorded	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+MF185410.1	GenBank	Cephalopholis argus	Not recorded	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+MF185411.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+MF185412.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0.17	Cephalopholis cyanostigma	OQ386211.1	8.75	
+MF185413.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+MF185414.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+MF185415.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+MF185416.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+MF185417.1	GenBank	Cephalopholis formosa	Not recorded	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.44	
+MF185418.1	GenBank	Cephalopholis formosa	Not recorded	BOLD:AAF0621	0.17	Cephalopholis cyanostigma	PX905050.1	6.24	
+MF185419.1	GenBank	Cephalopholis miniata	Not recorded	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+MF185420.1	GenBank	Cephalopholis miniata	Not recorded	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+MF185421.1	GenBank	Cephalopholis miniata	Not recorded	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+MF185422.1	GenBank	Cephalopholis sexmaculata	Not recorded	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	3.9	
+MF185423.1	GenBank	Cephalopholis sexmaculata	Not recorded	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	3.71	
+MF185424.1	GenBank	Cephalopholis sonnerati	Not recorded	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+MF185425.1	GenBank	Cephalopholis sonnerati	Not recorded	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.5	
+MF185426.1	GenBank	Cephalopholis sonnerati	Not recorded	BOLD:AAD4737	0.17	Cephalopholis argus	FJ237556.1	0.5	
+MF185427.1	GenBank	Cephalopholis sonnerati	Not recorded	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+MF185428.1	GenBank	Cephalopholis urodeta	Not recorded	BOLD:AAC4202	0.18	Cephalopholis nigripinnis	KM226230.1	0.33	
+MF185429.1	GenBank	Cephalopholis urodeta	Not recorded	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+MF999195.1	GenBank	Cephalopholis fulva	Brazil	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.45	
+MF123774.1	GenBank	Cephalopholis hemistiktos	Israel	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.75	
+MH235616.1	GenBank	Cephalopholis boenak	Myanmar	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+MH235617.1	GenBank	Cephalopholis formosa	Myanmar	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.65	
+MH235618.1	GenBank	Cephalopholis formosa	Myanmar	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.44	
+MH331692.1	GenBank	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	OR524296.1	7.2	
+MH331693.1	GenBank	Cephalopholis hemistiktos	Oman	BOLD:AAW6020	0	Cephalopholis leopardus	OR524296.1	7.2	
+MH331694.1	GenBank	Cephalopholis miniata	Australia	BOLD:AAC0216	0.18	Cephalopholis sexmaculata	OZ556110.1	0	closer_to_another_species
+MH331695.1	GenBank	Cephalopholis miniata	Saudi Arabia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.36	
+MH331696.1	GenBank	Cephalopholis sexmaculata	Saudi Arabia	BOLD:AAE4051	0.33	Cephalopholis miniata	MH331694.1	4.09	
+MH311293.1	GenBank	Cephalopholis boenak	Bangladesh	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.75	
+MH085805.1	GenBank	Cephalopholis miniata	Not recorded	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+MH085806.1	GenBank	Cephalopholis sonnerati	Not recorded	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+MH707291.1	GenBank	Cephalopholis oligosticta	Egypt	BOLD:ADJ9433	0	Cephalopholis sonnerati	JN208563.1	2.92	
+MH707297.1	GenBank	Cephalopholis sexmaculata	Egypt	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	3.71	
+MH707301.1	GenBank	Cephalopholis miniata	Egypt	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.35	
+MH707302.1	GenBank	Cephalopholis miniata	Egypt	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+MH707304.1	GenBank	Cephalopholis argus	Egypt	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.24	
+MH707305.1	GenBank	Cephalopholis argus	Egypt	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.04	
+MH707306.1	GenBank	Cephalopholis hemistiktos	Egypt	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.95	
+MH707307.1	GenBank	Cephalopholis hemistiktos	Egypt	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.35	
+MH707308.1	GenBank	Cephalopholis hemistiktos	Egypt	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.35	
+MH429359.1	GenBank	Cephalopholis formosa	Bangladesh	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.44	
+MK340596.1	GenBank	Cephalopholis boenak	Bangladesh	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.74	
+MK340597.1	GenBank	Cephalopholis formosa	Bangladesh	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	7.07	
+MK340598.1	GenBank	Cephalopholis formosa	Bangladesh	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	7.07	
+MK340599.1	GenBank	Cephalopholis formosa	Bangladesh	BOLD:AAF0621	0	Cephalopholis cyanostigma	OR829795.1	7.21	
+MK657264.1	GenBank	Cephalopholis urodeta	French Polynesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+MK657398.1	GenBank	Cephalopholis urodeta	French Polynesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064362.1	0	
+MK657455.1	GenBank	Cephalopholis urodeta	French Polynesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0.17	
+MK657576.1	GenBank	Cephalopholis spiloparaea	French Polynesia	BOLD:AAE4050	0	Cephalopholis miniata	MW423580.1	0	
+MK657581.1	GenBank	Cephalopholis urodeta	French Polynesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+MK657793.1	GenBank	Cephalopholis urodeta	French Polynesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+MK657950.1	GenBank	Cephalopholis sexmaculata	French Polynesia	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	4.09	
+MK658032.1	GenBank	Cephalopholis leopardus	French Polynesia	BOLD:AAD9032	0	Cephalopholis spiloparaea	KJ594963.1	6.46	
+MK658047.1	GenBank	Cephalopholis urodeta	French Polynesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+MK658149.1	GenBank	Cephalopholis spiloparaea	French Polynesia	BOLD:AAE4050	0	Cephalopholis miniata	MW423580.1	0	
+MK658158.1	GenBank	Cephalopholis urodeta	French Polynesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+MK658245.1	GenBank	Cephalopholis argus	French Polynesia	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+MK658331.1	GenBank	Cephalopholis argus	French Polynesia	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.5	
+MK658481.1	GenBank	Cephalopholis urodeta	French Polynesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064362.1	0	
+MK658630.1	GenBank	Cephalopholis urodeta	French Polynesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064362.1	0	
+MK566842.1	GenBank	Cephalopholis sexmaculata	French Polynesia	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	4.09	
+MK566843.1	GenBank	Cephalopholis sonnerati	French Polynesia	BOLD:AAB5432	0	Cephalopholis aurantia	GU673953.1	0.17	
+MH707701.1	GenBank	Cephalopholis boenak	Japan		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+MH707702.1	GenBank	Cephalopholis boenak	Japan		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+MH707703.1	GenBank	Cephalopholis boenak	Japan		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+MH707704.1	GenBank	Cephalopholis cyanostigma	Not recorded		0	Cephalopholis microprion	FJ237608.1	0.67	
+MH707705.1	GenBank	Cephalopholis formosa	Not recorded		0	Cephalopholis cyanostigma	PX905050.1	6.24	
+MH707706.1	GenBank	Cephalopholis formosa	Not recorded		0	Cephalopholis cyanostigma	PX905050.1	6.24	
+MH707707.1	GenBank	Cephalopholis igarashiensis	Not recorded		0	Cephalopholis polleni	HM422434.1	11.23	
+MH707708.1	GenBank	Cephalopholis igarashiensis	Japan		0	Cephalopholis polleni	HM422434.1	11.23	
+MH707709.1	GenBank	Cephalopholis igarashiensis	Japan		0.17	Cephalopholis polleni	HM422434.1	11.23	
+MH707710.1	GenBank	Cephalopholis igarashiensis	Japan		0	Cephalopholis polleni	HM422434.1	11.23	
+MH707711.1	GenBank	Cephalopholis leopardus	Seychelles		0	Cephalopholis spiloparaea	KJ594963.1	6.87	
+MH707712.1	GenBank	Cephalopholis leopardus	Seychelles		0	Cephalopholis spiloparaea	KJ594963.1	6.87	
+MH707713.1	GenBank	Cephalopholis nigri	South Africa		0.17	Cephalopholis boenak	FOAO1410-18	14.26	
+MH707714.1	GenBank	Cephalopholis nigripinnis	South Africa		0	Cephalopholis urodeta	JQ349869.1	0	
+MH707715.1	GenBank	Cephalopholis polleni	Not recorded		0	Cephalopholis igarashiensis	MH707707.1	11.43	
+MH707716.1	GenBank	Cephalopholis polleni	Not recorded		0	Cephalopholis igarashiensis	MH707707.1	11.47	
+MH707717.1	GenBank	Cephalopholis taeniops	Sao Tome and Principe		0	Cephalopholis leopardus	KF929699.1	10.7	
+MH707718.1	GenBank	Cephalopholis taeniops	Sao Tome and Principe		0	Cephalopholis leopardus	KF929699.1	10.7	
+MK777595.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0.18	Cephalopholis cyanostigma	OQ386211.1	8.87	
+MK777597.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.65	
+MN560821.1	GenBank	Cephalopholis hemistiktos	Not recorded	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.35	
+MN560861.1	GenBank	Cephalopholis hemistiktos	Not recorded	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.35	
+MN560892.1	GenBank	Cephalopholis hemistiktos	Not recorded	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.35	
+MN560966.1	GenBank	Cephalopholis hemistiktos	Not recorded	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.35	
+MK216570.1	GenBank	Cephalopholis hemistiktos	Not recorded	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.65	
+MT076831.1	GenBank	Cephalopholis hemistiktos	Not recorded	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.75	
+MT076832.1	GenBank	Cephalopholis hemistiktos	Not recorded	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.55	
+MT076833.1	GenBank	Cephalopholis hemistiktos	Not recorded	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.55	
+MT076834.1	GenBank	Cephalopholis hemistiktos	Not recorded	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.55	
+MT076835.1	GenBank	Cephalopholis hemistiktos	Not recorded	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.55	
+MN257517.1	GenBank	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+MN869950.1	GenBank	Cephalopholis urodeta	Indonesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064362.1	0	
+MN869954.1	GenBank	Cephalopholis spiloparaea	Indonesia	BOLD:AAE4050	0	Cephalopholis miniata	MW423580.1	0.33	
+MN869961.1	GenBank	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+MN869967.1	GenBank	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+MN869981.1	GenBank	Cephalopholis boenak	Indonesia	BOLD:AAB3684	0	Cephalopholis miniata	FTWS476-09	8.01	
+MN870001.1	GenBank	Cephalopholis argus	Indonesia	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+MN870002.1	GenBank	Cephalopholis sexmaculata	Indonesia	BOLD:AAE4051	0.17	Cephalopholis miniata	MH331694.1	4.29	
+MN870005.1	GenBank	Cephalopholis sexmaculata	Indonesia	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	3.9	
+MN870029.1	GenBank	Cephalopholis boenak	Indonesia	BOLD:AAB3684	0.17	Cephalopholis miniata	FTWS476-09	8.39	
+MN870034.1	GenBank	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+MN870098.1	GenBank	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.67	
+MN870107.1	GenBank	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.67	
+MN870108.1	GenBank	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+MN870147.1	GenBank	Cephalopholis sexmaculata	Indonesia	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	4.09	
+MN870181.1	GenBank	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+MN870241.1	GenBank	Cephalopholis urodeta	Indonesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+MN870280.1	GenBank	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.67	
+MN870305.1	GenBank	Cephalopholis urodeta	Indonesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0.17	
+MN870316.1	GenBank	Cephalopholis urodeta	Indonesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+MN870343.1	GenBank	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+MN870373.1	GenBank	Cephalopholis aurantia	Indonesia	BOLD:AAB5432	0	Cephalopholis spiloparaea	KU668655.1	0	
+MN870379.1	GenBank	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+MN870393.1	GenBank	Cephalopholis argus	Indonesia	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+MN870407.1	GenBank	Cephalopholis boenak	Indonesia	BOLD:AAB3684	0.17	Cephalopholis miniata	FTWS476-09	7.81	
+MN870412.1	GenBank	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+MN870413.1	GenBank	Cephalopholis microprion	Indonesia	BOLD:AAF0629	0	Cephalopholis cyanostigma	OQ386211.1	5.78	
+MN870445.1	GenBank	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.67	
+MN870451.1	GenBank	Cephalopholis spiloparaea	Indonesia	BOLD:AAE4050	0	Cephalopholis miniata	MW423580.1	0.33	
+MN870482.1	GenBank	Cephalopholis argus	Indonesia	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+MN870508.1	GenBank	Cephalopholis sexmaculata	Indonesia	BOLD:AAE4051	0.17	Cephalopholis miniata	MH331694.1	3.9	
+MN870536.1	GenBank	Cephalopholis boenak	Indonesia	BOLD:AAB3684	0	Cephalopholis miniata	FTWS476-09	8.01	
+MN870564.1	GenBank	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+MN870577.1	GenBank	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+MN870587.1	GenBank	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+MN870605.1	GenBank	Cephalopholis urodeta	Indonesia	BOLD:AAC4202	0.17	Cephalopholis nigripinnis	KU064366.1	0	closer_to_another_species
+MN870606.1	GenBank	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.67	
+MN733543.1	GenBank	Cephalopholis argus	Micronesia, Federated States of	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	12.9	
+MW034147.1	GenBank	Cephalopholis leopardus	Not recorded	BOLD:AAD9032	0.17	Cephalopholis spiloparaea	KJ594963.1	6.67	
+MW376332.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+MW376341.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+MW376342.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.38	
+MW387307.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+MW387309.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+MW387334.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+MW387363.1	GenBank	Cephalopholis formosa	Singapore		0	Cephalopholis cyanostigma	PX905050.1	6.65	
+MW387389.1	GenBank	Cephalopholis formosa	Singapore		0	Cephalopholis cyanostigma	PX905050.1	6.44	
+MN708800.1	GenBank	Cephalopholis boenak	Viet Nam	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+MN708801.1	GenBank	Cephalopholis boenak	Viet Nam	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.43	
+MN708802.1	GenBank	Cephalopholis boenak	Viet Nam	BOLD:AAB3684	0.17	Cephalopholis cyanostigma	OQ386211.1	8.74	
+MN708803.1	GenBank	Cephalopholis boenak	Viet Nam	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.63	
+MN708805.1	GenBank	Cephalopholis boenak	Viet Nam	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.43	
+MN708806.1	GenBank	Cephalopholis boenak	Viet Nam	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.46	
+MN708807.1	GenBank	Cephalopholis cyanostigma	Viet Nam	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+MN708808.1	GenBank	Cephalopholis cyanostigma	Viet Nam	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.67	
+MN708809.1	GenBank	Cephalopholis formosa	Viet Nam	BOLD:AAF0621	0.17	Cephalopholis cyanostigma	PX905050.1	6.45	
+MN708810.1	GenBank	Cephalopholis formosa	Viet Nam	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.25	
+MN708811.1	GenBank	Cephalopholis miniata	Viet Nam	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+MN708812.1	GenBank	Cephalopholis sonnerati	Viet Nam	BOLD:AAD4737	0.17	Cephalopholis argus	FJ237556.1	0.5	
+MN708813.1	GenBank	Cephalopholis sonnerati	Viet Nam	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.17	
+MN708814.1	GenBank	Cephalopholis sonnerati	Viet Nam	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.34	
+MN708815.1	GenBank	Cephalopholis sonnerati	Viet Nam	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+MN708816.1	GenBank	Cephalopholis sonnerati	Viet Nam	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+MN708817.1	GenBank	Cephalopholis urodeta	Viet Nam	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+MW828604.1	GenBank	Cephalopholis formosa	Bangladesh	BOLD:AAF0621	0.18	Cephalopholis cyanostigma	PX905050.1	6.63	
+MW423580.1	GenBank	Cephalopholis miniata	Not recorded		11.2	Cephalopholis spiloparaea	GU673736.1	0	closer_to_another_species;far_from_all_conspecifics
+MN747936.2	GenBank	Cephalopholis formosa	India		0.52	Cephalopholis cyanostigma	PX905050.1	6.92	
+MZ606163.1	GenBank	Cephalopholis sonnerati	Not recorded	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+MZ606206.1	GenBank	Cephalopholis sonnerati	Not recorded	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+MZ411547.1	GenBank	Cephalopholis urodeta	China		0	Cephalopholis nigripinnis	KM226226.1	0	
+OM273099.1	GenBank	Cephalopholis boenak	Indonesia		0.5	Cephalopholis cyanostigma	OQ386211.1	8.94	
+OM273100.1	GenBank	Cephalopholis leopardus	Indonesia	BOLD:AAD9032	0	Cephalopholis spiloparaea	KJ594963.1	6.67	
+OM273101.1	GenBank	Cephalopholis leopardus	Indonesia	BOLD:AAD9032	0	Cephalopholis spiloparaea	KJ594963.1	6.87	
+OM273102.1	GenBank	Cephalopholis leopardus	Indonesia	BOLD:AAD9032	0.17	Cephalopholis spiloparaea	KJ594963.1	7.08	
+OM273103.1	GenBank	Cephalopholis leopardus	Indonesia	BOLD:AAD9032	0	Cephalopholis spiloparaea	KJ594963.1	6.87	
+OM273104.1	GenBank	Cephalopholis leopardus	Indonesia	BOLD:AAD9032	0	Cephalopholis spiloparaea	KJ594963.1	6.87	
+OM273105.1	GenBank	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+OM273106.1	GenBank	Cephalopholis miniata	Indonesia	BOLD:AAC0216	1.21	Cephalopholis sexmaculata	OZ556110.1	1.51	
+OM273107.1	GenBank	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+OM273108.1	GenBank	Cephalopholis sonnerati	Indonesia		0	Cephalopholis argus	FJ237556.1	0.33	
+OM273109.1	GenBank	Cephalopholis sonnerati	Indonesia		0	Cephalopholis argus	FJ237556.1	0.33	
+OM273110.1	GenBank	Cephalopholis sonnerati	Indonesia		0	Cephalopholis argus	FJ237556.1	0.33	
+OM273111.1	GenBank	Cephalopholis sonnerati	Indonesia		0	Cephalopholis argus	FJ237556.1	0.33	
+OM328296.1	GenBank	Cephalopholis formosa	Indonesia		0	Cephalopholis cyanostigma	PX905050.1	6.65	
+OM328297.1	GenBank	Cephalopholis formosa	Indonesia		0	Cephalopholis cyanostigma	PX905050.1	6.65	
+OM328298.1	GenBank	Cephalopholis formosa	Indonesia		0	Cephalopholis cyanostigma	PX905050.1	6.44	
+OM328299.1	GenBank	Cephalopholis formosa	Indonesia		0	Cephalopholis cyanostigma	PX905050.1	6.65	
+OM328300.1	GenBank	Cephalopholis formosa	Indonesia		0	Cephalopholis cyanostigma	PX905050.1	6.65	
+OM328301.1	GenBank	Cephalopholis formosa	Indonesia		0	Cephalopholis cyanostigma	PX905050.1	6.44	
+OM328302.1	GenBank	Cephalopholis formosa	Indonesia		0	Cephalopholis cyanostigma	PX905050.1	6.44	
+OM328303.1	GenBank	Cephalopholis formosa	Indonesia		0	Cephalopholis cyanostigma	PX905050.1	6.44	
+OM328304.1	GenBank	Cephalopholis formosa	Indonesia		0	Cephalopholis cyanostigma	PX905050.1	6.44	
+OM328305.1	GenBank	Cephalopholis formosa	Malaysia		0	Cephalopholis cyanostigma	PX905050.1	6.44	
+OM328306.1	GenBank	Cephalopholis formosa	Malaysia		0	Cephalopholis cyanostigma	PX905050.1	6.44	
+OM328307.1	GenBank	Cephalopholis formosa	Malaysia		0	Cephalopholis cyanostigma	PX905050.1	6.44	
+OM328308.1	GenBank	Cephalopholis formosa	Indonesia		0	Cephalopholis cyanostigma	PX905050.1	6.65	
+OM328309.1	GenBank	Cephalopholis formosa	Indonesia		0	Cephalopholis cyanostigma	PX905050.1	6.65	
+OM328310.1	GenBank	Cephalopholis formosa	Indonesia		0	Cephalopholis cyanostigma	PX905050.1	6.65	
+OM328311.1	GenBank	Cephalopholis formosa	Indonesia		0	Cephalopholis cyanostigma	PX905050.1	6.44	
+OM328312.1	GenBank	Cephalopholis formosa	Indonesia		0	Cephalopholis cyanostigma	PX905050.1	6.65	
+OM328313.1	GenBank	Cephalopholis formosa	Indonesia		0	Cephalopholis cyanostigma	PX905050.1	6.65	
+OM328314.1	GenBank	Cephalopholis formosa	Malaysia		0	Cephalopholis cyanostigma	PX905050.1	6.44	
+MW498557.1	GenBank	Cephalopholis formosa	Malaysia	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.03	
+MT888912.1	GenBank	Cephalopholis aurantia	Mauritius		0.33	Cephalopholis spiloparaea	BIFZD684-17	0.33	
+MT888913.1	GenBank	Cephalopholis polleni	Mauritius	BOLD:AAK0631	0	Cephalopholis igarashiensis	MH707707.1	11.23	
+MT888914.1	GenBank	Cephalopholis sonnerati	Mauritius		0	Cephalopholis argus	FJ237556.1	1.68	
+MT888915.1	GenBank	Cephalopholis spiloparaea	Mauritius	BOLD:AAE4050	0.33	Cephalopholis miniata	MW423580.1	0.33	
+MT888916.1	GenBank	Cephalopholis urodeta	Mauritius	BOLD:AAC4202	0.17	Cephalopholis nigripinnis	KU064360.1	0.17	
+MT888917.1	GenBank	Cephalopholis urodeta	Mauritius	BOLD:AAC4202	0.33	Cephalopholis nigripinnis	KU064493.1	0	closer_to_another_species
+ON194156.1	GenBank	Cephalopholis sonnerati	India	BOLD:AAD4737	0.17	Cephalopholis argus	FJ237556.1	0.5	
+ON228385.1	GenBank	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.03	
+ON564518.1	GenBank	Cephalopholis sonnerati	India	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+ON573367.1	GenBank	Cephalopholis sonnerati	India	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.67	
+MW560467.1	GenBank	Cephalopholis leopardus	Not recorded		0	Cephalopholis spiloparaea	KJ594963.1	6.46	
+MW560468.1	GenBank	Cephalopholis spiloparaea	Not recorded		0.17	Cephalopholis miniata	MW423580.1	0.17	
+OP720934.1	GenBank	Cephalopholis argus	Cook Islands	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.5	
+OP720935.1	GenBank	Cephalopholis argus	Cook Islands	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+OP852325.1	GenBank	Cephalopholis boenak	Indonesia		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+OP852326.1	GenBank	Cephalopholis boenak	Indonesia		0.17	Cephalopholis cyanostigma	OQ386211.1	8.76	
+OQ179564.1	GenBank	Cephalopholis microprion	Philippines		0	Cephalopholis cyanostigma	KP194176.1	6	
+OQ179565.1	GenBank	Cephalopholis boenak	Philippines		0	Cephalopholis cyanostigma	KP194176.1	8.49	
+OQ553097.1	GenBank	Cephalopholis boenak	China		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+OQ553098.1	GenBank	Cephalopholis boenak	China		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+OQ553099.1	GenBank	Cephalopholis boenak	China		0	Cephalopholis cyanostigma	OQ386211.1	8.77	
+OQ553100.1	GenBank	Cephalopholis boenak	China		0	Cephalopholis cyanostigma	OQ386211.1	8.38	
+OQ385423.1	GenBank	Cephalopholis cyanostigma	Philippines	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+OQ385437.1	GenBank	Cephalopholis miniata	Philippines	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+OQ385495.1	GenBank	Cephalopholis spiloparaea	Philippines	BOLD:AAE4050	0.17	Cephalopholis miniata	MW423580.1	0.17	
+OQ385510.1	GenBank	Cephalopholis miniata	Philippines	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+OQ385584.1	GenBank	Cephalopholis spiloparaea	Philippines	BOLD:AAE4050	0	Cephalopholis miniata	MW423580.1	0	
+OQ385608.1	GenBank	Cephalopholis argus	Philippines	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.08	
+OQ385681.1	GenBank	Cephalopholis argus	Philippines	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+OQ385706.1	GenBank	Cephalopholis sonnerati	Philippines	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+OQ385726.1	GenBank	Cephalopholis sexmaculata	Philippines	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	3.9	
+OQ385925.1	GenBank	Cephalopholis aurantia	Philippines	BOLD:AAB5432	0	Cephalopholis spiloparaea	KU668655.1	0	
+OQ385995.1	GenBank	Cephalopholis cyanostigma	Philippines	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+OQ386086.1	GenBank	Cephalopholis aurantia	Philippines	BOLD:AAB5432	0	Cephalopholis spiloparaea	KU668655.1	0	
+OQ386211.1	GenBank	Cephalopholis cyanostigma	Philippines	BOLD:AAC0217	0	Cephalopholis miniata	FTWS476-09	0.33	
+OQ386243.1	GenBank	Cephalopholis leopardus	Philippines	BOLD:AAD9032	0	Cephalopholis spiloparaea	KJ594963.1	6.46	
+OQ386303.1	GenBank	Cephalopholis miniata	Philippines	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.33	
+OQ386636.1	GenBank	Cephalopholis miniata	Philippines	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.33	
+OQ386708.1	GenBank	Cephalopholis sonnerati	Philippines	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+OQ386711.1	GenBank	Cephalopholis leopardus	Philippines	BOLD:AAD9032	0	Cephalopholis spiloparaea	KJ594963.1	6.46	
+OQ386775.1	GenBank	Cephalopholis formosa	Philippines	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.44	
+OQ386820.1	GenBank	Cephalopholis aurantia	Philippines	BOLD:AAB5432	0	Cephalopholis spiloparaea	KU668655.1	0	
+OQ386847.1	GenBank	Cephalopholis spiloparaea	Philippines	BOLD:AAE4050	0	Cephalopholis miniata	MW423580.1	0	
+OQ386886.1	GenBank	Cephalopholis polleni	Philippines	BOLD:AAK0631	0	Cephalopholis igarashiensis	MH707707.1	11.23	
+OQ386947.1	GenBank	Cephalopholis spiloparaea	Philippines	BOLD:AAE4050	0	Cephalopholis miniata	MW423580.1	0	
+OQ387098.1	GenBank	Cephalopholis igarashiensis	Philippines	BOLD:AAE9793	0	Cephalopholis polleni	HM422434.1	11.23	
+OQ387239.1	GenBank	Cephalopholis sexmaculata	Philippines	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	3.51	
+OQ387248.1	GenBank	Cephalopholis aurantia	Philippines	BOLD:AAB5432	0.17	Cephalopholis spiloparaea	KU668655.1	0.33	
+OQ387254.1	GenBank	Cephalopholis sonnerati	Philippines	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+OQ387333.1	GenBank	Cephalopholis argus	Philippines	BOLD:AAC4474	0.33	Cephalopholis microprion	OQ179564.1	13.19	
+OQ387535.1	GenBank	Cephalopholis cyanostigma	Philippines	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.67	
+OQ387545.1	GenBank	Cephalopholis boenak	Philippines	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+OQ387548.1	GenBank	Cephalopholis boenak	Philippines	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+OQ387557.1	GenBank	Cephalopholis miniata	Philippines	BOLD:AAC0216	0.17	Cephalopholis sexmaculata	OZ556110.1	0.5	
+OQ387627.1	GenBank	Cephalopholis formosa	Philippines	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.44	
+OQ387722.1	GenBank	Cephalopholis boenak	Philippines	BOLD:AAB3684	0	Cephalopholis cyanostigma	KP194176.1	8.57	
+OQ387830.1	GenBank	Cephalopholis aitha	Philippines	BOLD:ADL0078	0.17	Cephalopholis spiloparaea	OR524307.1	0	closer_to_another_species
+OR114115.1	GenBank	Cephalopholis microprion	Philippines		0	Cephalopholis cyanostigma	OR829795.1	5.36	
+OR114116.1	GenBank	Cephalopholis microprion	Philippines		0	Cephalopholis cyanostigma	OQ386211.1	5.68	
+OR114119.1	GenBank	Cephalopholis sexmaculata	Philippines		0	Cephalopholis miniata	MH331694.1	4.14	
+OR114120.1	GenBank	Cephalopholis urodeta	Philippines		0	Cephalopholis nigripinnis	KU064360.1	0	
+OR284493.1	GenBank	Cephalopholis argus	Mozambique		0	Cephalopholis microprion	GU674037.1	13.29	
+OR284494.1	GenBank	Cephalopholis boenak	Mozambique		0	Cephalopholis cyanostigma	PX905050.1	8.93	
+OR284495.1	GenBank	Cephalopholis boenak	Mozambique		0.18	Cephalopholis cyanostigma	PX905050.1	9.37	
+OR355826.1	GenBank	Cephalopholis hemistiktos	Tunisia		0	Cephalopholis leopardus	JQ431570.1	7.35	
+OR829788.1	GenBank	Cephalopholis sonnerati	Not recorded	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.35	
+OR829789.1	GenBank	Cephalopholis sonnerati	Not recorded	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.17	
+OR829794.1	GenBank	Cephalopholis cyanostigma	Not recorded	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	1.05	
+OR829795.1	GenBank	Cephalopholis cyanostigma	Not recorded	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.7	
+OR829798.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0	Cephalopholis cyanostigma	PX905050.1	8.94	
+OR829799.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0	Cephalopholis cyanostigma	KP194176.1	9.15	
+OR829800.1	GenBank	Cephalopholis formosa	Not recorded	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.34	
+OR829801.1	GenBank	Cephalopholis formosa	Not recorded	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.34	
+OR829806.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0	Cephalopholis cyanostigma	KP194176.1	8.76	
+OR829807.1	GenBank	Cephalopholis boenak	Not recorded	BOLD:AAB3684	0	Cephalopholis cyanostigma	KP194176.1	8.55	
+PP089651.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP089652.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP089653.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP089654.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.95	
+PP089655.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP089656.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP089657.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP089658.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP089659.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP089660.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP089661.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP089662.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP089663.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+PP089664.1	GenBank	Cephalopholis boenak	Singapore		0.17	Cephalopholis cyanostigma	OQ386211.1	8.37	
+PP089665.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP089666.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.77	
+PP089667.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP089668.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP195962.1	GenBank	Cephalopholis formosa	Malaysia		0	Cephalopholis cyanostigma	PX905050.1	6.52	
+OQ420715.1	GenBank	Cephalopholis taeniops	Not recorded		0	Cephalopholis leopardus	KF929699.1	10.7	
+PP422351.1	GenBank	Cephalopholis boenak	Philippines		0.54	Cephalopholis cyanostigma	OQ386211.1	8.76	
+PP422352.1	GenBank	Cephalopholis boenak	Philippines		0	Cephalopholis cyanostigma	OQ386211.1	8.55	
+PP422353.1	GenBank	Cephalopholis boenak	Philippines		0	Cephalopholis cyanostigma	OQ386211.1	8.75	
+PP422354.1	GenBank	Cephalopholis boenak	Philippines		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP032959.1	GenBank	Cephalopholis fulva	Brazil		0	Cephalopholis urodeta	PX905049.1	10.67	
+PP680539.1	GenBank	Cephalopholis sonnerati	Not recorded		0	Cephalopholis argus	FJ237556.1	0.35	
+PP680540.1	GenBank	Cephalopholis sonnerati	Not recorded		0	Cephalopholis argus	FJ237556.1	0.17	
+PP680545.1	GenBank	Cephalopholis cyanostigma	Not recorded		0	Cephalopholis microprion	FJ237608.1	1.05	
+PP680546.1	GenBank	Cephalopholis cyanostigma	Not recorded		0	Cephalopholis microprion	FJ237608.1	0.7	
+PP680549.1	GenBank	Cephalopholis boenak	Not recorded		0	Cephalopholis cyanostigma	PX905050.1	8.94	
+PP680550.1	GenBank	Cephalopholis boenak	Not recorded		0	Cephalopholis cyanostigma	KP194176.1	9.15	
+PP680551.1	GenBank	Cephalopholis formosa	Not recorded		0	Cephalopholis cyanostigma	PX905050.1	6.34	
+PP680552.1	GenBank	Cephalopholis formosa	Not recorded		0	Cephalopholis cyanostigma	PX905050.1	6.34	
+PP680557.1	GenBank	Cephalopholis boenak	Not recorded		0	Cephalopholis cyanostigma	KP194176.1	8.76	
+PP680558.1	GenBank	Cephalopholis boenak	Not recorded		0	Cephalopholis cyanostigma	KP194176.1	8.55	
+OR524291.1	GenBank	Cephalopholis aitha	Philippines	BOLD:ADL0078	0.17	Cephalopholis spiloparaea	OR524305.1	0	closer_to_another_species
+OR524292.1	GenBank	Cephalopholis boenak	Philippines	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.74	
+OR524293.1	GenBank	Cephalopholis boenak	Philippines	BOLD:AAB3684	0.17	Cephalopholis cyanostigma	OQ386211.1	8.94	
+OR524294.1	GenBank	Cephalopholis cyanostigma	Philippines	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+OR524295.1	GenBank	Cephalopholis cyanostigma	Philippines	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+OR524296.1	GenBank	Cephalopholis leopardus	Philippines	BOLD:AAD9032	0.17	Cephalopholis spiloparaea	KJ594963.1	6.67	
+OR524297.1	GenBank	Cephalopholis leopardus	Philippines	BOLD:AAD9032	0.36	Cephalopholis spiloparaea	KJ594963.1	6.85	
+OR524298.1	GenBank	Cephalopholis microprion	Philippines	BOLD:AAF0629	0	Cephalopholis cyanostigma	PX905050.1	5.43	
+OR524299.1	GenBank	Cephalopholis microprion	Philippines	BOLD:AAF0629	0.18	Cephalopholis cyanostigma	KP194176.1	5.91	
+OR524300.1	GenBank	Cephalopholis miniata	Philippines	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+OR524301.1	GenBank	Cephalopholis polleni	Philippines	BOLD:AAK0631	0	Cephalopholis igarashiensis	MH707707.1	11.43	
+OR524302.1	GenBank	Cephalopholis sexmaculata	Philippines	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	3.9	
+OR524303.1	GenBank	Cephalopholis sexmaculata	Philippines	BOLD:AAE4051	0	Cephalopholis miniata	MH331694.1	3.51	
+OR524304.1	GenBank	Cephalopholis sonnerati	Philippines	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+OR524305.1	GenBank	Cephalopholis spiloparaea	Philippines	BOLD:ADL0078	0	Cephalopholis aitha	OR524291.1	0	
+OR524306.1	GenBank	Cephalopholis spiloparaea	Philippines	BOLD:ADL0078	0	Cephalopholis aitha	OR524291.1	0	
+OR524307.1	GenBank	Cephalopholis spiloparaea	Philippines	BOLD:ADL0078	0.17	Cephalopholis aitha	OQ387830.1	0	closer_to_another_species
+PP758577.1	GenBank	Cephalopholis sonnerati	Not recorded		0	Cephalopholis argus	FJ237556.1	0.5	
+PP761990.1	GenBank	Cephalopholis sonnerati	Not recorded		0	Cephalopholis argus	FJ237556.1	0.5	
+PP813759.1	GenBank	Cephalopholis sonnerati	Not recorded		0	Cephalopholis argus	FJ237556.1	0.33	
+PP818238.1	GenBank	Cephalopholis boenak	China		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP818239.1	GenBank	Cephalopholis boenak	China		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP818240.1	GenBank	Cephalopholis boenak	China		0	Cephalopholis cyanostigma	OQ386211.1	8.77	
+PP818241.1	GenBank	Cephalopholis boenak	China		0	Cephalopholis cyanostigma	OQ386211.1	8.38	
+PP818253.1	GenBank	Cephalopholis boenak	China		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PP818274.1	GenBank	Cephalopholis boenak	China		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+OR918783.1	GenBank	Cephalopholis boenak	Pacific Ocean	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.95	
+PQ812595.1	GenBank	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+PV034982.1	GenBank	Cephalopholis cyanostigma	Australia	BOLD:AAC0217	0.33	Cephalopholis miniata	FTWS476-09	0.67	
+PV035015.1	GenBank	Cephalopholis boenak	Australia	BOLD:AAB3684	0.71	Cephalopholis cyanostigma	KP194176.1	8.55	
+PV035043.1	GenBank	Cephalopholis cyanostigma	Australia	BOLD:AAC0217	0	Cephalopholis miniata	KU942707.1	0.36	
+PV035050.1	GenBank	Cephalopholis boenak	Australia	BOLD:AAB3684	0.53	Cephalopholis cyanostigma	OQ386211.1	8.35	
+PV050621.1	GenBank	Cephalopholis argus	Wallis and Futuna	BOLD:AAC4474	0.17	Cephalopholis microprion	GU674037.1	13.29	
+PV050694.1	GenBank	Cephalopholis leopardus	Wallis and Futuna	BOLD:AAD9032	0	Cephalopholis spiloparaea	KJ594963.1	6.46	
+PV050695.1	GenBank	Cephalopholis urodeta	Wallis and Futuna	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+PV050754.1	GenBank	Cephalopholis urodeta	Wallis and Futuna	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+PV050798.1	GenBank	Cephalopholis argus	Wallis and Futuna	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+PV050799.1	GenBank	Cephalopholis urodeta	Wallis and Futuna	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+PP390490.1	GenBank	Cephalopholis panamensis	Peru		0	Cephalopholis cruentata	GU225173.1	5.19	
+PV276238.1	GenBank	Cephalopholis fulva	Curacao		0	Cephalopholis urodeta	PX905049.1	10.44	
+PV714180.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714183.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.75	
+PV714184.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.95	
+PV714187.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714188.1	GenBank	Cephalopholis boenak	Singapore		0.17	Cephalopholis cyanostigma	OQ386211.1	8.75	
+PV714191.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714192.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714193.1	GenBank	Cephalopholis boenak	Singapore		0.17	Cephalopholis cyanostigma	OQ386211.1	8.75	
+PV714194.1	GenBank	Cephalopholis boenak	Singapore		0.17	Cephalopholis cyanostigma	OQ386211.1	8.38	
+PV714199.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714201.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.38	
+PV714204.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714205.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714207.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+PV714210.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714211.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.94	
+PV714217.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714218.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714219.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714221.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714224.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714227.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.55	
+PV714230.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714232.1	GenBank	Cephalopholis boenak	Singapore		0.5	Cephalopholis cyanostigma	OQ386211.1	8.75	
+PV714238.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714241.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.75	
+PV714243.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714245.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714251.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714254.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714257.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.55	
+PV714258.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.75	
+PV714265.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714266.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714267.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714268.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714269.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.94	
+PV714276.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714279.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714280.1	GenBank	Cephalopholis boenak	Singapore		0.17	Cephalopholis cyanostigma	OQ386211.1	8.75	
+PV714282.1	GenBank	Cephalopholis boenak	Singapore		0.17	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714285.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714287.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714289.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714290.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714292.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+PV714296.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714297.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+PV714298.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+PV714300.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+PV714301.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714303.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+PV714308.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714310.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714311.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714314.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714317.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714321.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714325.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714328.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714330.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714333.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714335.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714336.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714340.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714349.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714350.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714356.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+PV714358.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714359.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.95	
+PV714360.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714363.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714364.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714365.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.77	
+PV714366.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714367.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714372.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714374.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714376.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714377.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714378.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714379.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714381.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.95	
+PV714384.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+PV714385.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714386.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714387.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.38	
+PV714388.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714392.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714396.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+PV714399.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714403.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714407.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714410.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714411.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.94	
+PV714412.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714415.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714416.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714417.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714421.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714422.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714423.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714424.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714425.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714426.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714428.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714432.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714433.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714435.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714436.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714440.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714441.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714448.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+PV714450.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714451.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PV714453.1	GenBank	Cephalopholis boenak	Singapore		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PQ628610.1	GenBank	Cephalopholis nigri	Guinea-Bissau	BOLD:ACC1733	0	Cephalopholis boenak	FOAH443-08	14.57	
+PQ628611.1	GenBank	Cephalopholis nigri	Guinea-Bissau	BOLD:ACC1733	0.17	Cephalopholis boenak	FOAO1410-18	14.53	
+PQ628612.1	GenBank	Cephalopholis taeniops	Guinea-Bissau	BOLD:ABX9081	0	Cephalopholis aurantia	GU673953.1	10.86	
+PV831252.1	GenBank	Cephalopholis boenak	Taiwan		0	Cephalopholis cyanostigma	PX905050.1	8.94	
+PV840053.1	GenBank	Cephalopholis formosa	India		0	Cephalopholis cyanostigma	PX905050.1	6.84	
+PV840054.1	GenBank	Cephalopholis formosa	India		0.17	Cephalopholis cyanostigma	PX905050.1	6.24	
+PV856701.1	GenBank	Cephalopholis nigripinnis	Taiwan	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583012.1	0	
+PV856766.1	GenBank	Cephalopholis boenak	Taiwan		0	Cephalopholis cyanostigma	OQ386211.1	8.29	
+PV856772.1	GenBank	Cephalopholis boenak	Taiwan		0	Cephalopholis cyanostigma	OQ386211.1	8.29	
+PV857194.1	GenBank	Cephalopholis urodeta	Taiwan	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064376.1	0	
+PV857246.1	GenBank	Cephalopholis urodeta	Taiwan	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0.18	
+PV857248.1	GenBank	Cephalopholis urodeta	Taiwan	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064365.1	0	
+PX317833.1	GenBank	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	OQ386211.1	6.66	
+PX578435.1	GenBank	Cephalopholis boenak	Viet Nam		0	Cephalopholis cyanostigma	OQ386211.1	8.75	
+PX905042.1	GenBank	Cephalopholis miniata	Indonesia		0	Cephalopholis sexmaculata	OZ556110.1	0.37	
+PX905043.1	GenBank	Cephalopholis miniata	Indonesia		0	Cephalopholis sexmaculata	OZ556110.1	0.37	
+PX905044.1	GenBank	Cephalopholis miniata	Indonesia		0	Cephalopholis sexmaculata	OZ556110.1	0.37	
+PX905045.1	GenBank	Cephalopholis miniata	Indonesia		0	Cephalopholis sexmaculata	OZ556110.1	0.18	
+PX905046.1	GenBank	Cephalopholis miniata	Indonesia		0	Cephalopholis sexmaculata	OZ556110.1	0.18	
+PX905047.1	GenBank	Cephalopholis urodeta	Indonesia		0	Cephalopholis nigripinnis	KU064360.1	0	
+PX905048.1	GenBank	Cephalopholis urodeta	Indonesia		0.18	Cephalopholis nigripinnis	KU064387.1	0.18	
+PX905049.1	GenBank	Cephalopholis urodeta	Indonesia		0	Cephalopholis nigripinnis	KU064387.1	0	
+PX905050.1	GenBank	Cephalopholis cyanostigma	Indonesia		0	Cephalopholis microprion	FJ237608.1	0.74	
+PX905115.1	GenBank	Cephalopholis miniata	Taiwan		0	Cephalopholis sexmaculata	OZ556110.1	0.18	
+PX905116.1	GenBank	Cephalopholis miniata	Taiwan		0	Cephalopholis sexmaculata	OZ556110.1	0.18	
+PX905117.1	GenBank	Cephalopholis urodeta	Taiwan		0	Cephalopholis nigripinnis	KM226226.1	0	
+PX905118.1	GenBank	Cephalopholis urodeta	Taiwan		0	Cephalopholis nigripinnis	KU064387.1	0	
+PX907319.1	GenBank	Cephalopholis cruentata	Netherlands Antilles	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.01	
+PX907320.1	GenBank	Cephalopholis cruentata	Netherlands Antilles	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.19	
+PX907321.1	GenBank	Cephalopholis cruentata	Netherlands Antilles	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.19	
+PX907322.1	GenBank	Cephalopholis cruentata	Netherlands Antilles	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.19	
+PX970086.1	GenBank	Cephalopholis argus	Philippines	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+PX987545.1	GenBank	Cephalopholis cruentata	Not recorded		0	Cephalopholis panamensis	OXF100-11	5.01	
+PX987546.1	GenBank	Cephalopholis fulva	Not recorded		0	Cephalopholis urodeta	PX905049.1	10.44	
+PX987547.1	GenBank	Cephalopholis panamensis	Not recorded		0	Cephalopholis cruentata	GU225173.1	5.19	
+PX804249.1	GenBank	Cephalopholis boenak	Pacific Ocean		0	Cephalopholis cyanostigma	OQ386211.1	8.95	
+MW239069.1	GenBank	Cephalopholis argus	Not recorded		0	Cephalopholis microprion	GU674037.1	13.29	
+PZ025848.1	GenBank	Cephalopholis boenak	Pacific Ocean		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PZ152962.1	GenBank	Cephalopholis sonnerati	Sri Lanka		0	Cephalopholis argus	FJ237556.1	0.33	
+PZ112805.1	GenBank	Cephalopholis boenak	Pacific Ocean		0	Cephalopholis cyanostigma	OQ386211.1	8.95	
+PZ143762.1	GenBank	Cephalopholis boenak	Pacific Ocean		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+PZ210640.1	GenBank	Cephalopholis boenak	Not recorded		0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+PZ210646.1	GenBank	Cephalopholis sexmaculata	Not recorded		0	Cephalopholis miniata	MH331694.1	3.9	
+PZ210647.1	GenBank	Cephalopholis miniata	Not recorded		0	Cephalopholis sexmaculata	OZ556110.1	0.33	
+PZ210649.1	GenBank	Cephalopholis leopardus	Not recorded		0	Cephalopholis spiloparaea	KJ594963.1	6.46	
+PZ210650.1	GenBank	Cephalopholis argus	Not recorded		0	Cephalopholis microprion	GU674037.1	13.29	
+PZ210651.1	GenBank	Cephalopholis sonnerati	Not recorded		0	Cephalopholis argus	FJ237556.1	0.33	
+PZ231520.1	GenBank	Cephalopholis microprion	Philippines	BOLD:AAF0629	0	Cephalopholis cyanostigma	OQ386211.1	5.96	
+PZ231545.1	GenBank	Cephalopholis microprion	Philippines	BOLD:AAF0629	0	Cephalopholis cyanostigma	PX905050.1	5.43	
+PZ253495.1	GenBank	Cephalopholis microprion	Not recorded		0	Cephalopholis cyanostigma	PX905050.1	5.43	
+PZ507583.1	GenBank	Cephalopholis aurantia	Pacific Ocean		0	Cephalopholis spiloparaea	KU668655.1	0	
+PZ574750.1	GenBank	Cephalopholis argus	Viet Nam		0	Cephalopholis microprion	GU674037.1	13.08	
+PZ574752.1	GenBank	Cephalopholis argus	Viet Nam		0	Cephalopholis microprion	GU674037.1	13.29	
+PZ554652.1	GenBank	Cephalopholis aurantia	Viet Nam		4.67	Cephalopholis spiloparaea	GU673736.1	0	closer_to_another_species;far_from_all_conspecifics
+PZ611788.1	GenBank	Cephalopholis argus	India		0	Cephalopholis microprion	GU674037.1	13.29	
+PZ612879.1	GenBank	Cephalopholis boenak	Viet Nam		0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+OZ541385.1	GenBank	Cephalopholis argus	Not recorded		0	Cephalopholis microprion	GU674037.1	13.5	
+OZ555956.1	GenBank	Cephalopholis aurantia	Not recorded		0	Cephalopholis spiloparaea	KU668655.1	0	
+OZ556069.1	GenBank	Cephalopholis aurantia	Australia		0	Cephalopholis spiloparaea	KU668655.1	0	
+OZ556071.1	GenBank	Cephalopholis miniata	Australia		0	Cephalopholis sexmaculata	OZ556110.1	0.33	
+OZ556101.1	GenBank	Cephalopholis boenak	Australia		0	Cephalopholis miniata	FTWS476-09	8.01	
+OZ556110.1	GenBank	Cephalopholis sexmaculata	Not recorded		3.61	Cephalopholis miniata	MH331694.1	0	closer_to_another_species;far_from_all_conspecifics
+OZ556148.1	GenBank	Cephalopholis aurantia	Australia		0	Cephalopholis spiloparaea	KU668655.1	0	
+OZ556861.1	GenBank	Cephalopholis sonnerati	Not recorded		0	Cephalopholis argus	FJ237556.1	0.33	
+OZ556204.1	GenBank	Cephalopholis miniata	Australia		0	Cephalopholis sexmaculata	OZ556110.1	0.33	
+QB069815.1	GenBank	Cephalopholis igarashiensis	Pacific Ocean		0	Cephalopholis polleni	HM422434.1	11.23	
+ANGBF39971-19	BOLD	Cephalopholis urodeta	Not recorded	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0.17	
+BIFZD147-17	BOLD	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+BIFZD151-17	BOLD	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.67	
+BIFZD185-17	BOLD	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+BIFZD186-17	BOLD	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.67	
+BIFZD190-17	BOLD	Cephalopholis boenak	Indonesia	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+BIFZD200-17	BOLD	Cephalopholis boenak	Indonesia	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.74	
+BIFZD201-17	BOLD	Cephalopholis urodeta	Indonesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	FADLI048-17	0	
+BIFZD202-17	BOLD	Cephalopholis argus	Indonesia	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.08	
+BIFZD206-17	BOLD	Cephalopholis boenak	Indonesia	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+BIFZD213-17	BOLD	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+BIFZD214-17	BOLD	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+BIFZD215-17	BOLD	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0.17	Cephalopholis sexmaculata	OZ556110.1	0.33	
+BIFZD216-17	BOLD	Cephalopholis urodeta	Indonesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064365.1	0	
+BIFZD218-17	BOLD	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.67	
+BIFZD219-17	BOLD	Cephalopholis urodeta	Indonesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	FADLI048-17	0	
+BIFZD220-17	BOLD	Cephalopholis urodeta	Indonesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+BIFZD222-17	BOLD	Cephalopholis urodeta	Indonesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064376.1	0	
+BIFZD231-17	BOLD	Cephalopholis argus	Indonesia	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+BIFZD234-17	BOLD	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.33	
+BIFZD252-17	BOLD	Cephalopholis boenak	Indonesia	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+BIFZD278-17	BOLD	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.83	
+BIFZD280-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+BIFZD293-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0.17	Cephalopholis urodeta	JN312862.1	0.17	
+BIFZD294-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0	Cephalopholis urodeta	KU064447.1	0	
+BIFZD322-17	BOLD	Cephalopholis sexmaculata	Indonesia	BOLD:AAE4051	0.5	Cephalopholis miniata	MH331694.1	4.09	
+BIFZD323-17	BOLD	Cephalopholis formosa	Indonesia	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.65	
+BIFZD656-17	BOLD	Cephalopholis urodeta	Indonesia	BOLD:AAB8386	17.4	Cephalopholis leopardus	OM273102.1	16.12	closer_to_another_species;far_from_all_conspecifics
+BIFZD658-17	BOLD	Cephalopholis urodeta	Indonesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0	
+BIFZD670-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+BIFZD676-17	BOLD	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.33	
+BIFZD679-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+BIFZD682-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0	Cephalopholis urodeta	JN312862.1	0	
+BIFZD684-17	BOLD	Cephalopholis spiloparaea	Indonesia	BOLD:AAI7557	3.24	Cephalopholis aurantia	JN312974.1	0	closer_to_another_species;far_from_all_conspecifics
+BIFZD685-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583012.1	0	
+BIFZD686-17	BOLD	Cephalopholis leopardus	Indonesia	BOLD:AAD9032	0	Cephalopholis spiloparaea	KJ594963.1	6.87	
+BIFZD687-17	BOLD	Cephalopholis leopardus	Indonesia	BOLD:AAD9032	0	Cephalopholis spiloparaea	KJ594963.1	6.87	
+BIFZD688-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAC4202	0.5	Cephalopholis nigripinnis	KU366479.1	0	closer_to_another_species
+BIFZD689-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAC4202	0.5	Cephalopholis nigripinnis	KU064371.1	0	closer_to_another_species
+BIFZD694-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+BIFZD695-17	BOLD	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+BIFZD699-17	BOLD	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+BIFZD721-17	BOLD	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+BIFZD723-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+BIFZD724-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+BIFZD725-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0.17	Cephalopholis argus	FJ237556.1	0.5	
+BIFZD731-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+BIFZD732-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+BIFZD733-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+BIFZD734-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+BIFZD739-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+BIFZD740-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+BIFZD748-17	BOLD	Cephalopholis boenak	Indonesia	BOLD:AAB3684	0.17	Cephalopholis cyanostigma	OQ386211.1	8.17	
+BIFZD749-17	BOLD	Cephalopholis boenak	Indonesia	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.37	
+BIFZD750-17	BOLD	Cephalopholis aurantia	Indonesia	BOLD:AAI7557	0	Cephalopholis spiloparaea	BIFZD684-17	0	
+BIFZD759-17	BOLD	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+BSCFA008-07	BOLD	Cephalopholis cruentata	Panama	BOLD:AAB3619	0.17	Cephalopholis panamensis	OXF100-11	5.02	
+BSCFA104-07	BOLD	Cephalopholis cruentata	Panama	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.01	
+BSCFA115-07	BOLD	Cephalopholis cruentata	Panama	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.01	
+BSCFA133-07	BOLD	Cephalopholis fulva	Panama	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.67	
+BSCFA141-07	BOLD	Cephalopholis fulva	Panama	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.67	
+BSCFA142-07	BOLD	Cephalopholis fulva	Panama	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.44	
+DRMRF025-23	BOLD	Cephalopholis boenak	Philippines	BOLD:AAB3684	0.17	Cephalopholis cyanostigma	OQ386211.1	8.75	
+DSLAG1192-11	BOLD	Cephalopholis sonnerati	South Africa	BOLD:AAB5431	0	Cephalopholis argus	FJ237556.1	1.51	
+DSLAG1193-11	BOLD	Cephalopholis sonnerati	South Africa	BOLD:AAB5431	0	Cephalopholis argus	FJ237556.1	1.68	
+DSLAR418-08	BOLD	Cephalopholis sonnerati	South Africa	BOLD:AAB5431	0	Cephalopholis argus	FJ237556.1	1.68	
+EGRPR051-07	BOLD	Cephalopholis cruentata	United States	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.44	
+FADLI022-17	BOLD	Cephalopholis argus	Indonesia	BOLD:AAC4474	0	Cephalopholis microprion	OQ179564.1	13.41	
+FADLI023-17	BOLD	Cephalopholis aurantia	Indonesia	BOLD:AAI7557	0	Cephalopholis spiloparaea	BIFZD684-17	0	
+FADLI024-17	BOLD	Cephalopholis aurantia	Indonesia	BOLD:AAI7557	0	Cephalopholis spiloparaea	BIFZD684-17	0	
+FADLI025-17	BOLD	Cephalopholis aurantia	Indonesia	BOLD:AAI7557	0.5	Cephalopholis spiloparaea	BIFZD684-17	0.5	
+FADLI026-17	BOLD	Cephalopholis aurantia	Indonesia	BOLD:AAI7557	0	Cephalopholis spiloparaea	BIFZD684-17	0	
+FADLI027-17	BOLD	Cephalopholis aurantia	Indonesia	BOLD:AAI7557	0	Cephalopholis spiloparaea	BIFZD684-17	0	
+FADLI028-17	BOLD	Cephalopholis formosa	Indonesia	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.65	
+FADLI029-17	BOLD	Cephalopholis formosa	Indonesia	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.65	
+FADLI030-17	BOLD	Cephalopholis formosa	Indonesia	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.44	
+FADLI031-17	BOLD	Cephalopholis formosa	Indonesia	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.65	
+FADLI032-17	BOLD	Cephalopholis formosa	Indonesia	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.65	
+FADLI033-17	BOLD	Cephalopholis leopardus	Indonesia	BOLD:AAD9032	0	Cephalopholis spiloparaea	KJ594963.1	6.87	
+FADLI034-17	BOLD	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+FADLI035-17	BOLD	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+FADLI036-17	BOLD	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+FADLI037-17	BOLD	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0.17	Cephalopholis sexmaculata	OZ556110.1	0.33	
+FADLI038-17	BOLD	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0.17	Cephalopholis sexmaculata	OZ556110.1	0.33	
+FADLI039-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0.17	Cephalopholis urodeta	JQ349871.1	0	closer_to_another_species
+FADLI040-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+FADLI041-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+FADLI042-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+FADLI043-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+FADLI044-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+FADLI045-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+FADLI046-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+FADLI047-17	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+FADLI048-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0	Cephalopholis urodeta	KU064409.1	0	
+FADLI049-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0	Cephalopholis urodeta	JQ349869.1	0	
+FADLI050-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0.17	Cephalopholis urodeta	JQ349869.1	0.17	
+FADLI051-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0	Cephalopholis urodeta	KU064409.1	0	
+FADLI052-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+FADLI053-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0.17	Cephalopholis urodeta	MN870605.1	0.17	
+FADLI054-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0	Cephalopholis urodeta	JQ349869.1	0	
+FADLI055-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583012.1	0	
+FADLI056-17	BOLD	Cephalopholis nigripinnis	Indonesia	BOLD:AAC4202	0	Cephalopholis urodeta	KU064424.1	0	
+FGBOF007-13	BOLD	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.03	
+FGBOF031-13	BOLD	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6	
+FGBOF033-13	BOLD	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.03	
+FGBOF034-13	BOLD	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.03	
+FGBOF036-13	BOLD	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.21	
+FGBOF037-13	BOLD	Cephalopholis formosa	India	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6	
+FJMI185-10	BOLD	Cephalopholis cruentata	Mexico	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.01	
+FOA575-04	BOLD	Cephalopholis igarashiensis	Australia	BOLD:AAE9793	0.17	Cephalopholis polleni	HM422434.1	11.27	
+FOA581-04	BOLD	Cephalopholis sonnerati	Australia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.33	
+FOA582-04	BOLD	Cephalopholis sonnerati	Australia	BOLD:AAD4737	0.17	Cephalopholis argus	FJ237556.1	0.83	
+FOAH443-08	BOLD	Cephalopholis boenak	Australia	BOLD:AAB3684	0.17	Cephalopholis miniata	FTWS476-09	8.39	
+FOAH891-08	BOLD	Cephalopholis miniata	Indonesia	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+FOAH899-08	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.5	
+FOAI010-08	BOLD	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.67	
+FOAK967-10	BOLD	Cephalopholis boenak	Indonesia	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+FOAK995-10	BOLD	Cephalopholis urodeta	Indonesia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+FOAM013-10	BOLD	Cephalopholis boenak	Indonesia	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+FOAM059-10	BOLD	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis microprion	FJ237608.1	0.84	
+FOAM060-10	BOLD	Cephalopholis cyanostigma	Indonesia	BOLD:AAC0217	0	Cephalopholis miniata	FTWS476-09	0.33	
+FOAM144-10	BOLD	Cephalopholis boenak	Indonesia	BOLD:AAB3684	0.17	Cephalopholis cyanostigma	OQ386211.1	8.94	
+FOAM145-10	BOLD	Cephalopholis boenak	Indonesia	BOLD:AAB3684	0.17	Cephalopholis cyanostigma	OQ386211.1	8.75	
+FOAM406-10	BOLD	Cephalopholis formosa	Indonesia	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	6.42	
+FOAN570-11	BOLD	Cephalopholis sonnerati	Indonesia	BOLD:AAD4737	1.46	Cephalopholis argus	FJ237556.1	2.94	
+FOAO1186-18	BOLD	Cephalopholis boenak	Australia	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.34	
+FOAO1410-18	BOLD	Cephalopholis boenak	Australia	BOLD:AAB3684	0.33	Cephalopholis miniata	FTWS476-09	8.2	
+FOAO1462-18	BOLD	Cephalopholis sonnerati	Australia	BOLD:AAD4737	0	Cephalopholis argus	FJ237556.1	0.67	
+FOAO2190-20	BOLD	Cephalopholis boenak	Australia	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.34	
+FOAO737-15	BOLD	Cephalopholis boenak	Australia	BOLD:AAB3684	0	Cephalopholis miniata	FTWS476-09	8.3	
+FOAQ438-21	BOLD	Cephalopholis miniata	South Pacific Ocean	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.33	
+FSHMU025-10	BOLD	Cephalopholis argus	Mauritius	BOLD:AAC4474	0	Cephalopholis microprion	OQ179564.1	13.41	
+FTW073-08	BOLD	Cephalopholis igarashiensis	Taiwan	BOLD:AAE9793	0.92	Cephalopholis polleni	HM422434.1	11.6	
+FTW074-08	BOLD	Cephalopholis spiloparaea	Taiwan	BOLD:AAB5432	0	Cephalopholis aurantia	GU673953.1	0	
+FTW670-09	BOLD	Cephalopholis urodeta	Taiwan	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226226.1	0	
+FTWS148-09	BOLD	Cephalopholis boenak	Taiwan	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+FTWS215-09	BOLD	Cephalopholis urodeta	Taiwan	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0	
+FTWS307-09	BOLD	Cephalopholis miniata	Taiwan	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.33	
+FTWS320-09	BOLD	Cephalopholis boenak	Taiwan	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+FTWS321-09	BOLD	Cephalopholis boenak	Taiwan	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.95	
+FTWS476-09	BOLD	Cephalopholis miniata	Taiwan	BOLD:AAC0217	0	Cephalopholis cyanostigma	OQ386211.1	0.33	
+FTWS937-09	BOLD	Cephalopholis urodeta	Taiwan	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0	
+FTWS938-09	BOLD	Cephalopholis urodeta	Taiwan	BOLD:AAC4202	0	Cephalopholis nigripinnis	KM226230.1	0	
+GEOFI064-21	BOLD	Cephalopholis miniata	Madagascar	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+GEOFI199-21	BOLD	Cephalopholis miniata	Madagascar	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+GEOFI594-21	BOLD	Cephalopholis nigripinnis	Madagascar	BOLD:AAC4202	0	Cephalopholis urodeta	KU064424.1	0	
+GEOFI755-21	BOLD	Cephalopholis argus	Madagascar	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.21	
+GWAFI053-24	BOLD	Cephalopholis fulva	Guadeloupe	BOLD:AAB4588	0.33	Cephalopholis argus	FJ237556.1	10.89	
+GWAFI054-24	BOLD	Cephalopholis fulva	Guadeloupe	BOLD:AAB4588	0	Cephalopholis argus	FJ237556.1	10.69	
+GWAFI055-24	BOLD	Cephalopholis fulva	Guadeloupe	BOLD:AAB4588	0.17	Cephalopholis urodeta	PX905049.1	10.93	
+GWAFI056-24	BOLD	Cephalopholis fulva	Guadeloupe	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.67	
+IMFIB061-22	BOLD	Cephalopholis taeniops	Ivory Coast	BOLD:ABX9081	0	Cephalopholis leopardus	KF929699.1	10.87	
+IMFIB286-22	BOLD	Cephalopholis nigri	Ivory Coast	BOLD:ACC1733	0.17	Cephalopholis boenak	FOAO1410-18	14.69	
+IMFIB302-22	BOLD	Cephalopholis nigri	Ivory Coast	BOLD:ACC1733	0.17	Cephalopholis boenak	FOAH443-08	14.48	
+IMFIB831-24	BOLD	Cephalopholis nigri	Ivory Coast	BOLD:ACC1733	0	Cephalopholis boenak	FOAO1410-18	14.69	
+IMFIB832-24	BOLD	Cephalopholis taeniops	Ivory Coast	BOLD:ABX9081	0.17	Cephalopholis leopardus	KF929699.1	10.9	
+KIR015-13	BOLD	Cephalopholis urodeta	Kiribati	BOLD:AAC4202	0.5	Cephalopholis nigripinnis	KU366479.1	0.33	closer_to_another_species
+KIR022-13	BOLD	Cephalopholis urodeta	Kiribati	BOLD:AAC4202	0.17	Cephalopholis nigripinnis	KU064362.1	0.17	
+KIR023-13	BOLD	Cephalopholis urodeta	Kiribati	BOLD:AAC4202	0	Cephalopholis nigripinnis	FADLI048-17	0	
+LIDM318-07	BOLD	Cephalopholis cruentata	Belize	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.19	
+LIDM536-07	BOLD	Cephalopholis cruentata	United States Virgin Islands	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.01	
+LIDM856-07	BOLD	Cephalopholis cruentata	Panama	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.01	
+LIDMA961-11	BOLD	Cephalopholis panamensis	Panama	BOLD:ABA2702	0	Cephalopholis cruentata	GU225173.1	5.19	
+MFLE084-12	BOLD	Cephalopholis fulva	Haiti	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.44	
+MFLE138-12	BOLD	Cephalopholis fulva	Cayman Islands	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.67	
+MFLVI195-10	BOLD	Cephalopholis cruentata	Mexico	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.19	
+MFLVI197-10	BOLD	Cephalopholis cruentata	Mexico	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.19	
+MFLVI198-10	BOLD	Cephalopholis cruentata	Mexico	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.25	
+MFLVI847-11	BOLD	Cephalopholis fulva	Mexico	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.67	
+MLIII364-08	BOLD	Cephalopholis fulva	Mexico	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.67	
+MXIV488-10	BOLD	Cephalopholis cruentata	Mexico		1.65	Cephalopholis panamensis	OXF100-11	7.55	
+MXV522-14	BOLD	Cephalopholis fulva	Mexico	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.44	
+MXV523-14	BOLD	Cephalopholis fulva	Mexico	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.67	
+MYANF145-19	BOLD	Cephalopholis miniata	Myanmar	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.18	
+OXF030-11	BOLD	Cephalopholis panamensis	Mexico	BOLD:ABA2702	0	Cephalopholis cruentata	GU225173.1	5.19	
+OXF098-11	BOLD	Cephalopholis panamensis	Mexico	BOLD:ABA2702	0.17	Cephalopholis cruentata	JQ842038.1	5.29	
+OXF099-11	BOLD	Cephalopholis panamensis	Mexico	BOLD:ABA2702	0	Cephalopholis cruentata	GU225173.1	5.19	
+OXF100-11	BOLD	Cephalopholis panamensis	Mexico	BOLD:ABA2702	0.17	Cephalopholis cruentata	GU225173.1	5.01	
+OXF101-11	BOLD	Cephalopholis panamensis	Mexico	BOLD:ABA2702	0	Cephalopholis cruentata	GU225173.1	5.2	
+PHILA1309-15	BOLD	Cephalopholis cyanostigma	Philippines		0	Cephalopholis microprion	FJ237608.1	0.84	
+RESIC139-11	BOLD	Cephalopholis boenak	New Caledonia	BOLD:AAB3684	0	Cephalopholis miniata	FTWS476-09	9.35	
+RESIC210-11	BOLD	Cephalopholis urodeta	New Caledonia	BOLD:AAC4202	0	Cephalopholis nigripinnis	KU064387.1	0	
+RRFSH122-25	BOLD	Cephalopholis cruentata	Bonaire, Sint Eustatius, and Saba	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.01	
+RRFSH123-25	BOLD	Cephalopholis cruentata	Bonaire, Sint Eustatius, and Saba	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.19	
+RRFSH124-25	BOLD	Cephalopholis cruentata	Bonaire, Sint Eustatius, and Saba	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.19	
+RRFSH125-25	BOLD	Cephalopholis cruentata	Bonaire, Sint Eustatius, and Saba	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.19	
+SABA016-11	BOLD	Cephalopholis cruentata	Bonaire, Sint Eustatius, and Saba	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.01	
+SABA040-11	BOLD	Cephalopholis fulva	Bonaire, Sint Eustatius, and Saba	BOLD:AAB4588	0	Cephalopholis urodeta	PX905049.1	10.67	
+SABA108-11	BOLD	Cephalopholis cruentata	Bonaire, Sint Eustatius, and Saba	BOLD:AAB3619	0	Cephalopholis panamensis	OXF100-11	5.01	
+SABF047-12	BOLD	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0.17	Cephalopholis leopardus	JQ431570.1	7.55	
+SABF048-12	BOLD	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.75	
+SABF049-12	BOLD	Cephalopholis hemistiktos	Saudi Arabia	BOLD:AAW6020	0	Cephalopholis leopardus	JQ431570.1	7.75	
+SAIAB046-06	BOLD	Cephalopholis sonnerati	Seychelles	BOLD:AAB5431	0	Cephalopholis argus	FJ237556.1	1.69	
+SAIAB161-06	BOLD	Cephalopholis argus	Seychelles	BOLD:AAC4474	0	Cephalopholis microprion	OQ179564.1	13.41	
+SAIAB205-06	BOLD	Cephalopholis argus	Seychelles	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+SAIAB331-06	BOLD	Cephalopholis miniata	Seychelles	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+SAIAB460-06	BOLD	Cephalopholis miniata	Seychelles	BOLD:AAC0216	0	Cephalopholis sexmaculata	OZ556110.1	0.17	
+SAIAB617-07	BOLD	Cephalopholis leopardus	Seychelles	BOLD:AAD9032	0.17	Cephalopholis spiloparaea	KJ594963.1	7.08	
+SAIAB618-07	BOLD	Cephalopholis leopardus	Seychelles	BOLD:AAD9032	0	Cephalopholis spiloparaea	KJ594963.1	6.87	
+SAIAB801-08	BOLD	Cephalopholis boenak	Tanzania	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+SAIAB802-08	BOLD	Cephalopholis boenak	Tanzania	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+SAIAB820-08	BOLD	Cephalopholis nigripinnis	Tanzania	BOLD:AAC4202	0.17	Cephalopholis urodeta	FJ583012.1	0.17	
+SAIAB821-08	BOLD	Cephalopholis nigripinnis	Tanzania	BOLD:AAC4202	0.17	Cephalopholis urodeta	JQ349869.1	0.17	
+SAIAB822-08	BOLD	Cephalopholis nigripinnis	Tanzania	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+SAIAB874-08	BOLD	Cephalopholis argus	Tanzania	BOLD:AAC4474	0	Cephalopholis microprion	OQ179564.1	13.41	
+SAIAB919-08	BOLD	Cephalopholis boenak	Tanzania	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.56	
+SAIAB975-08	BOLD	Cephalopholis aurantia	Tanzania	BOLD:AAI7557	1.35	Cephalopholis spiloparaea	BIFZD684-17	1.69	
+SAIAD408-11	BOLD	Cephalopholis argus	Kenya	BOLD:AAC4474	0	Cephalopholis microprion	GU674037.1	13.29	
+SAIAD415-11	BOLD	Cephalopholis sonnerati	Kenya	BOLD:AAB5431	0	Cephalopholis argus	FJ237556.1	1.72	
+SAMF016-13	BOLD	Cephalopholis nigripinnis	Mozambique	BOLD:AAC4202	0	Cephalopholis urodeta	JN312862.1	0	
+SAMF017-13	BOLD	Cephalopholis nigripinnis	Mozambique	BOLD:AAC4202	0	Cephalopholis urodeta	FJ583014.1	0	
+SAU100-18	BOLD	Cephalopholis boenak	Bangladesh	BOLD:AAB3684	0	Cephalopholis cyanostigma	OQ386211.1	8.74	
+SAU118-18	BOLD	Cephalopholis formosa	Bangladesh	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	7.07	
+SAU119-18	BOLD	Cephalopholis formosa	Bangladesh	BOLD:AAF0621	0	Cephalopholis cyanostigma	PX905050.1	7.07	
+SAU120-18	BOLD	Cephalopholis formosa	Bangladesh	BOLD:AAF0621	0	Cephalopholis cyanostigma	OR829795.1	7.21	

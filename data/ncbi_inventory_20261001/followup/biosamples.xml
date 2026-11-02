@@ -1,0 +1,3128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2021-02-03T00:00:00.000" last_update="2021-04-13T11:00:07.285" submission_date="2021-02-03T03:32:07.256" id="17766311" accession="SAMN17766311">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN17766311</Id>
+      <Id db_label="Sample name">Cephalopholis sonnerati v1</Id>
+      <Id db="SRA">SRS8483461</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>The research report the first chromosome-level genome assembly of Cephalopholis sonnerati, which will lay a strong foundation for studies on genetics conservation, resistance breeding and evolutionary of Cephalopholis sonnerati</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Jiujiang University</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Zhenzhen</First>
+            <Last>Xie</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">cs-2020</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">2years</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">blood</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA699118">699118</Link>
+    </Links>
+    <Status status="live" when="2021-02-03T03:32:07.258"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2021-06-24T00:00:00.000" last_update="2021-06-26T14:41:34.833" submission_date="2021-06-24T05:49:06.713" id="19844628" accession="SAMN19844628">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN19844628</Id>
+      <Id db_label="Sample name">Cephalopholis sonnerati hic muscle</Id>
+      <Id db="SRA">SRS9279372</Id>
+    </Ids>
+    <Description>
+      <Title>muscle sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Nanchang University</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Zhenzhen</First>
+            <Last>Xie</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">jiujiang</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">2years</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">muscle</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA699118">699118</Link>
+    </Links>
+    <Status status="live" when="2021-06-24T05:49:06.714"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2021-06-24T00:00:00.000" last_update="2021-06-27T04:08:07.657" submission_date="2021-06-24T06:18:04.060" id="19844808" accession="SAMN19844808">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN19844808</Id>
+      <Id db_label="Sample name">changdao1</Id>
+      <Id db="SRA">SRS9282703</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Nanchang University</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Zhenzhen</First>
+            <Last>Xie</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">2</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">intestine</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA699118">699118</Link>
+    </Links>
+    <Status status="live" when="2021-06-24T06:18:04.061"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2021-06-24T00:00:00.000" last_update="2021-06-27T04:08:08.140" submission_date="2021-06-24T06:18:04.077" id="19844809" accession="SAMN19844809">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN19844809</Id>
+      <Id db_label="Sample name">chuiti1</Id>
+      <Id db="SRA">SRS9282705</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Nanchang University</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Zhenzhen</First>
+            <Last>Xie</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">2</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">pituitary</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA699118">699118</Link>
+    </Links>
+    <Status status="live" when="2021-06-24T06:18:04.076"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2021-06-24T00:00:00.000" last_update="2021-06-27T04:08:08.750" submission_date="2021-06-24T06:18:04.087" id="19844810" accession="SAMN19844810">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN19844810</Id>
+      <Id db_label="Sample name">gan1</Id>
+      <Id db="SRA">SRS9282707</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Nanchang University</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Zhenzhen</First>
+            <Last>Xie</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">2</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">liver</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA699118">699118</Link>
+    </Links>
+    <Status status="live" when="2021-06-24T06:18:04.088"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2021-06-24T00:00:00.000" last_update="2021-06-27T04:08:08.953" submission_date="2021-06-24T06:18:04.100" id="19844811" accession="SAMN19844811">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN19844811</Id>
+      <Id db_label="Sample name">jirou1</Id>
+      <Id db="SRA">SRS9282708</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Nanchang University</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Zhenzhen</First>
+            <Last>Xie</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">2</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">muscle</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA699118">699118</Link>
+    </Links>
+    <Status status="live" when="2021-06-24T06:18:04.100"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2021-06-24T00:00:00.000" last_update="2021-06-27T04:08:09.347" submission_date="2021-06-24T06:18:04.113" id="19844812" accession="SAMN19844812">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN19844812</Id>
+      <Id db_label="Sample name">nao1</Id>
+      <Id db="SRA">SRS9282710</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Nanchang University</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Zhenzhen</First>
+            <Last>Xie</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">2</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA699118">699118</Link>
+    </Links>
+    <Status status="live" when="2021-06-24T06:18:04.113"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2021-06-24T00:00:00.000" last_update="2021-06-27T04:08:09.173" submission_date="2021-06-24T06:18:04.127" id="19844813" accession="SAMN19844813">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN19844813</Id>
+      <Id db_label="Sample name">pifu1</Id>
+      <Id db="SRA">SRS9282709</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Nanchang University</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Zhenzhen</First>
+            <Last>Xie</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">2</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">skin</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA699118">699118</Link>
+    </Links>
+    <Status status="live" when="2021-06-24T06:18:04.125"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2021-06-24T00:00:00.000" last_update="2021-06-27T04:08:09.533" submission_date="2021-06-24T06:18:04.137" id="19844814" accession="SAMN19844814">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN19844814</Id>
+      <Id db_label="Sample name">sai1</Id>
+      <Id db="SRA">SRS9282711</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Nanchang University</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Zhenzhen</First>
+            <Last>Xie</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">2</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">gill</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA699118">699118</Link>
+    </Links>
+    <Status status="live" when="2021-06-24T06:18:04.137"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2021-06-24T00:00:00.000" last_update="2021-06-27T04:08:09.767" submission_date="2021-06-24T06:18:04.150" id="19844815" accession="SAMN19844815">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN19844815</Id>
+      <Id db_label="Sample name">shen1</Id>
+      <Id db="SRA">SRS9282712</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Nanchang University</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Zhenzhen</First>
+            <Last>Xie</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">2</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">kidney</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA699118">699118</Link>
+    </Links>
+    <Status status="live" when="2021-06-24T06:18:04.149"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2021-06-24T00:00:00.000" last_update="2021-06-27T04:08:10.033" submission_date="2021-06-24T06:18:04.183" id="19844816" accession="SAMN19844816">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN19844816</Id>
+      <Id db_label="Sample name">toushen1</Id>
+      <Id db="SRA">SRS9282713</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Nanchang University</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Zhenzhen</First>
+            <Last>Xie</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">2</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">head kidney</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA699118">699118</Link>
+    </Links>
+    <Status status="live" when="2021-06-24T06:18:04.182"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2021-06-24T00:00:00.000" last_update="2021-06-27T04:08:10.283" submission_date="2021-06-24T06:18:04.193" id="19844817" accession="SAMN19844817">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN19844817</Id>
+      <Id db_label="Sample name">xingxian1</Id>
+      <Id db="SRA">SRS9282714</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Nanchang University</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Zhenzhen</First>
+            <Last>Xie</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">2</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">gonad</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA699118">699118</Link>
+    </Links>
+    <Status status="live" when="2021-06-24T06:18:04.194"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2021-06-24T00:00:00.000" last_update="2021-06-27T04:08:08.440" submission_date="2021-06-24T06:18:04.207" id="19844818" accession="SAMN19844818">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN19844818</Id>
+      <Id db_label="Sample name">xinzhang1</Id>
+      <Id db="SRA">SRS9282706</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Nanchang University</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Zhenzhen</First>
+            <Last>Xie</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">2</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">heart</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA699118">699118</Link>
+    </Links>
+    <Status status="live" when="2021-06-24T06:18:04.206"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2024-10-12T00:00:00.000" last_update="2024-10-12T21:47:02.242" submission_date="2024-06-05T10:14:04.546" id="41688836" accession="SAMN41688836">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN41688836</Id>
+      <Id db_label="Sample name">C_sonnerati</Id>
+      <Id db="SRA">SRS22882550</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Sheng</First>
+            <Last>Lu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">HN-2023</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">3 months</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2023-06-04</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">hermaphrodite</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">muscle; liver</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1120365">1120365</Link>
+    </Links>
+    <Status status="live" when="2024-10-12T21:47:02.242"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-04-10T00:50:26.500" last_update="2025-04-10T00:50:26.500" submission_date="2024-09-11T02:43:03.810" id="43576832" accession="SAMN43576832">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN43576832</Id>
+      <Id db_label="Sample name">TGGONC1</Id>
+      <Id db="SRA">SRS22758892</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>not collected</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>fly</First>
+            <Last>fang</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">not collected</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">not collected</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato hind grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">not collected</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">not applicable</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-06-27</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">not collected</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">gonad</Attribute>
+      <Attribute attribute_name="biomaterial_provider" harmonized_name="biomaterial_provider" display_name="biomaterial provider">not collected</Attribute>
+      <Attribute attribute_name="birth_date" harmonized_name="birth_date" display_name="birth date">not collected</Attribute>
+      <Attribute attribute_name="birth_location" harmonized_name="birth_location" display_name="birth location">not collected</Attribute>
+      <Attribute attribute_name="breeding_history" harmonized_name="breeding_history" display_name="breeding history">not collected</Attribute>
+      <Attribute attribute_name="breeding_method" harmonized_name="breeding_method" display_name="breeding method">not collected</Attribute>
+      <Attribute attribute_name="cell_line" harmonized_name="cell_line" display_name="cell line">TGgo</Attribute>
+      <Attribute attribute_name="cell_subtype" harmonized_name="cell_subtype" display_name="cell subtype">not collected</Attribute>
+      <Attribute attribute_name="cell_type" harmonized_name="cell_type" display_name="cell type">not collected</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">not collected</Attribute>
+      <Attribute attribute_name="culture_collection" harmonized_name="culture_collection" display_name="culture collection">not collected</Attribute>
+      <Attribute attribute_name="death_date" harmonized_name="death_date" display_name="death date">not collected</Attribute>
+      <Attribute attribute_name="disease" harmonized_name="disease" display_name="disease">not collected</Attribute>
+      <Attribute attribute_name="disease_stage" harmonized_name="disease_stage" display_name="disease stage">control1</Attribute>
+      <Attribute attribute_name="genotype" harmonized_name="genotype" display_name="genotype">not collected</Attribute>
+      <Attribute attribute_name="growth_protocol" harmonized_name="growth_protocol" display_name="growth protocol">not collected</Attribute>
+      <Attribute attribute_name="health_state" harmonized_name="health_state" display_name="health state">not collected</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">not collected</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">not collected</Attribute>
+      <Attribute attribute_name="phenotype" harmonized_name="phenotype" display_name="phenotype">not collected</Attribute>
+      <Attribute attribute_name="sample_type" harmonized_name="sample_type" display_name="sample type">not collected</Attribute>
+      <Attribute attribute_name="specimen_voucher" harmonized_name="specimen_voucher" display_name="specimen voucher">not collected</Attribute>
+      <Attribute attribute_name="store_cond" harmonized_name="store_cond" display_name="storage conditions">not collected</Attribute>
+      <Attribute attribute_name="stud_book_number" harmonized_name="stud_book_number" display_name="stud book number">not collected</Attribute>
+      <Attribute attribute_name="treatment" harmonized_name="treatment" display_name="treatment">not collected</Attribute>
+    </Attributes>
+    <Status status="live" when="2025-04-10T00:50:26.500"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-04-10T00:50:26.520" last_update="2025-04-10T00:50:26.520" submission_date="2024-09-11T02:43:03.830" id="43576833" accession="SAMN43576833">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN43576833</Id>
+      <Id db_label="Sample name">TGGONC2</Id>
+      <Id db="SRA">SRS22758893</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>not collected</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>fly</First>
+            <Last>fang</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">not collected</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">not collected</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato hind grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">not collected</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">not applicable</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-06-27</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">not collected</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">gonad</Attribute>
+      <Attribute attribute_name="biomaterial_provider" harmonized_name="biomaterial_provider" display_name="biomaterial provider">not collected</Attribute>
+      <Attribute attribute_name="birth_date" harmonized_name="birth_date" display_name="birth date">not collected</Attribute>
+      <Attribute attribute_name="birth_location" harmonized_name="birth_location" display_name="birth location">not collected</Attribute>
+      <Attribute attribute_name="breeding_history" harmonized_name="breeding_history" display_name="breeding history">not collected</Attribute>
+      <Attribute attribute_name="breeding_method" harmonized_name="breeding_method" display_name="breeding method">not collected</Attribute>
+      <Attribute attribute_name="cell_line" harmonized_name="cell_line" display_name="cell line">TGgo</Attribute>
+      <Attribute attribute_name="cell_subtype" harmonized_name="cell_subtype" display_name="cell subtype">not collected</Attribute>
+      <Attribute attribute_name="cell_type" harmonized_name="cell_type" display_name="cell type">not collected</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">not collected</Attribute>
+      <Attribute attribute_name="culture_collection" harmonized_name="culture_collection" display_name="culture collection">not collected</Attribute>
+      <Attribute attribute_name="death_date" harmonized_name="death_date" display_name="death date">not collected</Attribute>
+      <Attribute attribute_name="disease" harmonized_name="disease" display_name="disease">not collected</Attribute>
+      <Attribute attribute_name="disease_stage" harmonized_name="disease_stage" display_name="disease stage">control2</Attribute>
+      <Attribute attribute_name="genotype" harmonized_name="genotype" display_name="genotype">not collected</Attribute>
+      <Attribute attribute_name="growth_protocol" harmonized_name="growth_protocol" display_name="growth protocol">not collected</Attribute>
+      <Attribute attribute_name="health_state" harmonized_name="health_state" display_name="health state">not collected</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">not collected</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">not collected</Attribute>
+      <Attribute attribute_name="phenotype" harmonized_name="phenotype" display_name="phenotype">not collected</Attribute>
+      <Attribute attribute_name="sample_type" harmonized_name="sample_type" display_name="sample type">not collected</Attribute>
+      <Attribute attribute_name="specimen_voucher" harmonized_name="specimen_voucher" display_name="specimen voucher">not collected</Attribute>
+      <Attribute attribute_name="store_cond" harmonized_name="store_cond" display_name="storage conditions">not collected</Attribute>
+      <Attribute attribute_name="stud_book_number" harmonized_name="stud_book_number" display_name="stud book number">not collected</Attribute>
+      <Attribute attribute_name="treatment" harmonized_name="treatment" display_name="treatment">not collected</Attribute>
+    </Attributes>
+    <Status status="live" when="2025-04-10T00:50:26.520"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-04-10T00:50:26.533" last_update="2025-04-10T00:50:26.533" submission_date="2024-09-11T02:43:03.843" id="43576834" accession="SAMN43576834">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN43576834</Id>
+      <Id db_label="Sample name">TGGONC3</Id>
+      <Id db="SRA">SRS22758896</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>not collected</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>fly</First>
+            <Last>fang</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">not collected</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">not collected</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato hind grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">not collected</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">not applicable</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-06-27</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">not collected</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">gonad</Attribute>
+      <Attribute attribute_name="biomaterial_provider" harmonized_name="biomaterial_provider" display_name="biomaterial provider">not collected</Attribute>
+      <Attribute attribute_name="birth_date" harmonized_name="birth_date" display_name="birth date">not collected</Attribute>
+      <Attribute attribute_name="birth_location" harmonized_name="birth_location" display_name="birth location">not collected</Attribute>
+      <Attribute attribute_name="breeding_history" harmonized_name="breeding_history" display_name="breeding history">not collected</Attribute>
+      <Attribute attribute_name="breeding_method" harmonized_name="breeding_method" display_name="breeding method">not collected</Attribute>
+      <Attribute attribute_name="cell_line" harmonized_name="cell_line" display_name="cell line">TGgo</Attribute>
+      <Attribute attribute_name="cell_subtype" harmonized_name="cell_subtype" display_name="cell subtype">not collected</Attribute>
+      <Attribute attribute_name="cell_type" harmonized_name="cell_type" display_name="cell type">not collected</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">not collected</Attribute>
+      <Attribute attribute_name="culture_collection" harmonized_name="culture_collection" display_name="culture collection">not collected</Attribute>
+      <Attribute attribute_name="death_date" harmonized_name="death_date" display_name="death date">not collected</Attribute>
+      <Attribute attribute_name="disease" harmonized_name="disease" display_name="disease">not collected</Attribute>
+      <Attribute attribute_name="disease_stage" harmonized_name="disease_stage" display_name="disease stage">control3</Attribute>
+      <Attribute attribute_name="genotype" harmonized_name="genotype" display_name="genotype">not collected</Attribute>
+      <Attribute attribute_name="growth_protocol" harmonized_name="growth_protocol" display_name="growth protocol">not collected</Attribute>
+      <Attribute attribute_name="health_state" harmonized_name="health_state" display_name="health state">not collected</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">not collected</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">not collected</Attribute>
+      <Attribute attribute_name="phenotype" harmonized_name="phenotype" display_name="phenotype">not collected</Attribute>
+      <Attribute attribute_name="sample_type" harmonized_name="sample_type" display_name="sample type">not collected</Attribute>
+      <Attribute attribute_name="specimen_voucher" harmonized_name="specimen_voucher" display_name="specimen voucher">not collected</Attribute>
+      <Attribute attribute_name="store_cond" harmonized_name="store_cond" display_name="storage conditions">not collected</Attribute>
+      <Attribute attribute_name="stud_book_number" harmonized_name="stud_book_number" display_name="stud book number">not collected</Attribute>
+      <Attribute attribute_name="treatment" harmonized_name="treatment" display_name="treatment">not collected</Attribute>
+    </Attributes>
+    <Status status="live" when="2025-04-10T00:50:26.533"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-04-10T00:50:30.430" last_update="2025-04-10T00:50:30.430" submission_date="2024-09-11T02:43:03.857" id="43576835" accession="SAMN43576835">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN43576835</Id>
+      <Id db_label="Sample name">TGGOSKIV1</Id>
+      <Id db="SRA">SRS22758897</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>not collected</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>fly</First>
+            <Last>fang</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">not collected</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">not collected</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato hind grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">not collected</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">not applicable</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-06-27</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">not collected</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">gonad</Attribute>
+      <Attribute attribute_name="biomaterial_provider" harmonized_name="biomaterial_provider" display_name="biomaterial provider">not collected</Attribute>
+      <Attribute attribute_name="birth_date" harmonized_name="birth_date" display_name="birth date">not collected</Attribute>
+      <Attribute attribute_name="birth_location" harmonized_name="birth_location" display_name="birth location">not collected</Attribute>
+      <Attribute attribute_name="breeding_history" harmonized_name="breeding_history" display_name="breeding history">not collected</Attribute>
+      <Attribute attribute_name="breeding_method" harmonized_name="breeding_method" display_name="breeding method">not collected</Attribute>
+      <Attribute attribute_name="cell_line" harmonized_name="cell_line" display_name="cell line">TGgo</Attribute>
+      <Attribute attribute_name="cell_subtype" harmonized_name="cell_subtype" display_name="cell subtype">not collected</Attribute>
+      <Attribute attribute_name="cell_type" harmonized_name="cell_type" display_name="cell type">not collected</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">not collected</Attribute>
+      <Attribute attribute_name="culture_collection" harmonized_name="culture_collection" display_name="culture collection">not collected</Attribute>
+      <Attribute attribute_name="death_date" harmonized_name="death_date" display_name="death date">not collected</Attribute>
+      <Attribute attribute_name="disease" harmonized_name="disease" display_name="disease">not collected</Attribute>
+      <Attribute attribute_name="disease_stage" harmonized_name="disease_stage" display_name="disease stage">skiv1</Attribute>
+      <Attribute attribute_name="genotype" harmonized_name="genotype" display_name="genotype">not collected</Attribute>
+      <Attribute attribute_name="growth_protocol" harmonized_name="growth_protocol" display_name="growth protocol">not collected</Attribute>
+      <Attribute attribute_name="health_state" harmonized_name="health_state" display_name="health state">not collected</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">not collected</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">not collected</Attribute>
+      <Attribute attribute_name="phenotype" harmonized_name="phenotype" display_name="phenotype">not collected</Attribute>
+      <Attribute attribute_name="sample_type" harmonized_name="sample_type" display_name="sample type">not collected</Attribute>
+      <Attribute attribute_name="specimen_voucher" harmonized_name="specimen_voucher" display_name="specimen voucher">not collected</Attribute>
+      <Attribute attribute_name="store_cond" harmonized_name="store_cond" display_name="storage conditions">not collected</Attribute>
+      <Attribute attribute_name="stud_book_number" harmonized_name="stud_book_number" display_name="stud book number">not collected</Attribute>
+      <Attribute attribute_name="treatment" harmonized_name="treatment" display_name="treatment">not collected</Attribute>
+    </Attributes>
+    <Status status="live" when="2025-04-10T00:50:30.430"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-04-10T00:50:30.443" last_update="2025-04-10T00:50:30.443" submission_date="2024-09-11T02:43:03.873" id="43576836" accession="SAMN43576836">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN43576836</Id>
+      <Id db_label="Sample name">TGGOSKIV2</Id>
+      <Id db="SRA">SRS22758898</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>not collected</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>fly</First>
+            <Last>fang</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">not collected</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">not collected</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato hind grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">not collected</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">not applicable</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-06-27</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">not collected</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">gonad</Attribute>
+      <Attribute attribute_name="biomaterial_provider" harmonized_name="biomaterial_provider" display_name="biomaterial provider">not collected</Attribute>
+      <Attribute attribute_name="birth_date" harmonized_name="birth_date" display_name="birth date">not collected</Attribute>
+      <Attribute attribute_name="birth_location" harmonized_name="birth_location" display_name="birth location">not collected</Attribute>
+      <Attribute attribute_name="breeding_history" harmonized_name="breeding_history" display_name="breeding history">not collected</Attribute>
+      <Attribute attribute_name="breeding_method" harmonized_name="breeding_method" display_name="breeding method">not collected</Attribute>
+      <Attribute attribute_name="cell_line" harmonized_name="cell_line" display_name="cell line">TGgo</Attribute>
+      <Attribute attribute_name="cell_subtype" harmonized_name="cell_subtype" display_name="cell subtype">not collected</Attribute>
+      <Attribute attribute_name="cell_type" harmonized_name="cell_type" display_name="cell type">not collected</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">not collected</Attribute>
+      <Attribute attribute_name="culture_collection" harmonized_name="culture_collection" display_name="culture collection">not collected</Attribute>
+      <Attribute attribute_name="death_date" harmonized_name="death_date" display_name="death date">not collected</Attribute>
+      <Attribute attribute_name="disease" harmonized_name="disease" display_name="disease">not collected</Attribute>
+      <Attribute attribute_name="disease_stage" harmonized_name="disease_stage" display_name="disease stage">skiv2</Attribute>
+      <Attribute attribute_name="genotype" harmonized_name="genotype" display_name="genotype">not collected</Attribute>
+      <Attribute attribute_name="growth_protocol" harmonized_name="growth_protocol" display_name="growth protocol">not collected</Attribute>
+      <Attribute attribute_name="health_state" harmonized_name="health_state" display_name="health state">not collected</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">not collected</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">not collected</Attribute>
+      <Attribute attribute_name="phenotype" harmonized_name="phenotype" display_name="phenotype">not collected</Attribute>
+      <Attribute attribute_name="sample_type" harmonized_name="sample_type" display_name="sample type">not collected</Attribute>
+      <Attribute attribute_name="specimen_voucher" harmonized_name="specimen_voucher" display_name="specimen voucher">not collected</Attribute>
+      <Attribute attribute_name="store_cond" harmonized_name="store_cond" display_name="storage conditions">not collected</Attribute>
+      <Attribute attribute_name="stud_book_number" harmonized_name="stud_book_number" display_name="stud book number">not collected</Attribute>
+      <Attribute attribute_name="treatment" harmonized_name="treatment" display_name="treatment">not collected</Attribute>
+    </Attributes>
+    <Status status="live" when="2025-04-10T00:50:30.443"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-04-10T00:50:30.457" last_update="2025-04-10T00:50:30.457" submission_date="2024-09-11T02:43:03.887" id="43576837" accession="SAMN43576837">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN43576837</Id>
+      <Id db_label="Sample name">TGGOSKIV3</Id>
+      <Id db="SRA">SRS22758899</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>not collected</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>fly</First>
+            <Last>fang</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">not collected</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">not collected</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato hind grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">not collected</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">not applicable</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-06-27</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">not collected</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">gonad</Attribute>
+      <Attribute attribute_name="biomaterial_provider" harmonized_name="biomaterial_provider" display_name="biomaterial provider">not collected</Attribute>
+      <Attribute attribute_name="birth_date" harmonized_name="birth_date" display_name="birth date">not collected</Attribute>
+      <Attribute attribute_name="birth_location" harmonized_name="birth_location" display_name="birth location">not collected</Attribute>
+      <Attribute attribute_name="breeding_history" harmonized_name="breeding_history" display_name="breeding history">not collected</Attribute>
+      <Attribute attribute_name="breeding_method" harmonized_name="breeding_method" display_name="breeding method">not collected</Attribute>
+      <Attribute attribute_name="cell_line" harmonized_name="cell_line" display_name="cell line">TGgo</Attribute>
+      <Attribute attribute_name="cell_subtype" harmonized_name="cell_subtype" display_name="cell subtype">not collected</Attribute>
+      <Attribute attribute_name="cell_type" harmonized_name="cell_type" display_name="cell type">not collected</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">not collected</Attribute>
+      <Attribute attribute_name="culture_collection" harmonized_name="culture_collection" display_name="culture collection">not collected</Attribute>
+      <Attribute attribute_name="death_date" harmonized_name="death_date" display_name="death date">not collected</Attribute>
+      <Attribute attribute_name="disease" harmonized_name="disease" display_name="disease">not collected</Attribute>
+      <Attribute attribute_name="disease_stage" harmonized_name="disease_stage" display_name="disease stage">skiv3</Attribute>
+      <Attribute attribute_name="genotype" harmonized_name="genotype" display_name="genotype">not collected</Attribute>
+      <Attribute attribute_name="growth_protocol" harmonized_name="growth_protocol" display_name="growth protocol">not collected</Attribute>
+      <Attribute attribute_name="health_state" harmonized_name="health_state" display_name="health state">not collected</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">not collected</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">not collected</Attribute>
+      <Attribute attribute_name="phenotype" harmonized_name="phenotype" display_name="phenotype">not collected</Attribute>
+      <Attribute attribute_name="sample_type" harmonized_name="sample_type" display_name="sample type">not collected</Attribute>
+      <Attribute attribute_name="specimen_voucher" harmonized_name="specimen_voucher" display_name="specimen voucher">not collected</Attribute>
+      <Attribute attribute_name="store_cond" harmonized_name="store_cond" display_name="storage conditions">not collected</Attribute>
+      <Attribute attribute_name="stud_book_number" harmonized_name="stud_book_number" display_name="stud book number">not collected</Attribute>
+      <Attribute attribute_name="treatment" harmonized_name="treatment" display_name="treatment">not collected</Attribute>
+    </Attributes>
+    <Status status="live" when="2025-04-10T00:50:30.457"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-04-10T00:50:30.467" last_update="2025-04-10T00:50:30.467" submission_date="2024-09-11T02:43:03.900" id="43576838" accession="SAMN43576838">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN43576838</Id>
+      <Id db_label="Sample name">TGB-NC1</Id>
+      <Id db="SRA">SRS22758900</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>not collected</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>fly</First>
+            <Last>fang</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">not collected</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">not collected</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato hind grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">not collected</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">not applicable</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-06-27</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">not collected</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+      <Attribute attribute_name="biomaterial_provider" harmonized_name="biomaterial_provider" display_name="biomaterial provider">not collected</Attribute>
+      <Attribute attribute_name="birth_date" harmonized_name="birth_date" display_name="birth date">not collected</Attribute>
+      <Attribute attribute_name="birth_location" harmonized_name="birth_location" display_name="birth location">not collected</Attribute>
+      <Attribute attribute_name="breeding_history" harmonized_name="breeding_history" display_name="breeding history">not collected</Attribute>
+      <Attribute attribute_name="breeding_method" harmonized_name="breeding_method" display_name="breeding method">not collected</Attribute>
+      <Attribute attribute_name="cell_line" harmonized_name="cell_line" display_name="cell line">TGB</Attribute>
+      <Attribute attribute_name="cell_subtype" harmonized_name="cell_subtype" display_name="cell subtype">not collected</Attribute>
+      <Attribute attribute_name="cell_type" harmonized_name="cell_type" display_name="cell type">not collected</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">not collected</Attribute>
+      <Attribute attribute_name="culture_collection" harmonized_name="culture_collection" display_name="culture collection">not collected</Attribute>
+      <Attribute attribute_name="death_date" harmonized_name="death_date" display_name="death date">not collected</Attribute>
+      <Attribute attribute_name="disease" harmonized_name="disease" display_name="disease">not collected</Attribute>
+      <Attribute attribute_name="disease_stage" harmonized_name="disease_stage" display_name="disease stage">control-1</Attribute>
+      <Attribute attribute_name="genotype" harmonized_name="genotype" display_name="genotype">not collected</Attribute>
+      <Attribute attribute_name="growth_protocol" harmonized_name="growth_protocol" display_name="growth protocol">not collected</Attribute>
+      <Attribute attribute_name="health_state" harmonized_name="health_state" display_name="health state">not collected</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">not collected</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">not collected</Attribute>
+      <Attribute attribute_name="phenotype" harmonized_name="phenotype" display_name="phenotype">not collected</Attribute>
+      <Attribute attribute_name="sample_type" harmonized_name="sample_type" display_name="sample type">not collected</Attribute>
+      <Attribute attribute_name="specimen_voucher" harmonized_name="specimen_voucher" display_name="specimen voucher">not collected</Attribute>
+      <Attribute attribute_name="store_cond" harmonized_name="store_cond" display_name="storage conditions">not collected</Attribute>
+      <Attribute attribute_name="stud_book_number" harmonized_name="stud_book_number" display_name="stud book number">not collected</Attribute>
+      <Attribute attribute_name="treatment" harmonized_name="treatment" display_name="treatment">not collected</Attribute>
+    </Attributes>
+    <Status status="live" when="2025-04-10T00:50:30.467"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-04-10T00:50:30.480" last_update="2025-04-10T00:50:30.480" submission_date="2024-09-11T02:43:03.913" id="43576839" accession="SAMN43576839">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN43576839</Id>
+      <Id db_label="Sample name">TGB-NC2</Id>
+      <Id db="SRA">SRS22758901</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>not collected</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>fly</First>
+            <Last>fang</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">not collected</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">not collected</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato hind grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">not collected</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">not applicable</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-06-27</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">not collected</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+      <Attribute attribute_name="biomaterial_provider" harmonized_name="biomaterial_provider" display_name="biomaterial provider">not collected</Attribute>
+      <Attribute attribute_name="birth_date" harmonized_name="birth_date" display_name="birth date">not collected</Attribute>
+      <Attribute attribute_name="birth_location" harmonized_name="birth_location" display_name="birth location">not collected</Attribute>
+      <Attribute attribute_name="breeding_history" harmonized_name="breeding_history" display_name="breeding history">not collected</Attribute>
+      <Attribute attribute_name="breeding_method" harmonized_name="breeding_method" display_name="breeding method">not collected</Attribute>
+      <Attribute attribute_name="cell_line" harmonized_name="cell_line" display_name="cell line">TGB</Attribute>
+      <Attribute attribute_name="cell_subtype" harmonized_name="cell_subtype" display_name="cell subtype">not collected</Attribute>
+      <Attribute attribute_name="cell_type" harmonized_name="cell_type" display_name="cell type">not collected</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">not collected</Attribute>
+      <Attribute attribute_name="culture_collection" harmonized_name="culture_collection" display_name="culture collection">not collected</Attribute>
+      <Attribute attribute_name="death_date" harmonized_name="death_date" display_name="death date">not collected</Attribute>
+      <Attribute attribute_name="disease" harmonized_name="disease" display_name="disease">not collected</Attribute>
+      <Attribute attribute_name="disease_stage" harmonized_name="disease_stage" display_name="disease stage">control-2</Attribute>
+      <Attribute attribute_name="genotype" harmonized_name="genotype" display_name="genotype">not collected</Attribute>
+      <Attribute attribute_name="growth_protocol" harmonized_name="growth_protocol" display_name="growth protocol">not collected</Attribute>
+      <Attribute attribute_name="health_state" harmonized_name="health_state" display_name="health state">not collected</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">not collected</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">not collected</Attribute>
+      <Attribute attribute_name="phenotype" harmonized_name="phenotype" display_name="phenotype">not collected</Attribute>
+      <Attribute attribute_name="sample_type" harmonized_name="sample_type" display_name="sample type">not collected</Attribute>
+      <Attribute attribute_name="specimen_voucher" harmonized_name="specimen_voucher" display_name="specimen voucher">not collected</Attribute>
+      <Attribute attribute_name="store_cond" harmonized_name="store_cond" display_name="storage conditions">not collected</Attribute>
+      <Attribute attribute_name="stud_book_number" harmonized_name="stud_book_number" display_name="stud book number">not collected</Attribute>
+      <Attribute attribute_name="treatment" harmonized_name="treatment" display_name="treatment">not collected</Attribute>
+    </Attributes>
+    <Status status="live" when="2025-04-10T00:50:30.480"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-04-10T00:50:30.490" last_update="2025-04-10T00:50:30.490" submission_date="2024-09-11T02:43:03.927" id="43576840" accession="SAMN43576840">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN43576840</Id>
+      <Id db_label="Sample name">TGB-NC3</Id>
+      <Id db="SRA">SRS22758902</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>not collected</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>fly</First>
+            <Last>fang</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">not collected</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">not collected</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato hind grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">not collected</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">not applicable</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-06-27</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">not collected</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+      <Attribute attribute_name="biomaterial_provider" harmonized_name="biomaterial_provider" display_name="biomaterial provider">not collected</Attribute>
+      <Attribute attribute_name="birth_date" harmonized_name="birth_date" display_name="birth date">not collected</Attribute>
+      <Attribute attribute_name="birth_location" harmonized_name="birth_location" display_name="birth location">not collected</Attribute>
+      <Attribute attribute_name="breeding_history" harmonized_name="breeding_history" display_name="breeding history">not collected</Attribute>
+      <Attribute attribute_name="breeding_method" harmonized_name="breeding_method" display_name="breeding method">not collected</Attribute>
+      <Attribute attribute_name="cell_line" harmonized_name="cell_line" display_name="cell line">TGB</Attribute>
+      <Attribute attribute_name="cell_subtype" harmonized_name="cell_subtype" display_name="cell subtype">not collected</Attribute>
+      <Attribute attribute_name="cell_type" harmonized_name="cell_type" display_name="cell type">not collected</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">not collected</Attribute>
+      <Attribute attribute_name="culture_collection" harmonized_name="culture_collection" display_name="culture collection">not collected</Attribute>
+      <Attribute attribute_name="death_date" harmonized_name="death_date" display_name="death date">not collected</Attribute>
+      <Attribute attribute_name="disease" harmonized_name="disease" display_name="disease">not collected</Attribute>
+      <Attribute attribute_name="disease_stage" harmonized_name="disease_stage" display_name="disease stage">control-3</Attribute>
+      <Attribute attribute_name="genotype" harmonized_name="genotype" display_name="genotype">not collected</Attribute>
+      <Attribute attribute_name="growth_protocol" harmonized_name="growth_protocol" display_name="growth protocol">not collected</Attribute>
+      <Attribute attribute_name="health_state" harmonized_name="health_state" display_name="health state">not collected</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">not collected</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">not collected</Attribute>
+      <Attribute attribute_name="phenotype" harmonized_name="phenotype" display_name="phenotype">not collected</Attribute>
+      <Attribute attribute_name="sample_type" harmonized_name="sample_type" display_name="sample type">not collected</Attribute>
+      <Attribute attribute_name="specimen_voucher" harmonized_name="specimen_voucher" display_name="specimen voucher">not collected</Attribute>
+      <Attribute attribute_name="store_cond" harmonized_name="store_cond" display_name="storage conditions">not collected</Attribute>
+      <Attribute attribute_name="stud_book_number" harmonized_name="stud_book_number" display_name="stud book number">not collected</Attribute>
+      <Attribute attribute_name="treatment" harmonized_name="treatment" display_name="treatment">not collected</Attribute>
+    </Attributes>
+    <Status status="live" when="2025-04-10T00:50:30.490"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-04-10T00:50:30.500" last_update="2025-04-10T00:50:30.500" submission_date="2024-09-11T02:43:03.940" id="43576841" accession="SAMN43576841">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN43576841</Id>
+      <Id db_label="Sample name">TGB-NNV1</Id>
+      <Id db="SRA">SRS22758903</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>not collected</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>fly</First>
+            <Last>fang</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">not collected</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">not collected</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato hind grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">not collected</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">not applicable</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-06-27</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">not collected</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+      <Attribute attribute_name="biomaterial_provider" harmonized_name="biomaterial_provider" display_name="biomaterial provider">not collected</Attribute>
+      <Attribute attribute_name="birth_date" harmonized_name="birth_date" display_name="birth date">not collected</Attribute>
+      <Attribute attribute_name="birth_location" harmonized_name="birth_location" display_name="birth location">not collected</Attribute>
+      <Attribute attribute_name="breeding_history" harmonized_name="breeding_history" display_name="breeding history">not collected</Attribute>
+      <Attribute attribute_name="breeding_method" harmonized_name="breeding_method" display_name="breeding method">not collected</Attribute>
+      <Attribute attribute_name="cell_line" harmonized_name="cell_line" display_name="cell line">TGB</Attribute>
+      <Attribute attribute_name="cell_subtype" harmonized_name="cell_subtype" display_name="cell subtype">not collected</Attribute>
+      <Attribute attribute_name="cell_type" harmonized_name="cell_type" display_name="cell type">not collected</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">not collected</Attribute>
+      <Attribute attribute_name="culture_collection" harmonized_name="culture_collection" display_name="culture collection">not collected</Attribute>
+      <Attribute attribute_name="death_date" harmonized_name="death_date" display_name="death date">not collected</Attribute>
+      <Attribute attribute_name="disease" harmonized_name="disease" display_name="disease">not collected</Attribute>
+      <Attribute attribute_name="disease_stage" harmonized_name="disease_stage" display_name="disease stage">NNV-1</Attribute>
+      <Attribute attribute_name="genotype" harmonized_name="genotype" display_name="genotype">not collected</Attribute>
+      <Attribute attribute_name="growth_protocol" harmonized_name="growth_protocol" display_name="growth protocol">not collected</Attribute>
+      <Attribute attribute_name="health_state" harmonized_name="health_state" display_name="health state">not collected</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">not collected</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">not collected</Attribute>
+      <Attribute attribute_name="phenotype" harmonized_name="phenotype" display_name="phenotype">not collected</Attribute>
+      <Attribute attribute_name="sample_type" harmonized_name="sample_type" display_name="sample type">not collected</Attribute>
+      <Attribute attribute_name="specimen_voucher" harmonized_name="specimen_voucher" display_name="specimen voucher">not collected</Attribute>
+      <Attribute attribute_name="store_cond" harmonized_name="store_cond" display_name="storage conditions">not collected</Attribute>
+      <Attribute attribute_name="stud_book_number" harmonized_name="stud_book_number" display_name="stud book number">not collected</Attribute>
+      <Attribute attribute_name="treatment" harmonized_name="treatment" display_name="treatment">not collected</Attribute>
+    </Attributes>
+    <Status status="live" when="2025-04-10T00:50:30.500"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-04-10T00:50:30.513" last_update="2025-04-10T00:50:30.513" submission_date="2024-09-11T02:43:03.953" id="43576842" accession="SAMN43576842">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN43576842</Id>
+      <Id db_label="Sample name">TGB-NNV2</Id>
+      <Id db="SRA">SRS22758894</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>not collected</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>fly</First>
+            <Last>fang</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">not collected</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">not collected</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato hind grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">not collected</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">not applicable</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-06-27</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">not collected</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+      <Attribute attribute_name="biomaterial_provider" harmonized_name="biomaterial_provider" display_name="biomaterial provider">not collected</Attribute>
+      <Attribute attribute_name="birth_date" harmonized_name="birth_date" display_name="birth date">not collected</Attribute>
+      <Attribute attribute_name="birth_location" harmonized_name="birth_location" display_name="birth location">not collected</Attribute>
+      <Attribute attribute_name="breeding_history" harmonized_name="breeding_history" display_name="breeding history">not collected</Attribute>
+      <Attribute attribute_name="breeding_method" harmonized_name="breeding_method" display_name="breeding method">not collected</Attribute>
+      <Attribute attribute_name="cell_line" harmonized_name="cell_line" display_name="cell line">TGB</Attribute>
+      <Attribute attribute_name="cell_subtype" harmonized_name="cell_subtype" display_name="cell subtype">not collected</Attribute>
+      <Attribute attribute_name="cell_type" harmonized_name="cell_type" display_name="cell type">not collected</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">not collected</Attribute>
+      <Attribute attribute_name="culture_collection" harmonized_name="culture_collection" display_name="culture collection">not collected</Attribute>
+      <Attribute attribute_name="death_date" harmonized_name="death_date" display_name="death date">not collected</Attribute>
+      <Attribute attribute_name="disease" harmonized_name="disease" display_name="disease">not collected</Attribute>
+      <Attribute attribute_name="disease_stage" harmonized_name="disease_stage" display_name="disease stage">NNV-2</Attribute>
+      <Attribute attribute_name="genotype" harmonized_name="genotype" display_name="genotype">not collected</Attribute>
+      <Attribute attribute_name="growth_protocol" harmonized_name="growth_protocol" display_name="growth protocol">not collected</Attribute>
+      <Attribute attribute_name="health_state" harmonized_name="health_state" display_name="health state">not collected</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">not collected</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">not collected</Attribute>
+      <Attribute attribute_name="phenotype" harmonized_name="phenotype" display_name="phenotype">not collected</Attribute>
+      <Attribute attribute_name="sample_type" harmonized_name="sample_type" display_name="sample type">not collected</Attribute>
+      <Attribute attribute_name="specimen_voucher" harmonized_name="specimen_voucher" display_name="specimen voucher">not collected</Attribute>
+      <Attribute attribute_name="store_cond" harmonized_name="store_cond" display_name="storage conditions">not collected</Attribute>
+      <Attribute attribute_name="stud_book_number" harmonized_name="stud_book_number" display_name="stud book number">not collected</Attribute>
+      <Attribute attribute_name="treatment" harmonized_name="treatment" display_name="treatment">not collected</Attribute>
+    </Attributes>
+    <Status status="live" when="2025-04-10T00:50:30.513"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-04-10T00:50:30.523" last_update="2025-04-10T00:50:30.523" submission_date="2024-09-11T02:43:03.967" id="43576843" accession="SAMN43576843">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN43576843</Id>
+      <Id db_label="Sample name">TGB-NNV3</Id>
+      <Id db="SRA">SRS22758895</Id>
+    </Ids>
+    <Description>
+      <Title>Model organism or animal sample from Cephalopholis sonnerati</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>not collected</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>fly</First>
+            <Last>fang</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">not collected</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">not collected</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato hind grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">not collected</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">not applicable</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-06-27</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">not collected</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+      <Attribute attribute_name="biomaterial_provider" harmonized_name="biomaterial_provider" display_name="biomaterial provider">not collected</Attribute>
+      <Attribute attribute_name="birth_date" harmonized_name="birth_date" display_name="birth date">not collected</Attribute>
+      <Attribute attribute_name="birth_location" harmonized_name="birth_location" display_name="birth location">not collected</Attribute>
+      <Attribute attribute_name="breeding_history" harmonized_name="breeding_history" display_name="breeding history">not collected</Attribute>
+      <Attribute attribute_name="breeding_method" harmonized_name="breeding_method" display_name="breeding method">not collected</Attribute>
+      <Attribute attribute_name="cell_line" harmonized_name="cell_line" display_name="cell line">TGB</Attribute>
+      <Attribute attribute_name="cell_subtype" harmonized_name="cell_subtype" display_name="cell subtype">not collected</Attribute>
+      <Attribute attribute_name="cell_type" harmonized_name="cell_type" display_name="cell type">not collected</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">not collected</Attribute>
+      <Attribute attribute_name="culture_collection" harmonized_name="culture_collection" display_name="culture collection">not collected</Attribute>
+      <Attribute attribute_name="death_date" harmonized_name="death_date" display_name="death date">not collected</Attribute>
+      <Attribute attribute_name="disease" harmonized_name="disease" display_name="disease">not collected</Attribute>
+      <Attribute attribute_name="disease_stage" harmonized_name="disease_stage" display_name="disease stage">NNV-3</Attribute>
+      <Attribute attribute_name="genotype" harmonized_name="genotype" display_name="genotype">not collected</Attribute>
+      <Attribute attribute_name="growth_protocol" harmonized_name="growth_protocol" display_name="growth protocol">not collected</Attribute>
+      <Attribute attribute_name="health_state" harmonized_name="health_state" display_name="health state">not collected</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">not collected</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">not collected</Attribute>
+      <Attribute attribute_name="phenotype" harmonized_name="phenotype" display_name="phenotype">not collected</Attribute>
+      <Attribute attribute_name="sample_type" harmonized_name="sample_type" display_name="sample type">not collected</Attribute>
+      <Attribute attribute_name="specimen_voucher" harmonized_name="specimen_voucher" display_name="specimen voucher">not collected</Attribute>
+      <Attribute attribute_name="store_cond" harmonized_name="store_cond" display_name="storage conditions">not collected</Attribute>
+      <Attribute attribute_name="stud_book_number" harmonized_name="stud_book_number" display_name="stud book number">not collected</Attribute>
+      <Attribute attribute_name="treatment" harmonized_name="treatment" display_name="treatment">not collected</Attribute>
+    </Attributes>
+    <Status status="live" when="2025-04-10T00:50:30.523"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-06T10:25:36.619" submission_date="2025-06-25T01:47:06.216" id="49597358" accession="SAMN49597358">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN49597358</Id>
+      <Id db_label="Sample name">Cephalopholis sonnerati (OG354)</Id>
+      <Id db="SRA">SRS25579008</Id>
+    </Ids>
+    <Description>
+      <Title>OG354.ilmn.NOVA_230324_AD</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>Keywords: GSC:MIxS;MIGS:6.0</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name abbreviation="Ocean Genomes">Ocean Genomes</Name>
+    </Owner>
+    <Models>
+      <Model>MIGS.eu</Model>
+    </Models>
+    <Package display_name="MIGS: eukaryote; version 6.0">MIGS.eu.6.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">OG354</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">missing</Attribute>
+      <Attribute attribute_name="env_broad_scale" harmonized_name="env_broad_scale" display_name="broad-scale environmental context">ENVO:00000447</Attribute>
+      <Attribute attribute_name="env_local_scale" harmonized_name="env_local_scale" display_name="local-scale environmental context">ENVO_01000048</Attribute>
+      <Attribute attribute_name="env_medium" harmonized_name="env_medium" display_name="environmental medium">ENVO:00002149</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">missing</Attribute>
+      <Attribute attribute_name="isol_growth_condt" harmonized_name="isol_growth_condt" display_name="isolation and growth condition">not applicable</Attribute>
+      <Attribute attribute_name="biotic_relationship" harmonized_name="biotic_relationship" display_name="observed biotic relationship">free living</Attribute>
+      <Attribute attribute_name="source_material_id" harmonized_name="source_material_id" display_name="source material identifiers">missing</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">not collected</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1098793">1098793</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T21:16:14.302"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-08-19T00:00:00.000" last_update="2025-08-20T09:17:42.037" submission_date="2025-08-19T02:18:04.443" id="50673795" accession="SAMN50673795">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN50673795</Id>
+      <Id db_label="Sample name">TGGI-I1</Id>
+      <Id db="SRA">SRS26224052</Id>
+    </Ids>
+    <Description>
+      <Title>Fish-cs1</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Chaowei</First>
+            <Last>Li</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">C-1</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Intestinal tissue</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">CS-1</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">200d</Attribute>
+      <Attribute attribute_name="dev_stage" harmonized_name="dev_stage" display_name="development stage">Immortality</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2025-03-14</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China: Hainan</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">intestine</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1307777">1307777</Link>
+    </Links>
+    <Status status="live" when="2025-08-19T02:18:04.444"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-08-19T00:00:00.000" last_update="2025-08-20T09:17:42.483" submission_date="2025-08-19T02:18:04.463" id="50673796" accession="SAMN50673796">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN50673796</Id>
+      <Id db_label="Sample name">TGGI-I2</Id>
+      <Id db="SRA">SRS26224053</Id>
+    </Ids>
+    <Description>
+      <Title>Fish-cs2</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Chaowei</First>
+            <Last>Li</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">C-2</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Intestinal tissue</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">CS-2</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">200d</Attribute>
+      <Attribute attribute_name="dev_stage" harmonized_name="dev_stage" display_name="development stage">Immortality</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2025-03-14</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China: Hainan</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">intestine</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1307777">1307777</Link>
+    </Links>
+    <Status status="live" when="2025-08-19T02:18:04.463"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-08-19T00:00:00.000" last_update="2025-08-20T09:17:43.823" submission_date="2025-08-19T02:18:04.477" id="50673797" accession="SAMN50673797">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN50673797</Id>
+      <Id db_label="Sample name">TGGI-I3</Id>
+      <Id db="SRA">SRS26224056</Id>
+    </Ids>
+    <Description>
+      <Title>Fish-cs3</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Chaowei</First>
+            <Last>Li</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">C-3</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Intestinal tissue</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">CS-3</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">200d</Attribute>
+      <Attribute attribute_name="dev_stage" harmonized_name="dev_stage" display_name="development stage">Immortality</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2025-03-14</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China: Hainan</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">intestine</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1307777">1307777</Link>
+    </Links>
+    <Status status="live" when="2025-08-19T02:18:04.478"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-08-19T00:00:00.000" last_update="2025-08-20T09:17:44.290" submission_date="2025-08-19T02:18:04.493" id="50673798" accession="SAMN50673798">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN50673798</Id>
+      <Id db_label="Sample name">TGGI-I1-60min</Id>
+      <Id db="SRA">SRS26224057</Id>
+    </Ids>
+    <Description>
+      <Title>Fish-cs4</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Chaowei</First>
+            <Last>Li</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">C-4</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Intestinal tissue</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">CS-4</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">200d</Attribute>
+      <Attribute attribute_name="dev_stage" harmonized_name="dev_stage" display_name="development stage">Immortality</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2025-03-14</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China: Hainan</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">intestine</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1307777">1307777</Link>
+    </Links>
+    <Status status="live" when="2025-08-19T02:18:04.492"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-08-19T00:00:00.000" last_update="2025-08-20T09:17:44.730" submission_date="2025-08-19T02:18:04.507" id="50673799" accession="SAMN50673799">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN50673799</Id>
+      <Id db_label="Sample name">TGGI-I2-60min</Id>
+      <Id db="SRA">SRS26224058</Id>
+    </Ids>
+    <Description>
+      <Title>Fish-cs5</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Chaowei</First>
+            <Last>Li</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">C-5</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Intestinal tissue</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">CS-5</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">200d</Attribute>
+      <Attribute attribute_name="dev_stage" harmonized_name="dev_stage" display_name="development stage">Immortality</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2025-03-14</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China: Hainan</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">intestine</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1307777">1307777</Link>
+    </Links>
+    <Status status="live" when="2025-08-19T02:18:04.507"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-08-19T00:00:00.000" last_update="2025-08-20T09:17:45.250" submission_date="2025-08-19T02:18:04.520" id="50673800" accession="SAMN50673800">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN50673800</Id>
+      <Id db_label="Sample name">TGGI-I31-60min</Id>
+      <Id db="SRA">SRS26224059</Id>
+    </Ids>
+    <Description>
+      <Title>Fish-cs6</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Chaowei</First>
+            <Last>Li</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">C-6</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Intestinal tissue</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">CS-6</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">200d</Attribute>
+      <Attribute attribute_name="dev_stage" harmonized_name="dev_stage" display_name="development stage">Immortality</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2025-03-14</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China: Hainan</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">intestine</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1307777">1307777</Link>
+    </Links>
+    <Status status="live" when="2025-08-19T02:18:04.521"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-08-19T00:00:00.000" last_update="2025-08-20T09:17:45.727" submission_date="2025-08-19T02:18:04.533" id="50673801" accession="SAMN50673801">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN50673801</Id>
+      <Id db_label="Sample name">TGGI-I1-90min</Id>
+      <Id db="SRA">SRS26224060</Id>
+    </Ids>
+    <Description>
+      <Title>Fish-cs7</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Chaowei</First>
+            <Last>Li</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">C-7</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Intestinal tissue</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">CS-7</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">200d</Attribute>
+      <Attribute attribute_name="dev_stage" harmonized_name="dev_stage" display_name="development stage">Immortality</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2025-03-14</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China: Hainan</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">intestine</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1307777">1307777</Link>
+    </Links>
+    <Status status="live" when="2025-08-19T02:18:04.533"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-08-19T00:00:00.000" last_update="2025-08-20T09:17:46.287" submission_date="2025-08-19T02:18:04.547" id="50673802" accession="SAMN50673802">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN50673802</Id>
+      <Id db_label="Sample name">TGGI-I2-90min</Id>
+      <Id db="SRA">SRS26224061</Id>
+    </Ids>
+    <Description>
+      <Title>Fish-cs8</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Chaowei</First>
+            <Last>Li</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">C-8</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Intestinal tissue</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">CS-8</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">200d</Attribute>
+      <Attribute attribute_name="dev_stage" harmonized_name="dev_stage" display_name="development stage">Immortality</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2025-03-14</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China: Hainan</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">intestine</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1307777">1307777</Link>
+    </Links>
+    <Status status="live" when="2025-08-19T02:18:04.546"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-08-19T00:00:00.000" last_update="2025-08-20T09:17:46.830" submission_date="2025-08-19T02:18:04.560" id="50673803" accession="SAMN50673803">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN50673803</Id>
+      <Id db_label="Sample name">TGGI-I3-90min</Id>
+      <Id db="SRA">SRS26224062</Id>
+    </Ids>
+    <Description>
+      <Title>Fish-cs9</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Chaowei</First>
+            <Last>Li</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">C-9</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Intestinal tissue</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">CS-9</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">200d</Attribute>
+      <Attribute attribute_name="dev_stage" harmonized_name="dev_stage" display_name="development stage">Immortality</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2025-03-14</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China: Hainan</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">intestine</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1307777">1307777</Link>
+    </Links>
+    <Status status="live" when="2025-08-19T02:18:04.560"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-08-19T00:00:00.000" last_update="2025-08-20T09:17:47.303" submission_date="2025-08-19T02:18:04.573" id="50673804" accession="SAMN50673804">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN50673804</Id>
+      <Id db_label="Sample name">TGGI-I1-120min</Id>
+      <Id db="SRA">SRS26224063</Id>
+    </Ids>
+    <Description>
+      <Title>Fish-cs10</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Chaowei</First>
+            <Last>Li</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">C-10</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Intestinal tissue</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">CS-10</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">200d</Attribute>
+      <Attribute attribute_name="dev_stage" harmonized_name="dev_stage" display_name="development stage">Immortality</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2025-03-14</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China: Hainan</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">intestine</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1307777">1307777</Link>
+    </Links>
+    <Status status="live" when="2025-08-19T02:18:04.572"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-08-19T00:00:00.000" last_update="2025-08-20T09:17:42.933" submission_date="2025-08-19T02:18:04.583" id="50673805" accession="SAMN50673805">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN50673805</Id>
+      <Id db_label="Sample name">TGGI-I2-120min</Id>
+      <Id db="SRA">SRS26224054</Id>
+    </Ids>
+    <Description>
+      <Title>Fish-cs11</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Chaowei</First>
+            <Last>Li</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">C-11</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Intestinal tissue</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">CS-11</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">200d</Attribute>
+      <Attribute attribute_name="dev_stage" harmonized_name="dev_stage" display_name="development stage">Immortality</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2025-03-14</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China: Hainan</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">intestine</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1307777">1307777</Link>
+    </Links>
+    <Status status="live" when="2025-08-19T02:18:04.584"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2025-08-19T00:00:00.000" last_update="2025-08-20T09:17:43.380" submission_date="2025-08-19T02:18:04.593" id="50673806" accession="SAMN50673806">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN50673806</Id>
+      <Id db_label="Sample name">TGGI-I3-120min</Id>
+      <Id db="SRA">SRS26224055</Id>
+    </Ids>
+    <Description>
+      <Title>Fish-cs12</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Yellow Sea Fisheries Research Institute</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Chaowei</First>
+            <Last>Li</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">C-12</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Intestinal tissue</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">tomato grouper</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">CS-12</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">not collected</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">200d</Attribute>
+      <Attribute attribute_name="dev_stage" harmonized_name="dev_stage" display_name="development stage">Immortality</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2025-03-14</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China: Hainan</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">intestine</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1307777">1307777</Link>
+    </Links>
+    <Status status="live" when="2025-08-19T02:18:04.594"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:15.680" submission_date="2026-03-05T20:08:04.830" id="56354321" accession="SAMN56354321">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354321</Id>
+      <Id db_label="Sample name">AbB2</Id>
+      <Id db="SRA">SRS28299078</Id>
+    </Ids>
+    <Description>
+      <Title>B1</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate1</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">B1</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:51:15.230"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:15.729" submission_date="2026-03-05T20:08:04.860" id="56354322" accession="SAMN56354322">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354322</Id>
+      <Id db_label="Sample name">AbB3</Id>
+      <Id db="SRA">SRS28299079</Id>
+    </Ids>
+    <Description>
+      <Title>B2</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate2</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">B2</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:51:15.243"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:15.762" submission_date="2026-03-05T20:08:04.873" id="56354323" accession="SAMN56354323">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354323</Id>
+      <Id db_label="Sample name">AbB4</Id>
+      <Id db="SRA">SRS28299088</Id>
+    </Ids>
+    <Description>
+      <Title>B3</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate3</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">B3</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:51:15.253"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:15.793" submission_date="2026-03-05T20:08:04.890" id="56354324" accession="SAMN56354324">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354324</Id>
+      <Id db_label="Sample name">AsB1</Id>
+      <Id db="SRA">SRS28299094</Id>
+    </Ids>
+    <Description>
+      <Title>B4</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate4</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">B4</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:51:15.263"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:15.828" submission_date="2026-03-05T20:08:04.903" id="56354325" accession="SAMN56354325">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354325</Id>
+      <Id db_label="Sample name">AsB2</Id>
+      <Id db="SRA">SRS28299097</Id>
+    </Ids>
+    <Description>
+      <Title>B5</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate5</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">B5</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:51:15.273"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:15.859" submission_date="2026-03-05T20:08:04.920" id="56354326" accession="SAMN56354326">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354326</Id>
+      <Id db_label="Sample name">AsB4</Id>
+      <Id db="SRA">SRS28299096</Id>
+    </Ids>
+    <Description>
+      <Title>B6</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate6</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">B6</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.690"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:15.892" submission_date="2026-03-05T20:08:04.933" id="56354327" accession="SAMN56354327">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354327</Id>
+      <Id db_label="Sample name">BbB1</Id>
+      <Id db="SRA">SRS28299098</Id>
+    </Ids>
+    <Description>
+      <Title>B7</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate7</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">B7</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.700"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:15.926" submission_date="2026-03-05T20:08:04.950" id="56354328" accession="SAMN56354328">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354328</Id>
+      <Id db_label="Sample name">BbB2</Id>
+      <Id db="SRA">SRS28299099</Id>
+    </Ids>
+    <Description>
+      <Title>B8</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate8</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">B8</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.707"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:15.960" submission_date="2026-03-05T20:08:04.963" id="56354329" accession="SAMN56354329">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354329</Id>
+      <Id db_label="Sample name">BbB3</Id>
+      <Id db="SRA">SRS28299100</Id>
+    </Ids>
+    <Description>
+      <Title>B9</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate9</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">B9</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.717"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:15.990" submission_date="2026-03-05T20:08:04.980" id="56354330" accession="SAMN56354330">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354330</Id>
+      <Id db_label="Sample name">BsB1</Id>
+      <Id db="SRA">SRS28299101</Id>
+    </Ids>
+    <Description>
+      <Title>B10</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate10</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">B10</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.730"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:16.021" submission_date="2026-03-05T20:08:04.993" id="56354331" accession="SAMN56354331">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354331</Id>
+      <Id db_label="Sample name">BsB2</Id>
+      <Id db="SRA">SRS28299077</Id>
+    </Ids>
+    <Description>
+      <Title>B11</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate11</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">B11</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.740"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:16.056" submission_date="2026-03-05T20:08:05.010" id="56354332" accession="SAMN56354332">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354332</Id>
+      <Id db_label="Sample name">BsB3</Id>
+      <Id db="SRA">SRS28299084</Id>
+    </Ids>
+    <Description>
+      <Title>B12</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate12</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">B12</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">brain</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.750"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:16.156" submission_date="2026-03-05T20:08:05.023" id="56354333" accession="SAMN56354333">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354333</Id>
+      <Id db_label="Sample name">AbM2</Id>
+      <Id db="SRA">SRS28299081</Id>
+    </Ids>
+    <Description>
+      <Title>M1</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate13</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">M1</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">muscle</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.757"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:16.193" submission_date="2026-03-05T20:08:05.036" id="56354334" accession="SAMN56354334">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354334</Id>
+      <Id db_label="Sample name">AbM3</Id>
+      <Id db="SRA">SRS28299082</Id>
+    </Ids>
+    <Description>
+      <Title>M2</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate14</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">M2</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">muscle</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.767"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:16.227" submission_date="2026-03-05T20:08:05.050" id="56354335" accession="SAMN56354335">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354335</Id>
+      <Id db_label="Sample name">AbM4</Id>
+      <Id db="SRA">SRS28299083</Id>
+    </Ids>
+    <Description>
+      <Title>M3</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate15</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">M3</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">muscle</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.777"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:16.260" submission_date="2026-03-05T20:08:05.063" id="56354336" accession="SAMN56354336">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354336</Id>
+      <Id db_label="Sample name">AsM1</Id>
+      <Id db="SRA">SRS28299085</Id>
+    </Ids>
+    <Description>
+      <Title>M4</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate16</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">M4</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">muscle</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.787"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:16.296" submission_date="2026-03-05T20:08:05.083" id="56354337" accession="SAMN56354337">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354337</Id>
+      <Id db_label="Sample name">AsM2</Id>
+      <Id db="SRA">SRS28299087</Id>
+    </Ids>
+    <Description>
+      <Title>M5</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate17</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">M5</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">muscle</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.797"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:16.336" submission_date="2026-03-05T20:08:05.096" id="56354338" accession="SAMN56354338">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354338</Id>
+      <Id db_label="Sample name">AsM4</Id>
+      <Id db="SRA">SRS28299086</Id>
+    </Ids>
+    <Description>
+      <Title>M6</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate18</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">M6</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">muscle</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.807"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:16.377" submission_date="2026-03-05T20:08:05.110" id="56354339" accession="SAMN56354339">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354339</Id>
+      <Id db_label="Sample name">BbM1</Id>
+      <Id db="SRA">SRS28299093</Id>
+    </Ids>
+    <Description>
+      <Title>M7</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate19</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">M7</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">muscle</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.817"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:16.413" submission_date="2026-03-05T20:08:05.130" id="56354340" accession="SAMN56354340">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354340</Id>
+      <Id db_label="Sample name">BbM2</Id>
+      <Id db="SRA">SRS28299089</Id>
+    </Ids>
+    <Description>
+      <Title>M8</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate20</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">M8</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">muscle</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.827"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:16.446" submission_date="2026-03-05T20:08:05.150" id="56354341" accession="SAMN56354341">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354341</Id>
+      <Id db_label="Sample name">BbM3</Id>
+      <Id db="SRA">SRS28299090</Id>
+    </Ids>
+    <Description>
+      <Title>M9</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate21</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">M9</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">muscle</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.840"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:16.483" submission_date="2026-03-05T20:08:05.176" id="56354342" accession="SAMN56354342">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354342</Id>
+      <Id db_label="Sample name">BsM1</Id>
+      <Id db="SRA">SRS28299091</Id>
+    </Ids>
+    <Description>
+      <Title>M10</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate22</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">M10</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">muscle</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.850"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:16.518" submission_date="2026-03-05T20:08:05.200" id="56354343" accession="SAMN56354343">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354343</Id>
+      <Id db_label="Sample name">BsM2</Id>
+      <Id db="SRA">SRS28299092</Id>
+    </Ids>
+    <Description>
+      <Title>M11</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate23</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">M11</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">muscle</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.860"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-07T01:49:16.554" submission_date="2026-03-05T20:08:05.220" id="56354344" accession="SAMN56354344">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56354344</Id>
+      <Id db_label="Sample name">BsM3</Id>
+      <Id db="SRA">SRS28299095</Id>
+    </Ids>
+    <Description>
+      <Title>M12</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>biological replicate24</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Chinese Academy of Fishery Sciences</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Yang</First>
+            <Last>Liu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="breed" harmonized_name="breed" display_name="breed">missing</Attribute>
+      <Attribute attribute_name="cultivar" harmonized_name="cultivar" display_name="cultivar">missing</Attribute>
+      <Attribute attribute_name="ecotype" harmonized_name="ecotype" display_name="ecotype">M12</Attribute>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2024-12-15</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:wanning</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not provided</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">muscle</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1433042">1433042</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T00:52:23.870"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-03-26T00:00:00.000" last_update="2026-03-26T11:58:52.797" submission_date="2026-03-26T11:43:10.787" id="56723270" accession="SAMN56723270">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN56723270</Id>
+      <Id db_label="Sample name">Cephalopholis_sonnerati_USNM:FISH:405896</Id>
+      <Id db="SRA">SRS28543232</Id>
+    </Ids>
+    <Description>
+      <Title>Genome skim of Cephalopholis sonnerati USNM:FISH:405896</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Smithsonian National Museum of Natural History</Name>
+      <Contacts>
+        <Contact>
+          <Name>
+            <First>Matthew</First>
+            <Last>Girard</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Model organism or animal</Model>
+    </Models>
+    <Package display_name="Model organism or animal; version 1.0">Model.organism.animal.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="age" harmonized_name="age" display_name="age">not collected</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">not collected</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2012-05-19</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">Pacific Ocean: Philippines, Mindanao, Davao del Sur</Attribute>
+      <Attribute attribute_name="sex" harmonized_name="sex" display_name="sex">not collected</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">muscle</Attribute>
+      <Attribute attribute_name="institutionCode">USNM</Attribute>
+      <Attribute attribute_name="collectionCode">FISH</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">7.018439 N 125.495847 E</Attribute>
+      <Attribute attribute_name="voucherCatalogNumber">USNM:FISH:405896</Attribute>
+      <Attribute attribute_name="tissueCatalogNumber">USNM:Biorepository:AG9RG83</Attribute>
+      <Attribute attribute_name="extractCatalogNumber">USNM:Biorepository:AH0SQ88</Attribute>
+      <Attribute attribute_name="materialSampleID">USNM_Fish_405896</Attribute>
+      <Attribute attribute_name="voucherURI">https://n2t.net/ark:/65665/389421760-e06e-4585-b865-0aa15a1615ce</Attribute>
+      <Attribute attribute_name="tissueURI">https://n2t.net/ark:/65665/359703008-ddf8-4822-9316-4d31a8194827</Attribute>
+      <Attribute attribute_name="extractURI">https://n2t.net/ark:/65665/399614ca6-da6c-4cfd-8d8a-acebd6987eaf</Attribute>
+      <Attribute attribute_name="eventID">PI_2012_01_A</Attribute>
+      <Attribute attribute_name="samplingProtocol">Purchased at market</Attribute>
+      <Attribute attribute_name="collected by" harmonized_name="collected_by" display_name="collected by">Jeffrey Williams | Kent Carpenter | Ting Nanola | Apollo Lizano | Toby Potenciana</Attribute>
+      <Attribute attribute_name="wormsID">218183</Attribute>
+      <Attribute attribute_name="bcid">https://n2t.net/ark:/21547/GTF2USNM_Fish_405896</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA720393">720393</Link>
+    </Links>
+    <Status status="live" when="2026-03-26T11:43:10.787"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-09-11T00:00:00.000" last_update="2026-09-15T01:46:44.000" submission_date="2026-09-12T12:07:25.616" id="63106385" accession="SAMEA123450337">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA123450337</Id>
+      <Id db="SRA">ERS31307163</Id>
+    </Ids>
+    <Description>
+      <Title>Cephalopholis sonnerati (Tomato Hind)</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ENA-CHECKLIST">ERC000011</Attribute>
+      <Attribute attribute_name="INSDC center name">OceanOmics</Attribute>
+      <Attribute attribute_name="Submitter Id">OG354</Attribute>
+      <Attribute attribute_name="collection date" harmonized_name="collection_date" display_name="collection date">not collected</Attribute>
+      <Attribute attribute_name="collector">WA FIsheries</Attribute>
+      <Attribute attribute_name="common name">tomato hind</Attribute>
+      <Attribute attribute_name="geographic location (country and/or sea)" harmonized_name="geo_loc_name" display_name="geographic location">not collected</Attribute>
+      <Attribute attribute_name="preservation_method">Other</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">OG354</Attribute>
+      <Attribute attribute_name="sample same as">SAMN49597358</Attribute>
+      <Attribute attribute_name="scientific_name">Cephalopholis sonnerati</Attribute>
+    </Attributes>
+    <Status status="live" when="2026-09-13T10:07:58.083"/>
+  </BioSample>
+</BioSampleSet>

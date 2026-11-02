@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these scripts or results, please cite the review and this repository."
+title: "Tomato hind (Cephalopholis sonnerati): public sequence data audit and re-analysis"
+type: software
+license: MIT
+repository-code: "https://github.com/MManee/tomato-hind-omics-review"
+date-released: 2026-11-02
+authors:
+  - family-names: Manee
+    given-names: Manee M.
+    orcid: "https://orcid.org/0000-0001-9493-619X"
+    affiliation: "King Abdulaziz City for Science and Technology"
+  - family-names: Alqahtani
+    given-names: Mohammad S.
+    affiliation: "King Abdulaziz City for Science and Technology"
+  - family-names: Al-Shomrani
+    given-names: Badr M.
+    orcid: "https://orcid.org/0000-0002-7015-6110"
+    affiliation: "King Abdulaziz City for Science and Technology"
+  - family-names: Alqahtani
+    given-names: Fahad H.
+    orcid: "https://orcid.org/0000-0002-2498-4871"
+    affiliation: "King Abdulaziz City for Science and Technology"

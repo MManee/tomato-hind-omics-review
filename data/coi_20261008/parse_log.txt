@@ -1,0 +1,36 @@
+Biopython 1.88
+CDS_annotation	1283
+duplicate_record_skipped	3
+gene_annotation	1
+no_COI	566
+records_read	1851
+whole_record_definition	1
+COI sequences written	1285
+
+COI sequences per organism name:
+Cephalopholis boenak	286
+Cephalopholis urodeta	155
+Cephalopholis argus	118
+Cephalopholis sonnerati	100
+Cephalopholis nigripinnis	79
+Cephalopholis formosa	76
+Cephalopholis nigripinnis x Cephalopholis urodeta	75
+Cephalopholis miniata	73
+Cephalopholis hemistiktos	70
+Cephalopholis cyanostigma	36
+Cephalopholis fulva	36
+Cephalopholis sexmaculata	30
+Cephalopholis spiloparaea	26
+Cephalopholis cruentata	24
+Cephalopholis leopardus	23
+Cephalopholis aurantia	22
+Cephalopholis microprion	18
+Cephalopholis igarashiensis	11
+Cephalopholis polleni	9
+Cephalopholis taeniops	5
+Cephalopholis nigri	4
+Cephalopholis oligosticta	2
+Cephalopholis aitha	2
+Cephalopholis panamensis	2
+Cephalopholis sp.	2
+Cephalopholis aff. formosa CIFEFGB-CF-007	1

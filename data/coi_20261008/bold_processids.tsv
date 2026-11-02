@@ -1,0 +1,1274 @@
+processid	sampleid	species	identification	bin_uri	marker_code	country	insdc_acs	inst	nuc_len
+ANGBF29017-19	KU064288		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064288	Mined from GenBank, NCBI	623
+ANGBF29018-19	KU064293		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064293	Mined from GenBank, NCBI	623
+ANGBF29019-19	KU064306		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064306	Mined from GenBank, NCBI	623
+ANGBF29020-19	KU064307		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064307	Mined from GenBank, NCBI	623
+ANGBF29021-19	KU064309		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064309	Mined from GenBank, NCBI	623
+ANGBF29022-19	KU064321		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064321	Mined from GenBank, NCBI	623
+ANGBF29023-19	KU064332		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064332	Mined from GenBank, NCBI	623
+ANGBF29024-19	KU064333		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064333	Mined from GenBank, NCBI	623
+ANGBF29025-19	KU064343		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064343	Mined from GenBank, NCBI	623
+ANGBF29026-19	KU064345		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064345	Mined from GenBank, NCBI	623
+ANGBF29027-19	KU064346		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064346	Mined from GenBank, NCBI	623
+ANGBF29028-19	KU064349		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064349	Mined from GenBank, NCBI	623
+ANGBF29029-19	KU064351		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064351	Mined from GenBank, NCBI	623
+ANGBF29030-19	KU064352		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064352	Mined from GenBank, NCBI	623
+ANGBF29031-19	KU064357		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064357	Mined from GenBank, NCBI	623
+ANGBF3369-12	JX674966	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	India	JX674966	Mined from GenBank, NCBI	647
+ANGBF3370-12	JX674964	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	India	JX674964	Mined from GenBank, NCBI	647
+ANGBF3371-12	JX674962	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:ACC0647	COI-5P	India	JX674962	Mined from GenBank, NCBI	652
+ANGBF3372-12	JX674960	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:ACC0647	COI-5P	India	JX674960	Mined from GenBank, NCBI	652
+ANGBF3373-12	JX674958	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:ACC0647	COI-5P	India	JX674958	Mined from GenBank, NCBI	652
+ANGBF3374-12	JX674956	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	India	JX674956	Mined from GenBank, NCBI	652
+ANGBF3375-12	JX674954	Cephalopholis microprion	Cephalopholis microprion	BOLD:AAC0217	COI-5P	India	JX674954	Mined from GenBank, NCBI	651
+ANGBF3376-12	JX674952	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India	JX674952	Mined from GenBank, NCBI	648
+ANGBF3377-12	JX674950	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India	JX674950	Mined from GenBank, NCBI	642
+ANGBF3378-12	JX674948	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	India	JX674948	Mined from GenBank, NCBI	647
+ANGBF3379-12	JX674946	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	India	JX674946	Mined from GenBank, NCBI	647
+ANGBF3419-12	JX674965	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	India	JX674965	Mined from GenBank, NCBI	647
+ANGBF3420-12	JX674963	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	India	JX674963	Mined from GenBank, NCBI	647
+ANGBF3421-12	JX674961	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:ACC0647	COI-5P	India	JX674961	Mined from GenBank, NCBI	652
+ANGBF3422-12	JX674959	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:ACC0647	COI-5P	India	JX674959	Mined from GenBank, NCBI	652
+ANGBF3423-12	JX674957	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	India	JX674957	Mined from GenBank, NCBI	652
+ANGBF3424-12	JX674955	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	India	JX674955	Mined from GenBank, NCBI	652
+ANGBF3425-12	JX674953	Cephalopholis microprion	Cephalopholis microprion	BOLD:AAC0217	COI-5P	India	JX674953	Mined from GenBank, NCBI	651
+ANGBF3426-12	JX674951	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India	JX674951	Mined from GenBank, NCBI	648
+ANGBF3427-12	JX674949	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India	JX674949	Mined from GenBank, NCBI	648
+ANGBF3428-12	JX674947	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	India	JX674947	Mined from GenBank, NCBI	647
+ANGBF39796-19	KU668641	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P		KU668641	Mined from GenBank, NCBI	636
+ANGBF39797-19	KY449682	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449682	Mined from GenBank, NCBI	528
+ANGBF39798-19	KY449683	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449683	Mined from GenBank, NCBI	528
+ANGBF39799-19	KY449684	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449684	Mined from GenBank, NCBI	528
+ANGBF39800-19	KY449685	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449685	Mined from GenBank, NCBI	528
+ANGBF39801-19	KY449686	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449686	Mined from GenBank, NCBI	528
+ANGBF39802-19	KY449687	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449687	Mined from GenBank, NCBI	528
+ANGBF39803-19	KY449688	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449688	Mined from GenBank, NCBI	528
+ANGBF39804-19	KY449689	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449689	Mined from GenBank, NCBI	528
+ANGBF39805-19	KY449690	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449690	Mined from GenBank, NCBI	528
+ANGBF39806-19	KY449691	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449691	Mined from GenBank, NCBI	528
+ANGBF39807-19	KY449692	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449692	Mined from GenBank, NCBI	528
+ANGBF39808-19	KY449693	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449693	Mined from GenBank, NCBI	528
+ANGBF39809-19	KY449694	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449694	Mined from GenBank, NCBI	528
+ANGBF39810-19	KY449695	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449695	Mined from GenBank, NCBI	528
+ANGBF39811-19	KY449696	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449696	Mined from GenBank, NCBI	528
+ANGBF39812-19	KY449697	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449697	Mined from GenBank, NCBI	528
+ANGBF39813-19	KY449698	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449698	Mined from GenBank, NCBI	528
+ANGBF39814-19	KY449699	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449699	Mined from GenBank, NCBI	528
+ANGBF39815-19	KY449700	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449700	Mined from GenBank, NCBI	528
+ANGBF39816-19	KY449701	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449701	Mined from GenBank, NCBI	528
+ANGBF39817-19	KY449702	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449702	Mined from GenBank, NCBI	528
+ANGBF39818-19	KY449703	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449703	Mined from GenBank, NCBI	528
+ANGBF39819-19	KY449704	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449704	Mined from GenBank, NCBI	528
+ANGBF39820-19	KY449705	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449705	Mined from GenBank, NCBI	528
+ANGBF39821-19	KY449706	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449706	Mined from GenBank, NCBI	528
+ANGBF39822-19	KY449707	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449707	Mined from GenBank, NCBI	528
+ANGBF39823-19	KY449708	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449708	Mined from GenBank, NCBI	528
+ANGBF39824-19	KY449709	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449709	Mined from GenBank, NCBI	528
+ANGBF39825-19	KY449710	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449710	Mined from GenBank, NCBI	528
+ANGBF39826-19	KY449711	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449711	Mined from GenBank, NCBI	528
+ANGBF39827-19	KY449712	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449712	Mined from GenBank, NCBI	528
+ANGBF39828-19	KY449713	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449713	Mined from GenBank, NCBI	528
+ANGBF39829-19	KY449714	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449714	Mined from GenBank, NCBI	528
+ANGBF39830-19	KY449715	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449715	Mined from GenBank, NCBI	528
+ANGBF39831-19	KY449716	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449716	Mined from GenBank, NCBI	528
+ANGBF39832-19	KY449717	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449717	Mined from GenBank, NCBI	528
+ANGBF39833-19	KY449718	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449718	Mined from GenBank, NCBI	528
+ANGBF39834-19	KY449719	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449719	Mined from GenBank, NCBI	528
+ANGBF39835-19	KY449720	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449720	Mined from GenBank, NCBI	528
+ANGBF39836-19	KY449721	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449721	Mined from GenBank, NCBI	528
+ANGBF39837-19	KY449722	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449722	Mined from GenBank, NCBI	528
+ANGBF39838-19	KY449723	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Djibouti	KY449723	Mined from GenBank, NCBI	528
+ANGBF39839-19	KY449724	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Oman	KY449724	Mined from GenBank, NCBI	528
+ANGBF39840-19	KY449725	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Oman	KY449725	Mined from GenBank, NCBI	528
+ANGBF39841-19	KY449726	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Oman	KY449726	Mined from GenBank, NCBI	528
+ANGBF39842-19	KY449727	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Oman	KY449727	Mined from GenBank, NCBI	528
+ANGBF39843-19	KY449728	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Oman	KY449728	Mined from GenBank, NCBI	528
+ANGBF39844-19	KY449729	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Oman	KY449729	Mined from GenBank, NCBI	528
+ANGBF39845-19	KY449730	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Oman	KY449730	Mined from GenBank, NCBI	528
+ANGBF39846-19	KY449731	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Oman	KY449731	Mined from GenBank, NCBI	528
+ANGBF39847-19	KY449732	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Oman	KY449732	Mined from GenBank, NCBI	528
+ANGBF39848-19	KY449733	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Somalia	KY449733	Mined from GenBank, NCBI	528
+ANGBF39849-19	KY449734	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Somalia	KY449734	Mined from GenBank, NCBI	528
+ANGBF39850-19	KY449735	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Somalia	KY449735	Mined from GenBank, NCBI	528
+ANGBF39851-19	KY449736	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Somalia	KY449736	Mined from GenBank, NCBI	528
+ANGBF39852-19	KY449737	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Somalia	KY449737	Mined from GenBank, NCBI	528
+ANGBF39853-19	KY449738	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Somalia	KY449738	Mined from GenBank, NCBI	528
+ANGBF39854-19	KY449739	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Somalia	KY449739	Mined from GenBank, NCBI	528
+ANGBF39855-19	KY449740	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Somalia	KY449740	Mined from GenBank, NCBI	528
+ANGBF39856-19	KY449741	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Somalia	KY449741	Mined from GenBank, NCBI	528
+ANGBF39857-19	KY449742	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Somalia	KY449742	Mined from GenBank, NCBI	528
+ANGBF39858-19	KY449743	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Somalia	KY449743	Mined from GenBank, NCBI	528
+ANGBF39859-19	KY449744	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Somalia	KY449744	Mined from GenBank, NCBI	528
+ANGBF39860-19	MF185407	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P		MF185407	Mined from GenBank, NCBI	654
+ANGBF39861-19	MF185408	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P		MF185408	Mined from GenBank, NCBI	654
+ANGBF39862-19	MF185409	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P		MF185409	Mined from GenBank, NCBI	654
+ANGBF39863-19	MF185410	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P		MF185410	Mined from GenBank, NCBI	654
+ANGBF39864-19	MH331690	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Saudi Arabia	MH331690	Mined from GenBank, NCBI	537
+ANGBF39865-19	MH331691	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Oman	MH331691	Mined from GenBank, NCBI	537
+ANGBF39866-19	MH707304	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Egypt	MH707304	Mined from GenBank, NCBI	624
+ANGBF39867-19	MH707305	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Egypt	MH707305	Mined from GenBank, NCBI	624
+ANGBF39868-19	KM226218	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAI7557	COI-5P	India	KM226218	Mined from GenBank, NCBI	655
+ANGBF39869-19	MF185411	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P		MF185411	Mined from GenBank, NCBI	654
+ANGBF39870-19	MF185412	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P		MF185412	Mined from GenBank, NCBI	654
+ANGBF39871-19	MF185413	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P		MF185413	Mined from GenBank, NCBI	654
+ANGBF39872-19	MF185414	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P		MF185414	Mined from GenBank, NCBI	654
+ANGBF39873-19	MF185415	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P		MF185415	Mined from GenBank, NCBI	654
+ANGBF39874-19	MF185416	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P		MF185416	Mined from GenBank, NCBI	654
+ANGBF39875-19	MH311293	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Bangladesh	MH311293	Mined from GenBank, NCBI	652
+ANGBF39876-19	KU668647	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P		KU668647	Mined from GenBank, NCBI	636
+ANGBF39877-19	MH085804	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P		MH085804	Mined from GenBank, NCBI	540
+ANGBF39878-19	KF268151	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India	KF268151	Mined from GenBank, NCBI	551
+ANGBF39879-19	KF268152	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India	KF268152	Mined from GenBank, NCBI	551
+ANGBF39880-19	KF268153	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India	KF268153	Mined from GenBank, NCBI	551
+ANGBF39881-19	KF268154	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India	KF268154	Mined from GenBank, NCBI	551
+ANGBF39882-19	KF268155	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India	KF268155	Mined from GenBank, NCBI	551
+ANGBF39883-19	KF268156	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India	KF268156	Mined from GenBank, NCBI	551
+ANGBF39884-19	KF268157	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India	KF268157	Mined from GenBank, NCBI	551
+ANGBF39885-19	KF268158	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India	KF268158	Mined from GenBank, NCBI	551
+ANGBF39886-19	MF185417	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P		MF185417	Mined from GenBank, NCBI	654
+ANGBF39887-19	MF185418	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P		MF185418	Mined from GenBank, NCBI	654
+ANGBF39888-19	MH429359	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Bangladesh	MH429359	Mined from GenBank, NCBI	655
+ANGBF39889-19	KY402325	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Brazil	KY402325	Mined from GenBank, NCBI	532
+ANGBF39890-19	MF999195	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Brazil	MF999195	Mined from GenBank, NCBI	564
+ANGBF39891-19	KU191069	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KU191069	Mined from GenBank, NCBI	580
+ANGBF39892-19	KT216207	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Djibouti	KT216207	Mined from GenBank, NCBI	628
+ANGBF39893-19	KT216200	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216200	Mined from GenBank, NCBI	629
+ANGBF39894-19	KT216215	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216215	Mined from GenBank, NCBI	629
+ANGBF39895-19	KT216222	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216222	Mined from GenBank, NCBI	629
+ANGBF39896-19	KT216223	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216223	Mined from GenBank, NCBI	629
+ANGBF39897-19	KT216225	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Oman	KT216225	Mined from GenBank, NCBI	629
+ANGBF39898-19	KT216226	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Oman	KT216226	Mined from GenBank, NCBI	629
+ANGBF39899-19	KT216232	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Sudan	KT216232	Mined from GenBank, NCBI	629
+ANGBF39900-19	KT216234	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Sudan	KT216234	Mined from GenBank, NCBI	629
+ANGBF39901-19	KY675600	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KY675600	Mined from GenBank, NCBI	551
+ANGBF39902-19	MH331692	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	MH331692	Mined from GenBank, NCBI	575
+ANGBF39903-19	MH331693	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Oman	MH331693	Mined from GenBank, NCBI	575
+ANGBF39904-19	MH707306	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Egypt	MH707306	Mined from GenBank, NCBI	656
+ANGBF39905-19	MH707307	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Egypt	MH707307	Mined from GenBank, NCBI	656
+ANGBF39906-19	MH707308	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Egypt	MH707308	Mined from GenBank, NCBI	656
+ANGBF39907-19	KU668656	Cephalopholis igarashiensis	Cephalopholis igarashiensis	BOLD:AAE9793	COI-5P		KU668656	Mined from GenBank, NCBI	632
+ANGBF39908-19	KU191256	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Saudi Arabia	KU191256	Mined from GenBank, NCBI	576
+ANGBF39909-19	KU191264	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Saudi Arabia	KU191264	Mined from GenBank, NCBI	576
+ANGBF39910-19	KU191068	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Saudi Arabia	KU191068	Mined from GenBank, NCBI	580
+ANGBF39911-19	KU668644	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P		KU668644	Mined from GenBank, NCBI	627
+ANGBF39912-19	KU668645	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P		KU668645	Mined from GenBank, NCBI	635
+ANGBF39913-19	KU668646	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P		KU668646	Mined from GenBank, NCBI	635
+ANGBF39914-19	MF185419	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P		MF185419	Mined from GenBank, NCBI	654
+ANGBF39915-19	MF185420	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P		MF185420	Mined from GenBank, NCBI	654
+ANGBF39916-19	MF185421	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P		MF185421	Mined from GenBank, NCBI	654
+ANGBF39917-19	MH331694	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Australia	MH331694	Mined from GenBank, NCBI	580
+ANGBF39918-19	MH331695	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Saudi Arabia	MH331695	Mined from GenBank, NCBI	580
+ANGBF39919-19	MH085805	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P		MH085805	Mined from GenBank, NCBI	609
+ANGBF39920-19	MH707301	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Egypt	MH707301	Mined from GenBank, NCBI	621
+ANGBF39921-19	MH707302	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Egypt	MH707302	Mined from GenBank, NCBI	621
+ANGBF39922-19	KU064359	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064359	Mined from GenBank, NCBI	623
+ANGBF39923-19	KU064365	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064365	Mined from GenBank, NCBI	623
+ANGBF39924-19	KU064369	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064369	Mined from GenBank, NCBI	623
+ANGBF39925-19	KU064374	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064374	Mined from GenBank, NCBI	623
+ANGBF39926-19	KU064389	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064389	Mined from GenBank, NCBI	623
+ANGBF39927-19	KU064392	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064392	Mined from GenBank, NCBI	623
+ANGBF39928-19	KU064483	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064483	Mined from GenBank, NCBI	623
+ANGBF39929-19	KU064496	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064496	Mined from GenBank, NCBI	623
+ANGBF39930-19	KU064503	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064503	Mined from GenBank, NCBI	623
+ANGBF39931-19	KU064504	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064504	Mined from GenBank, NCBI	623
+ANGBF39932-19	KU064507	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064507	Mined from GenBank, NCBI	623
+ANGBF39933-19	MH707291	Cephalopholis oligosticta	Cephalopholis oligosticta	BOLD:ADJ9433	COI-5P	Egypt	MH707291	Mined from GenBank, NCBI	662
+ANGBF39934-19	KU668630	Cephalopholis polleni	Cephalopholis polleni	BOLD:AAK0631	COI-5P		KU668630	Mined from GenBank, NCBI	636
+ANGBF39935-19	KU668622	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P		KU668622	Mined from GenBank, NCBI	636
+ANGBF39936-19	MF185422	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P		MF185422	Mined from GenBank, NCBI	654
+ANGBF39937-19	MF185423	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P		MF185423	Mined from GenBank, NCBI	654
+ANGBF39938-19	MH331696	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	Saudi Arabia	MH331696	Mined from GenBank, NCBI	609
+ANGBF39939-19	MH707297	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	Egypt	MH707297	Mined from GenBank, NCBI	621
+ANGBF39940-19	JX093918	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	New Caledonia	JX093918	Mined from GenBank, NCBI	651
+ANGBF39941-19	KU668631	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P		KU668631	Mined from GenBank, NCBI	636
+ANGBF39942-19	KU668632	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P		KU668632	Mined from GenBank, NCBI	636
+ANGBF39943-19	KU668633	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P		KU668633	Mined from GenBank, NCBI	636
+ANGBF39944-19	KU668634	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P		KU668634	Mined from GenBank, NCBI	636
+ANGBF39945-19	MF185424	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P		MF185424	Mined from GenBank, NCBI	654
+ANGBF39946-19	MF185425	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P		MF185425	Mined from GenBank, NCBI	654
+ANGBF39947-19	MF185426	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P		MF185426	Mined from GenBank, NCBI	654
+ANGBF39948-19	MF185427	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P		MF185427	Mined from GenBank, NCBI	654
+ANGBF39949-19	MH085806	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P		MH085806	Mined from GenBank, NCBI	621
+ANGBF39950-19	KU668655	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAB5432	COI-5P		KU668655	Mined from GenBank, NCBI	631
+ANGBF39951-19	KU064401	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064401	Mined from GenBank, NCBI	623
+ANGBF39952-19	KU064411	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064411	Mined from GenBank, NCBI	623
+ANGBF39953-19	KU064420	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064420	Mined from GenBank, NCBI	623
+ANGBF39954-19	KU064421	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064421	Mined from GenBank, NCBI	623
+ANGBF39955-19	KU064424	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064424	Mined from GenBank, NCBI	623
+ANGBF39956-19	KU064427	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064427	Mined from GenBank, NCBI	623
+ANGBF39957-19	KU064430	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064430	Mined from GenBank, NCBI	623
+ANGBF39958-19	KU064447	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064447	Mined from GenBank, NCBI	623
+ANGBF39959-19	KU064458	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064458	Mined from GenBank, NCBI	623
+ANGBF39960-19	KU064471	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064471	Mined from GenBank, NCBI	623
+ANGBF39961-19	KU064476	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Micronesia	KU064476	Mined from GenBank, NCBI	623
+ANGBF39962-19	KU064508	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Palau	KU064508	Mined from GenBank, NCBI	623
+ANGBF39963-19	KU064510	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Palau	KU064510	Mined from GenBank, NCBI	623
+ANGBF39964-19	KU064513	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Palau	KU064513	Mined from GenBank, NCBI	623
+ANGBF39965-19	KU064514	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Palau	KU064514	Mined from GenBank, NCBI	623
+ANGBF39966-19	KU064515	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Palau	KU064515	Mined from GenBank, NCBI	623
+ANGBF39967-19	KU064517	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Philippines	KU064517	Mined from GenBank, NCBI	623
+ANGBF39968-19	KU686889	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Philippines	KU686889	Mined from GenBank, NCBI	641
+ANGBF39969-19	MF185428	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P		MF185428	Mined from GenBank, NCBI	654
+ANGBF39970-19	MF185429	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P		MF185429	Mined from GenBank, NCBI	654
+ANGBF39971-19	NC_030057	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P		NC_030057	Mined from GenBank, NCBI	1548
+ANGBF56136-19	MK340596	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Bangladesh	MK340596	Mined from GenBank, NCBI	611
+ANGBF56137-19	MK340597	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Bangladesh	MK340597	Mined from GenBank, NCBI	611
+ANGBF56138-19	MK340598	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Bangladesh	MK340598	Mined from GenBank, NCBI	611
+ANGBF56139-19	MK340599	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Bangladesh	MK340599	Mined from GenBank, NCBI	611
+ANGBF5977-12	FJ459565	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indian Ocean	FJ459565	Mined from GenBank, NCBI	655
+ANGBF6067-12	FJ459564	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indian Ocean	FJ459564	Mined from GenBank, NCBI	655
+ANGBF7076-12	HQ611098	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5431	COI-5P	South Africa	HQ611098	Mined from GenBank, NCBI	648
+ANGBF7077-12	HQ611096	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5431	COI-5P	South Africa	HQ611096	Mined from GenBank, NCBI	648
+ANGBF7166-12	HQ611097	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5431	COI-5P	South Africa	HQ611097	Mined from GenBank, NCBI	648
+ARMSR254-23	1881_006		Cephalopholis	BOLD:AAB5431	COI-5P	Madagascar		Institut de Recherche pour le Developpement, France	628
+AUSTR275-13	AUST-277	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	French Polynesia	MK657264	Smithsonian Institution, National Museum of Natural History	655
+AUSTR379-13	AUST-381	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAE4050	COI-5P	French Polynesia	MK658149	Smithsonian Institution, National Museum of Natural History	652
+AUSTR503-13	AUST-505	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	French Polynesia	MK658630	Smithsonian Institution, National Museum of Natural History	655
+AUSTR550-13	AUST-552	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	French Polynesia	MK658245	Smithsonian Institution, National Museum of Natural History	655
+BAHA033-08	BAHA8033	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Bahamas	JQ839727	Smithsonian Institution	655
+BAHA034-08	BAHA8034	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Bahamas	JQ839728	Smithsonian Institution	622
+BAHB152-15	BAHB9152		Cephalopholis	BOLD:AAB4588	COI-5P	Bahamas		Smithsonian Institution, National Museum of Natural History	655
+BIFZC004-17	IRD BMF-62.2	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia	MN870564	Universitas Pattimura, Unpatti Poka	652
+BIFZC427-17	IRD BMF-57.2	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Indonesia	MN870482	Universitas Pattimura, Unpatti Poka	652
+BIFZC428-17	IRD BMF-58.2	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Indonesia	MN870393	Universitas Pattimura, Unpatti Poka	640
+BIFZC430-17	IRD BMF-498.2	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Indonesia	MN870001	Universitas Pattimura, Unpatti Poka	652
+BIFZC432-17	IRD BMF-665.2	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAB5432	COI-5P	Indonesia	MN870373	Universitas Pattimura, Unpatti Poka	652
+BIFZC433-17	IRD BMF-45.2	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Indonesia	MN870407	Universitas Pattimura, Unpatti Poka	652
+BIFZC434-17	IRD BMF-496.2	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Indonesia	MN869981	Universitas Pattimura, Unpatti Poka	652
+BIFZC435-17	IRD BMF-584.2	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Indonesia	MN870536	Universitas Pattimura, Unpatti Poka	652
+BIFZC436-17	IRD BMF-292.2	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia	MN870098	Universitas Pattimura, Unpatti Poka	652
+BIFZC437-17	IRD BMF-410.2	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia	MN870034	Universitas Pattimura, Unpatti Poka	652
+BIFZC438-17	IRD BMF-411.2	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia	MN870445	Universitas Pattimura, Unpatti Poka	652
+BIFZC440-17	IRD BMF-560.2	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia	MN870107	Universitas Pattimura, Unpatti Poka	652
+BIFZC441-17	IRD BMF-26.2	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia	MN870379	Universitas Pattimura, Unpatti Poka	652
+BIFZC442-17	IRD BMF-27.2	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia	MN870587	Universitas Pattimura, Unpatti Poka	652
+BIFZC443-17	IRD BMF-28.2	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia	MN870577	Universitas Pattimura, Unpatti Poka	652
+BIFZC444-17	IRD BMF-29.2	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia	MN870343	Universitas Pattimura, Unpatti Poka	652
+BIFZC445-17	IRD BMF-247.2	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia	MN870181	Universitas Pattimura, Unpatti Poka	652
+BIFZC446-17	IRD BMF-597.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia	MN870108	Universitas Pattimura, Unpatti Poka	652
+BIFZC447-17	IRD BMF-667.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia	MN870606	Universitas Pattimura, Unpatti Poka	652
+BIFZC448-17	IRD BMF-586.2	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	Indonesia	MN870005	Universitas Pattimura, Unpatti Poka	652
+BIFZC449-17	IRD BMF-587.2	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	Indonesia	MN870147	Universitas Pattimura, Unpatti Poka	652
+BIFZC450-17	IRD BMF-663.2	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	Indonesia	MN870002	Universitas Pattimura, Unpatti Poka	652
+BIFZC451-17	IRD BMF-664.2	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	Indonesia	MN870508	Universitas Pattimura, Unpatti Poka	652
+BIFZC452-17	IRD BMF-46.2	Cephalopholis microprion	Cephalopholis microprion	BOLD:AAF0629	COI-5P	Indonesia	MN870413	Universitas Pattimura, Unpatti Poka	652
+BIFZC453-17	IRD BMF-242.2	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Indonesia	MN870029	Universitas Pattimura, Unpatti Poka	652
+BIFZC454-17	IRD BMF-666.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia	MN870412	Universitas Pattimura, Unpatti Poka	652
+BIFZC455-17	IRD BMF-34.2	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAE4050	COI-5P	Indonesia	MN869954	Universitas Pattimura, Unpatti Poka	652
+BIFZC456-17	IRD BMF-35.2	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAE4050	COI-5P	Indonesia	MN870451	Universitas Pattimura, Unpatti Poka	652
+BIFZC457-17	IRD BMF-36.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia	MN870280	Universitas Pattimura, Unpatti Poka	652
+BIFZC458-17	IRD BMF-37.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia	MN869961	Universitas Pattimura, Unpatti Poka	652
+BIFZC459-17	IRD BMF-38.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia	MN869967	Universitas Pattimura, Unpatti Poka	652
+BIFZC460-17	IRD BMF-21.2	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indonesia	MN870605	Universitas Pattimura, Unpatti Poka	652
+BIFZC461-17	IRD BMF-22.2	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indonesia	MN870305	Universitas Pattimura, Unpatti Poka	652
+BIFZC462-17	IRD BMF-23.2	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indonesia	MN869950	Universitas Pattimura, Unpatti Poka	652
+BIFZC463-17	IRD BMF-24.2	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indonesia	MN870241	Universitas Pattimura, Unpatti Poka	652
+BIFZC464-17	IRD BMF-25.2	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indonesia	MN870316	Universitas Pattimura, Unpatti Poka	652
+BIFZD147-17	IRD 20150430-5.2	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD151-17	IRD 20150430-10.2	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD185-17	IRD 20150501-I.2	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD186-17	IRD 20150501-J.2	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD190-17	IRD 20150502-4.2	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD200-17	IRD 20150502-14.2	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD201-17	IRD 20150502-15.2	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD202-17	IRD 20150502-20.2	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD206-17	IRD 20150502-G.2	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD213-17	IRD 20150503-F1.2	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD214-17	IRD 20150503-F2.2	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD215-17	IRD 20150503-G1.2	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD216-17	IRD 20150503-G2.2	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD217-17	IRD 20150503-H1.2	Cephalopholis cyanostigma	Cephalopholis cyanostigma		COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	293
+BIFZD218-17	IRD 20150503-H2.2	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD219-17	IRD 20150503-I.2	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD220-17	IRD 20150503-K.2	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD222-17	IRD 20150503-P.2	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD231-17	IRD 20150508-6.2	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	658
+BIFZD233-17	IRD 20150508-14.2	Cephalopholis boenak	Cephalopholis boenak		COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	216
+BIFZD234-17	IRD 20150508-15.2	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD246-17	IRD 20150508-B.2	Cephalopholis polleni	Cephalopholis polleni		COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	227
+BIFZD252-17	IRD 20150508-H.2	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD278-17	IRD 20071124-9.2	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD280-17	IRD 20071202-2.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD293-17	IRD 20131217-K.2	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD294-17	IRD 20131217-M.2	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD322-17	IRD 20131215-F.2	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD323-17	IRD 20131215-G.2	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD656-17	IRD 20140714-C1.2	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAB8386	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	653
+BIFZD658-17	IRD 20140714-C3.2	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	646
+BIFZD659-17	IRD 20140714-C4.2	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	469
+BIFZD670-17	IRD SERace 20140217-C_P2172335.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD676-17	IRD SERace 20140217G_P2172340.2	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	614
+BIFZD679-17	IRD SERace 20140217-J_P2172344.2	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD682-17	IRD SERace 20140217-M_P2172347.2	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD684-17	IRD 20140214-B.2	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAI7557	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD685-17	IRD 20140216-7.2	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD686-17	IRD 20140216-8.2	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD687-17	IRD 20140216-P.2	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD688-17	IRD 20140216-Q1.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAC4202	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD689-17	IRD 20140216-Q2.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAC4202	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD694-17	IRD 20140217-1.2	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD695-17	IRD 20140217-2.2	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD699-17	IRD 20140217-6.2	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD721-17	IRD 20150523-3.2	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD723-17	IRD 20150523-5-1.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Museum national d'Histoire naturelle	652
+BIFZD724-17	IRD 20150523-5-2.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD725-17	IRD 20150523-5-3.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD731-17	IRD 20150523-20.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Museum national d'Histoire naturelle	652
+BIFZD732-17	IRD 20150523-21.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD733-17	IRD 20150523-22.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD734-17	IRD 20150523-23.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD739-17	IRD 20150523-33.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD740-17	IRD 20150523-34.2	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD748-17	IRD 20150523-C1.2	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Indonesia		Museum national d'Histoire naturelle	652
+BIFZD749-17	IRD 20150523-C2.2	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD750-17	IRD 20150523-D.2	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAI7557	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIFZD759-17	IRD 20150524-17.2	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia		Institut de Recherche pour le Developpement, France	652
+BIGFI113-22	AB-041	Cephalopholis taeniops	Cephalopholis taeniops	BOLD:ABX9081	COI-5P	Guinea-Bissau	PQ628612	Institut de Recherche pour le Developpement, France	651
+BIGFI114-22	AB-042	Cephalopholis nigri	Cephalopholis nigri	BOLD:ACC1733	COI-5P	Guinea-Bissau	PQ628611	Institut de Recherche pour le Developpement, France	650
+BIGFI159-22	Bar023	Cephalopholis nigri	Cephalopholis nigri	BOLD:ACC1733	COI-5P	Guinea-Bissau	PQ628610	Institut de Recherche pour le Developpement, France	645
+BSCFA008-07	stri-21158	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Panama		Smithsonian Tropical Research Institute	648
+BSCFA104-07	stri-21295	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Panama		Smithsonian Tropical Research Institute	648
+BSCFA115-07	stri-21356	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Panama		Smithsonian Tropical Research Institute	648
+BSCFA133-07	stri-21386	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Panama		Smithsonian Tropical Research Institute	648
+BSCFA141-07	stri-21395	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Panama		Smithsonian Tropical Research Institute	648
+BSCFA142-07	stri-21396	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Panama		Smithsonian Tropical Research Institute	648
+BZLWA165-06	BZLW4165	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Belize	JQ839991	Smithsonian Institution	655
+BZLWB043-06	BZLW5043	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Belize	JQ840439	Smithsonian Institution, National Museum of Natural History	655
+BZLWB091-06	BZLW5091	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Belize		Smithsonian Institution	450
+BZLWB106-06	BZLW5106	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Belize	JQ840441	Smithsonian Institution, National Museum of Natural History	653
+BZLWB253-06	BZLW5253	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Belize	JQ840440	Smithsonian Institution, National Museum of Natural History	655
+BZLWB327-06	BZLW5327	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Belize	JQ840442	Smithsonian Institution, National Museum of Natural History	655
+BZLWC252-06	BZLW6252	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Belize	JQ840791	Smithsonian Institution, National Museum of Natural History	651
+BZLWD002-07	BZLW7002	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Belize	JQ841104	Smithsonian Institution	625
+BZLWD003-07	BZLW7003	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Belize	JQ841107	Smithsonian Institution	655
+BZLWD359-07	BZLW7359	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Belize	JQ841106	Smithsonian Institution	647
+BZLWD376-07	BZLW7376	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Belize	JQ841105	Smithsonian Institution	655
+BZLWE129-08	BZLW8129	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Belize	JQ841494	Smithsonian Institution	655
+BZLWE273-08	BZLW8273	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Belize	JQ841495	Smithsonian Institution	655
+CFCS049-08	SA8JZ050	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	China	FJ237680	Chinese Academy of Sciences, Marine Biodiversity Collection of South China Sea	652
+CFCS050-08	SA8JZ051	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	China	FJ237679	Chinese Academy of Sciences, Marine Biodiversity Collection of South China Sea	652
+CFCS279-08	SA8JZ280	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	China	FJ237678	Chinese Academy of Sciences, Marine Biodiversity Collection of South China Sea	645
+CFCS280-08	SA8JZ281	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	China	FJ237677	Chinese Academy of Sciences, Marine Biodiversity Collection of South China Sea	652
+CFCS281-08	SA8JZ282	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	China	FJ237676	Chinese Academy of Sciences, Marine Biodiversity Collection of South China Sea	652
+CFCS282-08	SA8JZ283	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	China	FJ237675	Chinese Academy of Sciences, Marine Biodiversity Collection of South China Sea	652
+CFCS283-08	SA8JZ284	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	China	FJ237674	Chinese Academy of Sciences, Marine Biodiversity Collection of South China Sea	652
+COFPL061-16	COFJAU134	Cephalopholis sonnerati	Cephalopholis sonnerati		COI-5P	India		Junagadh Agricultural University, College of Fisheries Science	390
+CURA014-09	CURA8014	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Curacao	JQ842042	Smithsonian Institution	588
+CURA033-09	CURA8033	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Curacao	JQ842038	Smithsonian Institution	564
+CURA034-09	CURA8034	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Curacao	JQ842043	Smithsonian Institution	571
+CURA247-09	CURA8247	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Curacao	JQ842039	Smithsonian Institution	655
+CURA248-09	CURA8248	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Curacao	JQ842037	Smithsonian Institution	655
+CURA387-09	CURA8387	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Curacao	JQ842040	Smithsonian Institution	532
+CURA388-09	CURA8388	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Curacao	JQ842041	Smithsonian Institution	532
+DBEEZ047-23	EEZ419	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Pacific Ocean	OR918783	South China Sea Repository and Reference Centre (RRC), Universiti Malaysia Terengganu	651
+DBMR278-19	SP-84-1	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Malaysia	MW498557	Universiti Sains Malaysia, Centre for Global Sustainability Studies	654
+DRMRF025-23	MSUIIT-DRMREEF-00199	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Philippines		Mindanao State University, Iligan Institute of Technology	652
+DSFSE822-08	ADC08 Smith 166.28 #1	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	Mozambique	JF493084	South African Institute for Aquatic Biodiversity	652
+DSFSE959-08	ADC08 Smith 166.26 #3	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	South Africa	JF493083	South African Institute for Aquatic Biodiversity	652
+DSFSF406-09	ADC09_166.29#6	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5431	COI-5P	South Africa	GU805050	South African Institute for Aquatic Biodiversity	605
+DSFSF630-09	ADC09_166.29#7	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5431	COI-5P	South Africa	JF493085	South African Institute for Aquatic Biodiversity	643
+DSLAG1192-11	ADC11-0177	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5431	COI-5P	South Africa		Research Collection of Allan Connell	652
+DSLAG1193-11	ADC11-0178	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5431	COI-5P	South Africa		Research Collection of Allan Connell	652
+DSLAR418-08	ADC08-L III D4 #1.3	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5431	COI-5P	South Africa		Research Collection of Allan Connell	652
+EGRPR051-07	07-GHRI-0307	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	United States		Guy Harvey Research Institute	652
+FADLI022-17	WEH_KM4_ARGUS	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI023-17	WEH_3 27 1_AURANTIA	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAI7557	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI024-17	WEH_3 27 2_AURANTIA	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAI7557	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI025-17	WEH_3 27 3_AURANTIA	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAI7557	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI026-17	WEH_3 27 4_AURANTIA	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAI7557	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI027-17	WEH_3 27 5_AURANTIA	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAI7557	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI028-17	WEH_1 22 1_FORMOSA	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI029-17	WEH_1 22 2_FORMOSA	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI030-17	WEH_1 22 3_FORMOSA	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI031-17	WEH_1 22 4_FORMOSA	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI032-17	WEH_1 22 5_FORMOSA	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI033-17	WEH_KX1_LEOPARDUS	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI034-17	WEH_KDP1_MINIATA	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia		Syiah Kuala University	639
+FADLI035-17	WEH_KDP2_MINIATA	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia		Syiah Kuala University	639
+FADLI036-17	WEH_KDP3_MINIATA	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia		Syiah Kuala University	639
+FADLI037-17	WEH_3 13 1_MINIATA	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia		Syiah Kuala University	639
+FADLI038-17	WEH_KOS_MINIATA	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia		Syiah Kuala University	639
+FADLI039-17	WEH_KP3_NIGRIPINNIS	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI040-17	WEH_3 11 4_NIGRIPINNIS	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI041-17	WEH_3 11 1_SONNERATI	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI042-17	WEH_KX1 2_SONNERATI	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI043-17	WEH_KX1 3_SONNERATI	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI044-17	WEH_KX1 4_SONNERATI	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI045-17	WEH_1 21 1_SONNERATI	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI046-17	WEH_1 25 1_SONNERATI	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI047-17	WEH_1 25 3_SONNERATI	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI048-17	WEH_KP2_NIGRIPINNIS	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI049-17	WEH_KP4_NIGRIPINNIS	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI050-17	WEH_KP5_NIGRIPINNIS	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI051-17	WEH_Smpl 4.2_NIGRIPINNIS	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI052-17	WEH_3 11 2_NIGRIPINNIS	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI053-17	WEH_3 11 3_NIGRIPINNIS	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI054-17	WEH_1 02 1_NIGRIPINNIS	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI055-17	WEH_1 02 2_NIGRIPINNIS	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Syiah Kuala University	654
+FADLI056-17	WEH_1 02 3_NIGRIPINNIS	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Indonesia		Syiah Kuala University	654
+FGBOF007-13	CIFE-SIKKA-CF1	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India		Central Institute of Fisheries Education	652
+FGBOF031-13	CIFE-SIKKA-CF2	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India		Central Institute of Fisheries Education	600
+FGBOF032-13	CIFE-SIKKA-CF3	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India		Central Institute of Fisheries Education	621
+FGBOF033-13	CIFE-SIKKA-CF4	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India		Central Institute of Fisheries Education	652
+FGBOF034-13	CIFE-SIKKA-CF5	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India		Central Institute of Fisheries Education	652
+FGBOF035-13	CIFE-SIKKA-CF6	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India		Central Institute of Fisheries Education	651
+FGBOF036-13	CIFE-SIKKA-CF7	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India		Central Institute of Fisheries Education	600
+FGBOF037-13	CIFE-SIKKA-CF8	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India		Central Institute of Fisheries Education	606
+FJMI185-10	FJMI3832	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Mexico		El Colegio de la Frontera Sur, Unidad Chetumal	648
+FLBAR1423-19	FWRI 04237	Cephalopholis cruentata	Cephalopholis cruentata		COI-5P	United States		Florida Fish and Wildlife Conservation Commission, Fish and Wildlife Research Institute	658
+FLBAR2602-24	FWRI_05208	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	United States		Florida Fish and Wildlife Conservation Commission, Fish and Wildlife Research Institute	537
+FOA572-04	BW-A572	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	Australia	DQ107923	Centre for Biodiversity Genomics	655
+FOA573-04	BW-A573	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Australia	DQ107924	Centre for Biodiversity Genomics	655
+FOA574-04	BW-A574	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Australia	DQ107925	Centre for Biodiversity Genomics	655
+FOA575-04	BW-A575	Cephalopholis igarashiensis	Cephalopholis igarashiensis	BOLD:AAE9793	COI-5P	Australia		CSIRO, Australian National Fish Collection	652
+FOA576-04	BW-A576	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Australia	DQ107926	Centre for Biodiversity Genomics	655
+FOA577-04	BW-A577	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Australia	DQ107927	Centre for Biodiversity Genomics	652
+FOA578-04	BW-A578	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Australia	DQ107928	Centre for Biodiversity Genomics	655
+FOA579-04	BW-A579	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Australia	DQ107929	Centre for Biodiversity Genomics	652
+FOA580-04	BW-A580	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Australia	DQ107916	Centre for Biodiversity Genomics	655
+FOA581-04	BW-A581	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Australia		CSIRO, Australian National Fish Collection	655
+FOA582-04	BW-A582	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Australia		CSIRO, Australian National Fish Collection	655
+FOA583-04	BW-A583	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Australia	DQ107917	Centre for Biodiversity Genomics	655
+FOA584-04	BW-A584	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Australia	DQ107918	Centre for Biodiversity Genomics	652
+FOA585-04	BW-A585	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Australia	DQ107919	Centre for Biodiversity Genomics	655
+FOAH443-08	BW-A5354	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Australia		CSIRO, Australian National Fish Collection	590
+FOAH891-08	BW-A5802	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia		CSIRO, Australian National Fish Collection	645
+FOAH899-08	BW-A5810	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		CSIRO, Australian National Fish Collection	652
+FOAI010-08	BW-A5917	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia		CSIRO, Australian National Fish Collection	648
+FOAI758-09	BW-A6665	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Indonesia	GU673641	CSIRO, Australian National Fish Collection	652
+FOAJ151-09	BW-A7001	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia	GU674035	CSIRO, Australian National Fish Collection	648
+FOAJ152-09	BW-A7002	Cephalopholis microprion	Cephalopholis microprion	BOLD:AAF0629	COI-5P	Indonesia	GU674037	CSIRO, Australian National Fish Collection	625
+FOAJ159-09	BW-A7009	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia	GU674048	CSIRO, Australian National Fish Collection	648
+FOAJ165-09	BW-A7015	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia	GU674059	CSIRO, Australian National Fish Collection	648
+FOAJ313-09	BW-A7163	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia	GU674280	CSIRO, Australian National Fish Collection	652
+FOAJ400-09	BW-A7250	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia	GU674437	CSIRO, Australian National Fish Collection	648
+FOAJ614-09	BW-A7464	Cephalopholis igarashiensis	Cephalopholis igarashiensis	BOLD:AAE9793	COI-5P	Indonesia	GU673956	CSIRO, Australian National Fish Collection	652
+FOAJ616-09	BW-A7466	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAB5432	COI-5P	Indonesia	GU673953	CSIRO, Australian National Fish Collection	652
+FOAJ617-09	BW-A7467	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	Indonesia	GU673947	CSIRO, Australian National Fish Collection	652
+FOAJ731-09	BW-A7581	Cephalopholis polleni	Cephalopholis polleni	BOLD:AAK0631	COI-5P	Indonesia	HM422434	CSIRO, Australian National Fish Collection	652
+FOAJ737-09	BW-A7587	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia	GU673834	CSIRO, Australian National Fish Collection	648
+FOAJ738-09	BW-A7588	Cephalopholis microprion	Cephalopholis microprion	BOLD:AAF0629	COI-5P	Indonesia	GU673835	CSIRO, Australian National Fish Collection	648
+FOAJ772-09	BW-A7622	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia	GU674369	CSIRO, Australian National Fish Collection	652
+FOAJ786-09	BW-A7636	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia	GU674361	CSIRO, Australian National Fish Collection	652
+FOAJ855-09	BW-A7705	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAE4050	COI-5P	Indonesia	GU673736	CSIRO, Australian National Fish Collection	652
+FOAK967-10	BW-A8760	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Indonesia		CSIRO, Australian National Fish Collection	675
+FOAK995-10	BW-A8788	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indonesia		CSIRO, Australian National Fish Collection	637
+FOAL047-10	BW-A8647	Cephalopholis polleni	Cephalopholis polleni	BOLD:AAK0631	COI-5P	Indonesia	HQ564407	CSIRO, Australian National Fish Collection	652
+FOAL067-10	BW-A8667	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia	HQ564422	CSIRO, Australian National Fish Collection	652
+FOAL088-10	BW-A8688	Cephalopholis microprion	Cephalopholis microprion	BOLD:AAF0629	COI-5P	Indonesia	HQ564436	CSIRO, Australian National Fish Collection	648
+FOAM013-10	BW-A9976	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Indonesia		CSIRO, Australian National Fish Collection	652
+FOAM059-10	BW-A10022	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia		CSIRO, Australian National Fish Collection	652
+FOAM060-10	BW-A10023	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia		CSIRO, Australian National Fish Collection	652
+FOAM144-10	BW-A10107	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Indonesia		CSIRO, Australian National Fish Collection	652
+FOAM145-10	BW-A10108	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Indonesia		CSIRO, Australian National Fish Collection	652
+FOAM201-10	BW-A10164	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indonesia	JN312862	CSIRO, Australian National Fish Collection	652
+FOAM301-10	BW-A10264	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia	JN312920	CSIRO, Australian National Fish Collection	652
+FOAM406-10	BW-A10369	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Indonesia		CSIRO, Australian National Fish Collection	615
+FOAM407-10	BW-A10370	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia	JN312973	CSIRO, Australian National Fish Collection	652
+FOAM408-10	BW-A10371	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAI7557	COI-5P	Indonesia	JN312974	CSIRO, Australian National Fish Collection	652
+FOAM513-10	BW-A10476	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Indonesia	JN313032	CSIRO, Australian National Fish Collection	652
+FOAM559-10	BW-A10522	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAB5432	COI-5P	Indonesia	JN313051	CSIRO, Australian National Fish Collection	652
+FOAM588-10	BW-A10551	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Indonesia	JN313066	CSIRO, Australian National Fish Collection	652
+FOAM589-10	BW-A10553	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia	JN313067	CSIRO, Australian National Fish Collection	652
+FOAM590-10	BW-A10552	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Indonesia	JN313068	CSIRO, Australian National Fish Collection	644
+FOAM591-10	BW-A10554	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia	JN313069	CSIRO, Australian National Fish Collection	652
+FOAM666-10	BW-A10629	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Indonesia	JN313107	CSIRO, Australian National Fish Collection	652
+FOAM672-10	BW-A10635	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia	JN313109	CSIRO, Australian National Fish Collection	652
+FOAM724-10	BW-A10687	Cephalopholis igarashiensis	Cephalopholis igarashiensis	BOLD:AAE9793	COI-5P	Indonesia	JN313139	CSIRO, Australian National Fish Collection	626
+FOAM725-10	BW-A10688	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	Indonesia	JN313140	CSIRO, Australian National Fish Collection	637
+FOAN389-11	BW-A11182	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Indonesia	JN313332	CSIRO, Australian National Fish Collection	651
+FOAN570-11	BW-A11363	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia		CSIRO, Australian National Fish Collection	612
+FOAO1186-18	BW-A14397	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Australia		CSIRO, Australian National Fish Collection	674
+FOAO1410-18	BW-A14665	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Australia		CSIRO, Australian National Fish Collection	663
+FOAO1462-18	BW-A14726	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Australia		CSIRO, Australian National Fish Collection	675
+FOAO2190-20	BW-A15251	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Australia		CSIRO, Australian National Fish Collection	686
+FOAO736-15	BW-A13168	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Australia		CSIRO, Australian National Fish Collection	660
+FOAO737-15	BW-A13169	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Australia		CSIRO, Australian National Fish Collection	620
+FOAQ438-21	BW-A16189	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	South Pacific Ocean		Queensland Museum	672
+FSHMU025-10	F011-1	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Mauritius	HQ956636-SUPPRESSED	Mauritius Oceanography Institute	655
+FSHMU188-11	F112-1	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Mauritius	MT888917	Mauritius Oceanography Institute	655
+FSHMU190-11	F112-3	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Mauritius	MT888916	Mauritius Oceanography Institute	655
+FSHMU326-12	F141-1.1	Cephalopholis polleni	Cephalopholis polleni	BOLD:AAK0631	COI-5P	Mauritius	MT888913	Mauritius Oceanography Institute	652
+FSHMU328-12	F110-1.1	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAE4050	COI-5P	Mauritius	MT888915	Mauritius Oceanography Institute	652
+FTW073-08	ASIZP0800170	Cephalopholis igarashiensis	Cephalopholis igarashiensis	BOLD:AAE9793	COI-5P	Taiwan		Academia Sinica, Biodiversity Research Center	590
+FTW074-08	ASIZP0800171	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAB5432	COI-5P	Taiwan		Academia Sinica, Biodiversity Research Center	652
+FTW116-09	ASIZP0800172	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAB5432	COI-5P	Taiwan		Academia Sinica, Biodiversity Research Center	537
+FTW210-09	ASIZP0800777	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Taiwan		Academia Sinica, Biodiversity Research Center	537
+FTW289-09	ASIZP0801079	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Taiwan		Academia Sinica, Biodiversity Research Center	537
+FTW320-09	ASIZP0801162	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Taiwan		Academia Sinica, Biodiversity Research Center	537
+FTW670-09	ASIZP0800730	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Taiwan		Academia Sinica, Biodiversity Research Center	652
+FTWS148-09	ASIZP0802364	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Taiwan		Academia Sinica, Biodiversity Research Center	652
+FTWS215-09	ASIZP0802448	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Taiwan		Academia Sinica, Biodiversity Research Center	652
+FTWS307-09	ASIZP0802808	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Taiwan		Academia Sinica, Biodiversity Research Center	652
+FTWS320-09	ASIZP0802831	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Taiwan		Academia Sinica, Biodiversity Research Center	652
+FTWS321-09	ASIZP0802832	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Taiwan		Academia Sinica, Biodiversity Research Center	644
+FTWS476-09	ASIZP0804170	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0217	COI-5P	Taiwan		Academia Sinica, Biodiversity Research Center	633
+FTWS937-09	ASIZP0802513	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Taiwan		Academia Sinica, Biodiversity Research Center	652
+FTWS938-09	ASIZP0802514	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Taiwan		Academia Sinica, Biodiversity Research Center	652
+FUT098-18	FUT-098	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Wallis and Futuna	PV050799	Smithsonian Institution, National Museum of Natural History	651
+FUT099-18	FUT-099	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Wallis and Futuna	PV050798	Smithsonian Institution, National Museum of Natural History	652
+FUT145-18	FUT-145	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Wallis and Futuna	PV050754	Smithsonian Institution, National Museum of Natural History	651
+FUT208-18	FUT-208	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Wallis and Futuna	PV050695	Smithsonian Institution, National Museum of Natural History	652
+FUT209-18	FUT-209	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Wallis and Futuna	PV050694	Smithsonian Institution, National Museum of Natural History	652
+FUT289-18	FUT-289	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Wallis and Futuna	PV050621	Smithsonian Institution, National Museum of Natural History	652
+GAMBA035-12	GAM-803	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	French Polynesia	MK657581	Smithsonian Institution, National Museum of Natural History	655
+GAMBA541-12	GAM-410	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	French Polynesia	MK657455	Smithsonian Institution, National Museum of Natural History	655
+GAMBA549-12	GAM-418	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	French Polynesia	MK657793	Smithsonian Institution, National Museum of Natural History	639
+GAMBA676-12	GAM-547	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	French Polynesia	MK657398	Smithsonian Institution, National Museum of Natural History	655
+GAMBA677-12	GAM-548	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	French Polynesia	MK658047	Smithsonian Institution, National Museum of Natural History	655
+GBAAH1030-25	OR570940	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Unrecoverable	OR570940	Mined from GenBank, NCBI	594
+GBAAH1104-25	OR571170	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Unrecoverable	OR571170	Mined from GenBank, NCBI	637
+GBAAH1143-25	OR571169	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Unrecoverable	OR571169	Mined from GenBank, NCBI	545
+GBAAH1348-25	OR571075	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Unrecoverable	OR571075	Mined from GenBank, NCBI	632
+GBAAH1543-25	PP461615	Cephalopholis igarashiensis	Cephalopholis igarashiensis	BOLD:AAE9793	COI-5P	Unrecoverable	PP461615	Mined from GenBank, NCBI	633
+GBAAH1737-25	PP461650	Cephalopholis polleni	Cephalopholis polleni	BOLD:AAK0631	COI-5P	Unrecoverable	PP461650	Mined from GenBank, NCBI	600
+GBAAH1897-25	PP467486	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Unrecoverable	PP467486	Mined from GenBank, NCBI	542
+GBAAH771-25	OR571031	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Unrecoverable	OR571031	Mined from GenBank, NCBI	594
+GBAAH782-25	OR570986	Cephalopholis microprion	Cephalopholis microprion	BOLD:AAF0629	COI-5P	Unrecoverable	OR570986	Mined from GenBank, NCBI	635
+GBAAH841-25	OR570973	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Unrecoverable	OR570973	Mined from GenBank, NCBI	576
+GBAAH9774-25	PX317833	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India	PX317833	Mined from GenBank, NCBI	583
+GBAAM26499-25	PQ812595	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia	PQ812595	Mined from GenBank, NCBI	655
+GBAAM29319-25	PV034982	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Australia	PV034982	Mined from GenBank, NCBI	655
+GBAAM29462-25	PV035043	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Australia	PV035043	Mined from GenBank, NCBI	655
+GBAAM29488-25	PV035050	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Australia	PV035050	Mined from GenBank, NCBI	655
+GBAAM29490-25	PV035015	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Australia	PV035015	Mined from GenBank, NCBI	655
+GBAAM3577-25	OR829795	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Unrecoverable	OR829795	Mined from GenBank, NCBI	583
+GBAAM3579-25	OR829788	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Unrecoverable	OR829788	Mined from GenBank, NCBI	583
+GBAAM3586-25	OR829800	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Unrecoverable	OR829800	Mined from GenBank, NCBI	583
+GBAAM3589-25	OR829799	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Unrecoverable	OR829799	Mined from GenBank, NCBI	583
+GBAAM3590-25	OR829806	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Unrecoverable	OR829806	Mined from GenBank, NCBI	583
+GBAAM3637-25	OR829794	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Unrecoverable	OR829794	Mined from GenBank, NCBI	583
+GBAAM3642-25	OR829798	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Unrecoverable	OR829798	Mined from GenBank, NCBI	583
+GBAAM3659-25	OR829801	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Unrecoverable	OR829801	Mined from GenBank, NCBI	583
+GBAAM3660-25	OR829807	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Unrecoverable	OR829807	Mined from GenBank, NCBI	583
+GBAAM3688-25	OR829789	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Unrecoverable	OR829789	Mined from GenBank, NCBI	583
+GBAAN23688-25	PV856701	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Unrecoverable	PV856701	Mined from GenBank, NCBI	543
+GBAAN23774-25	PV857192		Cephalopholis	BOLD:AAC4202	COI-5P	Unrecoverable	PV857192	Mined from GenBank, NCBI	543
+GBAAN23823-25	PV857246	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Unrecoverable	PV857246	Mined from GenBank, NCBI	543
+GBAAN23880-25	PV857217		Cephalopholis	BOLD:AAC4202	COI-5P	Unrecoverable	PV857217	Mined from GenBank, NCBI	543
+GBAAN24084-25	PV857194	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Unrecoverable	PV857194	Mined from GenBank, NCBI	543
+GBAAN24151-25	PV857248	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Unrecoverable	PV857248	Mined from GenBank, NCBI	543
+GBAAP13910-25	PV714183	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13915-25	PV714224	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13925-25	PV714280	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13936-25	PV714219	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13943-25	PV714187	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13950-25	PV714210	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13951-25	PV714191	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13953-25	PV714300	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13957-25	PV714180	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13958-25	PV714289	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13962-25	PV714230	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13963-25	PV714282	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13968-25	PV714188	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13978-25	PV714211	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13981-25	PV714267	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13983-25	PV714207	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13984-25	PV714218	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13985-25	PV714266	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13989-25	PV714254	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13996-25	PV714221	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP13999-25	PV714201	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14005-25	PV714279	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14011-25	PV714276	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14014-25	PV714205	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14016-25	PV714204	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14017-25	PV714287	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14025-25	PV714257	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14026-25	PV714241	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14032-25	PV714199	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14035-25	PV714193	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14039-25	PV714227	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14041-25	PV714243	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14043-25	PV714301	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14044-25	PV714258	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14045-25	PV714292	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14047-25	PV714269	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14058-25	PV714297	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14060-25	PV714217	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14068-25	PV714303	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14071-25	PV714251	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14072-25	PV714265	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14074-25	PV714290	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14075-25	PV714238	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14076-25	PV714298	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14087-25	PV714232	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14091-25	PV714296	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14093-25	PV714285	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14097-25	PV714192	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14098-25	PV714245	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14100-25	PV714184	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14104-25	PV714268	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14106-25	PV714194	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14121-25	PV714385	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14122-25	PV714379	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14123-25	PV714333	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14125-25	PV714335	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14127-25	PV714388	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14130-25	PV714428	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14133-25	PV714311	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14134-25	PV714411	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14139-25	PV714426	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14140-25	PV714423	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14145-25	PV714392	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14146-25	PV714325	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14147-25	PV714422	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14148-25	PV714416	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14164-25	PV714364	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14167-25	PV714378	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14168-25	PV714381	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14173-25	PV714366	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14179-25	PV714367	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14183-25	PV714421	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14185-25	PV714448	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14197-25	PV714417	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14204-25	PV714440	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14206-25	PV714317	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14216-25	PV714340	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14223-25	PV714310	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14227-25	PV714399	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14228-25	PV714425	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14232-25	PV714321	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14234-25	PV714328	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14235-25	PV714441	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14236-25	PV714386	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14237-25	PV714349	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14238-25	PV714350	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14246-25	PV714336	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14249-25	PV714435	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14258-25	PV714360	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14264-25	PV714432	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14266-25	PV714376	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14268-25	PV714451	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14280-25	PV714387	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14281-25	PV714410	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14284-25	PV714407	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14285-25	PV714415	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14286-25	PV714330	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14288-25	PV714377	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14299-25	PV714412	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14304-25	PV714314	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14308-25	PV714365	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14312-25	PV714433	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14317-25	PV714372	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14329-25	PV714359	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14331-25	PV714396	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14339-25	PV714403	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14341-25	PV714424	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14351-25	PV714363	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14354-25	PV714358	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14358-25	PV714384	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14359-25	PV714453	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14364-25	PV714450	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14366-25	PV714356	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14374-25	PV714436	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14379-25	PV714308	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAP14382-25	PV714374	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Singapore		Mined from GenBank, NCBI	652
+GBAAW71696-24	OM273105	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia	OM273105	Mined from GenBank, NCBI	639
+GBAAW71697-24	OM273107	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia	OM273107	Mined from GenBank, NCBI	639
+GBAAW71698-24	OM273106	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Indonesia	OM273106	Mined from GenBank, NCBI	639
+GBAAW76056-24	OP720935	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Cook Islands	OP720935	Mined from GenBank, NCBI	687
+GBAAW76058-24	OP720934	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Cook Islands	OP720934	Mined from GenBank, NCBI	686
+GBAAW78281-24	OM273103	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Indonesia	OM273103	Mined from GenBank, NCBI	639
+GBAAW78282-24	OM273102	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Indonesia	OM273102	Mined from GenBank, NCBI	639
+GBAAW78283-24	OM273104	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Indonesia	OM273104	Mined from GenBank, NCBI	639
+GBAAW78284-24	OM273100	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Indonesia	OM273100	Mined from GenBank, NCBI	639
+GBAAW78285-24	OM273101	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Indonesia	OM273101	Mined from GenBank, NCBI	639
+GBAAX58166-24	OP852325	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Indonesia		Mined from GenBank, NCBI	602
+GBAAX58167-24	OP852326	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Indonesia		Mined from GenBank, NCBI	602
+GBAAY85413-24	MZ348927	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Iran		Mined from GenBank, NCBI	549
+GBAAZ59342-26	PX907319	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Unrecoverable	PX907319	Mined from GenBank, NCBI	655
+GBAAZ60657-26	PX907321	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Unrecoverable	PX907321	Mined from GenBank, NCBI	655
+GBAAZ61548-26	PX907322	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Unrecoverable	PX907322	Mined from GenBank, NCBI	655
+GBAAZ61746-26	PX907320	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Unrecoverable	PX907320	Mined from GenBank, NCBI	655
+GBAAZ68391-26	PX970086	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Philippines	PX970086	Mined from GenBank, NCBI	678
+GBABA21148-26	PZ052680	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	PZ052680	Mined from GenBank, NCBI	357
+GBGC7763-09	EU871685	Cephalopholis igarashiensis	Cephalopholis igarashiensis	BOLD:AAB3684	COI-5P	China	EU871685	Mined from GenBank, NCBI	663
+GBGC8313-09	FJ237608	Cephalopholis microprion	Cephalopholis microprion	BOLD:AAC0217	COI-5P	India	FJ237608	Mined from GenBank, NCBI	651
+GBGC8314-09	FJ237607	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	India	FJ237607	Mined from GenBank, NCBI	651
+GBGC8365-09	FJ237556	Cephalopholis argus	Cephalopholis argus	BOLD:AAD4737	COI-5P	India	FJ237556	Mined from GenBank, NCBI	654
+GBGC8366-09	FJ237555	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	India	FJ237555	Mined from GenBank, NCBI	651
+GBGC8367-09	FJ237554	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	India	FJ237554	Mined from GenBank, NCBI	651
+GBGC8368-09	FJ237553	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	India	FJ237553	Mined from GenBank, NCBI	651
+GBGC8380-09	FJ237541	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	India	FJ237541	Mined from GenBank, NCBI	654
+GBGCA2131-13	JQ268582	Cephalopholis argus	Cephalopholis argus	BOLD:AAC0217	COI-5P		JQ268582	Mined from GenBank, NCBI	560
+GBGCA2142-13	JQ268571	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P		JQ268571	Mined from GenBank, NCBI	601
+GBGCA2143-13	JQ268570	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P		JQ268570	Mined from GenBank, NCBI	625
+GBGCA2144-13	JQ268569	Cephalopholis boenak	Cephalopholis boenak		COI-5P		JQ268569	Mined from GenBank, NCBI	425
+GBGCA5454-13	KC187774	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P		KC187774	Mined from GenBank, NCBI	537
+GBGCA5455-13	KC187773	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P		KC187773	Mined from GenBank, NCBI	537
+GBGCA5456-13	KC187772	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P		KC187772	Mined from GenBank, NCBI	537
+GBGCA5457-13	KC187771	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P		KC187771	Mined from GenBank, NCBI	537
+GBGCA5458-13	KC187770	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P		KC187770	Mined from GenBank, NCBI	537
+GBGCA5459-13	KC187769	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P		KC187769	Mined from GenBank, NCBI	537
+GBGCA6142-13	JN208563	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P		JN208563	Mined from GenBank, NCBI	585
+GBGCA6143-13	JN208562	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P		JN208562	Mined from GenBank, NCBI	585
+GBGCA6144-13	JN208561	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P		JN208561	Mined from GenBank, NCBI	585
+GBGCA6145-13	JN208560	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P		JN208560	Mined from GenBank, NCBI	585
+GBGCA6146-13	JN208559	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P		JN208559	Mined from GenBank, NCBI	585
+GBGCA6147-13	JN208558	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P		JN208558	Mined from GenBank, NCBI	585
+GBGCA6148-13	JN208557	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P		JN208557	Mined from GenBank, NCBI	585
+GBGCA6149-13	JN208556	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P		JN208556	Mined from GenBank, NCBI	585
+GBGCA6150-13	JN208555	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P		JN208555	Mined from GenBank, NCBI	585
+GBGCA6151-13	JN208554	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P		JN208554	Mined from GenBank, NCBI	585
+GBGCA6152-13	JN208553	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P		JN208553	Mined from GenBank, NCBI	585
+GBGCA6153-13	JN208552	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P		JN208552	Mined from GenBank, NCBI	585
+GBGCA6154-13	JN208551	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P		JN208551	Mined from GenBank, NCBI	585
+GBGCA8131-15	KJ607968	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India	KJ607968	Mined from GenBank, NCBI	652
+GBMIN118404-17	KM226222	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	India	KM226222	Mined from GenBank, NCBI	655
+GBMIN118405-17	KM226228	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	India	KM226228	Mined from GenBank, NCBI	655
+GBMIN118406-17	KM226231	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	India	KM226231	Mined from GenBank, NCBI	655
+GBMIN118407-17	KM226232	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	India	KM226232	Mined from GenBank, NCBI	655
+GBMIN118408-17	KM226233	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	India	KM226233	Mined from GenBank, NCBI	655
+GBMIN118486-17	KM656838	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAB5432	COI-5P		KM656838	Mined from GenBank, NCBI	628
+GBMIN118823-17	KP331699	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P		KP331699	Mined from GenBank, NCBI	577
+GBMIN119264-17	KT216199	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216199	Mined from GenBank, NCBI	629
+GBMIN119265-17	KT216218	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216218	Mined from GenBank, NCBI	629
+GBMIN119266-17	KT216227	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Oman	KT216227	Mined from GenBank, NCBI	629
+GBMIN119267-17	KT216228	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Sudan	KT216228	Mined from GenBank, NCBI	628
+GBMIN119268-17	KT216229	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Sudan	KT216229	Mined from GenBank, NCBI	629
+GBMIN119269-17	KT216231	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Sudan	KT216231	Mined from GenBank, NCBI	629
+GBMIN119771-17	KU064287		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064287	Mined from GenBank, NCBI	623
+GBMIN119772-17	KU064289		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064289	Mined from GenBank, NCBI	623
+GBMIN119773-17	KU064301		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064301	Mined from GenBank, NCBI	623
+GBMIN119774-17	KU064304		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064304	Mined from GenBank, NCBI	623
+GBMIN119775-17	KU064311		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064311	Mined from GenBank, NCBI	623
+GBMIN119776-17	KU064313		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064313	Mined from GenBank, NCBI	623
+GBMIN119777-17	KU064314		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064314	Mined from GenBank, NCBI	623
+GBMIN119778-17	KU064317		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064317	Mined from GenBank, NCBI	623
+GBMIN119779-17	KU064319		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064319	Mined from GenBank, NCBI	623
+GBMIN119780-17	KU064327		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064327	Mined from GenBank, NCBI	623
+GBMIN119781-17	KU064328		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064328	Mined from GenBank, NCBI	623
+GBMIN119782-17	KU064330		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064330	Mined from GenBank, NCBI	623
+GBMIN119783-17	KU064331		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064331	Mined from GenBank, NCBI	623
+GBMIN119784-17	KU064336		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064336	Mined from GenBank, NCBI	623
+GBMIN119785-17	KU064339		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064339	Mined from GenBank, NCBI	623
+GBMIN119786-17	KU064348		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064348	Mined from GenBank, NCBI	623
+GBMIN119787-17	KU064354		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064354	Mined from GenBank, NCBI	623
+GBMIN119788-17	KU064368	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064368	Mined from GenBank, NCBI	623
+GBMIN119789-17	KU064371	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064371	Mined from GenBank, NCBI	623
+GBMIN119790-17	KU064376	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064376	Mined from GenBank, NCBI	623
+GBMIN119791-17	KU064384	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064384	Mined from GenBank, NCBI	623
+GBMIN119792-17	KU064387	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064387	Mined from GenBank, NCBI	623
+GBMIN119793-17	KU064388	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064388	Mined from GenBank, NCBI	623
+GBMIN119794-17	KU064390	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064390	Mined from GenBank, NCBI	623
+GBMIN119795-17	KU064391	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064391	Mined from GenBank, NCBI	623
+GBMIN119796-17	KU064398	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064398	Mined from GenBank, NCBI	623
+GBMIN119797-17	KU064404	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064404	Mined from GenBank, NCBI	623
+GBMIN119798-17	KU064405	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064405	Mined from GenBank, NCBI	623
+GBMIN119799-17	KU064408	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064408	Mined from GenBank, NCBI	623
+GBMIN119800-17	KU064409	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064409	Mined from GenBank, NCBI	623
+GBMIN119801-17	KU064413	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064413	Mined from GenBank, NCBI	623
+GBMIN119802-17	KU064414	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064414	Mined from GenBank, NCBI	623
+GBMIN119803-17	KU064422	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064422	Mined from GenBank, NCBI	623
+GBMIN119804-17	KU064432	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064432	Mined from GenBank, NCBI	623
+GBMIN119805-17	KU064435	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064435	Mined from GenBank, NCBI	623
+GBMIN119806-17	KU064440	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064440	Mined from GenBank, NCBI	623
+GBMIN119807-17	KU064444	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064444	Mined from GenBank, NCBI	623
+GBMIN119808-17	KU064448	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064448	Mined from GenBank, NCBI	623
+GBMIN119809-17	KU064449	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064449	Mined from GenBank, NCBI	623
+GBMIN119810-17	KU064452	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064452	Mined from GenBank, NCBI	623
+GBMIN119811-17	KU064463	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064463	Mined from GenBank, NCBI	623
+GBMIN119812-17	KU064472	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064472	Mined from GenBank, NCBI	623
+GBMIN119813-17	KU064480	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064480	Mined from GenBank, NCBI	623
+GBMIN119814-17	KU064487	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064487	Mined from GenBank, NCBI	623
+GBMIN119815-17	KU064489	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064489	Mined from GenBank, NCBI	623
+GBMIN119816-17	KU064493	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064493	Mined from GenBank, NCBI	623
+GBMIN119817-17	KU064495	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064495	Mined from GenBank, NCBI	623
+GBMIN119818-17	KU064499	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064499	Mined from GenBank, NCBI	623
+GBMIN119819-17	KU064506	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064506	Mined from GenBank, NCBI	623
+GBMIN119820-17	KU064509	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Palau	KU064509	Mined from GenBank, NCBI	623
+GBMIN119821-17	KU064511	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Palau	KU064511	Mined from GenBank, NCBI	623
+GBMIN119822-17	KU064518	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Philippines	KU064518	Mined from GenBank, NCBI	623
+GBMIN121074-17	KX399452		Cephalopholis	BOLD:AAF0621	COI-5P	India	KX399452	Mined from GenBank, NCBI	467
+GBMIN121271-17	KX758564	Cephalopholis taeniops	Cephalopholis taeniops	BOLD:ABX9081	COI-5P		KX758564	Mined from GenBank, NCBI	604
+GBMIN121953-17	KY676090	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KY676090	Mined from GenBank, NCBI	551
+GBMIN123185-17	KM226217	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAI7557	COI-5P	India	KM226217	Mined from GenBank, NCBI	655
+GBMIN123186-17	KM226219	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	India	KM226219	Mined from GenBank, NCBI	655
+GBMIN123187-17	KM226223	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	India	KM226223	Mined from GenBank, NCBI	655
+GBMIN123188-17	KM226230	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	India	KM226230	Mined from GenBank, NCBI	655
+GBMIN123266-17	KM656839	Cephalopholis microprion	Cephalopholis microprion	BOLD:AAC0217	COI-5P		KM656839	Mined from GenBank, NCBI	651
+GBMIN123700-17	KP331700	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P		KP331700	Mined from GenBank, NCBI	577
+GBMIN124193-17	KT216201	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216201	Mined from GenBank, NCBI	629
+GBMIN124194-17	KT216209	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216209	Mined from GenBank, NCBI	629
+GBMIN124195-17	KT216216	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216216	Mined from GenBank, NCBI	629
+GBMIN124196-17	KT216217	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216217	Mined from GenBank, NCBI	629
+GBMIN124197-17	KT216219	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216219	Mined from GenBank, NCBI	629
+GBMIN124198-17	KT216221	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216221	Mined from GenBank, NCBI	629
+GBMIN124199-17	KT216230	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Sudan	KT216230	Mined from GenBank, NCBI	629
+GBMIN124200-17	KT216235	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216235	Mined from GenBank, NCBI	629
+GBMIN124651-17	KU064286		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064286	Mined from GenBank, NCBI	623
+GBMIN124652-17	KU064291		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064291	Mined from GenBank, NCBI	623
+GBMIN124653-17	KU064296		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064296	Mined from GenBank, NCBI	623
+GBMIN124654-17	KU064298		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064298	Mined from GenBank, NCBI	623
+GBMIN124655-17	KU064310		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064310	Mined from GenBank, NCBI	623
+GBMIN124656-17	KU064312		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064312	Mined from GenBank, NCBI	623
+GBMIN124657-17	KU064316		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064316	Mined from GenBank, NCBI	623
+GBMIN124658-17	KU064324		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064324	Mined from GenBank, NCBI	623
+GBMIN124659-17	KU064334		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064334	Mined from GenBank, NCBI	623
+GBMIN124660-17	KU064335		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064335	Mined from GenBank, NCBI	623
+GBMIN124661-17	KU064340		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064340	Mined from GenBank, NCBI	623
+GBMIN124662-17	KU064342		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064342	Mined from GenBank, NCBI	623
+GBMIN124663-17	KU064356		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064356	Mined from GenBank, NCBI	623
+GBMIN124664-17	KU064358		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064358	Mined from GenBank, NCBI	623
+GBMIN124665-17	KU064367	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064367	Mined from GenBank, NCBI	623
+GBMIN124666-17	KU064381	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064381	Mined from GenBank, NCBI	623
+GBMIN124667-17	KU064383	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064383	Mined from GenBank, NCBI	623
+GBMIN124668-17	KU064385	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064385	Mined from GenBank, NCBI	623
+GBMIN124669-17	KU064394	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064394	Mined from GenBank, NCBI	623
+GBMIN124670-17	KU064399	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064399	Mined from GenBank, NCBI	623
+GBMIN124671-17	KU064400	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064400	Mined from GenBank, NCBI	623
+GBMIN124672-17	KU064402	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064402	Mined from GenBank, NCBI	623
+GBMIN124673-17	KU064403	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064403	Mined from GenBank, NCBI	623
+GBMIN124674-17	KU064406	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064406	Mined from GenBank, NCBI	623
+GBMIN124675-17	KU064412	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064412	Mined from GenBank, NCBI	623
+GBMIN124676-17	KU064423	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064423	Mined from GenBank, NCBI	623
+GBMIN124677-17	KU064441	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064441	Mined from GenBank, NCBI	623
+GBMIN124678-17	KU064453	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064453	Mined from GenBank, NCBI	623
+GBMIN124679-17	KU064455	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064455	Mined from GenBank, NCBI	623
+GBMIN124680-17	KU064466	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064466	Mined from GenBank, NCBI	623
+GBMIN124681-17	KU064473	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064473	Mined from GenBank, NCBI	623
+GBMIN124682-17	KU064474	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064474	Mined from GenBank, NCBI	623
+GBMIN124683-17	KU064485	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064485	Mined from GenBank, NCBI	623
+GBMIN124684-17	KU064494	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064494	Mined from GenBank, NCBI	623
+GBMIN124685-17	KU064502	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064502	Mined from GenBank, NCBI	623
+GBMIN124686-17	KU064505	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064505	Mined from GenBank, NCBI	623
+GBMIN124908-17	KU366470	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	India	KU366470	Mined from GenBank, NCBI	564
+GBMIN126695-17	KY676116	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KY676116	Mined from GenBank, NCBI	551
+GBMIN128072-17	KM226220	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India	KM226220	Mined from GenBank, NCBI	655
+GBMIN128073-17	KM226224	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	India	KM226224	Mined from GenBank, NCBI	655
+GBMIN128074-17	KM226225	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	India	KM226225	Mined from GenBank, NCBI	655
+GBMIN128075-17	KM226226	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	India	KM226226	Mined from GenBank, NCBI	655
+GBMIN128076-17	KM226227	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	India	KM226227	Mined from GenBank, NCBI	655
+GBMIN128077-17	KM226229	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	India	KM226229	Mined from GenBank, NCBI	655
+GBMIN129256-17	KT216198	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216198	Mined from GenBank, NCBI	629
+GBMIN129257-17	KT216204	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216204	Mined from GenBank, NCBI	629
+GBMIN129258-17	KT216208	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Djibouti	KT216208	Mined from GenBank, NCBI	629
+GBMIN129259-17	KT216210	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216210	Mined from GenBank, NCBI	629
+GBMIN129260-17	KT216211	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216211	Mined from GenBank, NCBI	628
+GBMIN129261-17	KT216213	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216213	Mined from GenBank, NCBI	629
+GBMIN129262-17	KT216220	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216220	Mined from GenBank, NCBI	629
+GBMIN129263-17	KT216233	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Sudan	KT216233	Mined from GenBank, NCBI	629
+GBMIN129699-17	KT835681	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	India	KT835681	Mined from GenBank, NCBI	652
+GBMIN129700-17	KT835682	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	India	KT835682	Mined from GenBank, NCBI	652
+GBMIN129913-17	KU064284		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064284	Mined from GenBank, NCBI	623
+GBMIN129914-17	KU064290		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064290	Mined from GenBank, NCBI	623
+GBMIN129915-17	KU064292		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064292	Mined from GenBank, NCBI	623
+GBMIN129916-17	KU064295		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064295	Mined from GenBank, NCBI	623
+GBMIN129917-17	KU064297		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064297	Mined from GenBank, NCBI	623
+GBMIN129918-17	KU064299		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064299	Mined from GenBank, NCBI	623
+GBMIN129919-17	KU064300		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064300	Mined from GenBank, NCBI	623
+GBMIN129920-17	KU064303		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064303	Mined from GenBank, NCBI	623
+GBMIN129921-17	KU064308		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064308	Mined from GenBank, NCBI	623
+GBMIN129922-17	KU064315		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064315	Mined from GenBank, NCBI	623
+GBMIN129923-17	KU064320		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064320	Mined from GenBank, NCBI	623
+GBMIN129924-17	KU064322		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064322	Mined from GenBank, NCBI	623
+GBMIN129925-17	KU064326		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064326	Mined from GenBank, NCBI	623
+GBMIN129926-17	KU064337		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064337	Mined from GenBank, NCBI	623
+GBMIN129927-17	KU064338		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064338	Mined from GenBank, NCBI	623
+GBMIN129928-17	KU064341		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064341	Mined from GenBank, NCBI	623
+GBMIN129929-17	KU064347		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064347	Mined from GenBank, NCBI	623
+GBMIN129930-17	KU064350		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064350	Mined from GenBank, NCBI	623
+GBMIN129931-17	KU064353		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064353	Mined from GenBank, NCBI	623
+GBMIN129932-17	KU064355		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064355	Mined from GenBank, NCBI	623
+GBMIN129933-17	KU064360	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064360	Mined from GenBank, NCBI	623
+GBMIN129934-17	KU064361	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064361	Mined from GenBank, NCBI	623
+GBMIN129935-17	KU064363	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064363	Mined from GenBank, NCBI	623
+GBMIN129936-17	KU064366	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064366	Mined from GenBank, NCBI	623
+GBMIN129937-17	KU064370	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064370	Mined from GenBank, NCBI	623
+GBMIN129938-17	KU064372	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064372	Mined from GenBank, NCBI	623
+GBMIN129939-17	KU064373	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064373	Mined from GenBank, NCBI	623
+GBMIN129940-17	KU064378	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064378	Mined from GenBank, NCBI	623
+GBMIN129941-17	KU064379	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064379	Mined from GenBank, NCBI	623
+GBMIN129942-17	KU064386	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064386	Mined from GenBank, NCBI	623
+GBMIN129943-17	KU064393	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064393	Mined from GenBank, NCBI	623
+GBMIN129944-17	KU064395	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064395	Mined from GenBank, NCBI	623
+GBMIN129945-17	KU064396	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064396	Mined from GenBank, NCBI	623
+GBMIN129946-17	KU064415	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064415	Mined from GenBank, NCBI	623
+GBMIN129947-17	KU064416	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064416	Mined from GenBank, NCBI	623
+GBMIN129948-17	KU064418	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064418	Mined from GenBank, NCBI	623
+GBMIN129949-17	KU064419	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064419	Mined from GenBank, NCBI	623
+GBMIN129950-17	KU064425	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064425	Mined from GenBank, NCBI	623
+GBMIN129951-17	KU064429	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064429	Mined from GenBank, NCBI	623
+GBMIN129952-17	KU064433	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064433	Mined from GenBank, NCBI	623
+GBMIN129953-17	KU064436	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064436	Mined from GenBank, NCBI	623
+GBMIN129954-17	KU064437	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064437	Mined from GenBank, NCBI	623
+GBMIN129955-17	KU064439	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064439	Mined from GenBank, NCBI	623
+GBMIN129956-17	KU064443	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064443	Mined from GenBank, NCBI	623
+GBMIN129957-17	KU064446	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064446	Mined from GenBank, NCBI	623
+GBMIN129958-17	KU064450	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064450	Mined from GenBank, NCBI	623
+GBMIN129959-17	KU064456	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064456	Mined from GenBank, NCBI	623
+GBMIN129960-17	KU064457	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064457	Mined from GenBank, NCBI	623
+GBMIN129961-17	KU064459	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064459	Mined from GenBank, NCBI	623
+GBMIN129962-17	KU064462	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064462	Mined from GenBank, NCBI	623
+GBMIN129963-17	KU064464	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064464	Mined from GenBank, NCBI	623
+GBMIN129964-17	KU064468	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064468	Mined from GenBank, NCBI	623
+GBMIN129965-17	KU064469	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064469	Mined from GenBank, NCBI	623
+GBMIN129966-17	KU064470	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064470	Mined from GenBank, NCBI	623
+GBMIN129967-17	KU064477	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Micronesia	KU064477	Mined from GenBank, NCBI	623
+GBMIN129968-17	KU064478	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064478	Mined from GenBank, NCBI	623
+GBMIN129969-17	KU064479	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064479	Mined from GenBank, NCBI	623
+GBMIN129970-17	KU064481	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064481	Mined from GenBank, NCBI	623
+GBMIN129971-17	KU064482	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064482	Mined from GenBank, NCBI	623
+GBMIN129972-17	KU064486	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064486	Mined from GenBank, NCBI	623
+GBMIN129973-17	KU064491	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064491	Mined from GenBank, NCBI	623
+GBMIN129974-17	KU064492	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064492	Mined from GenBank, NCBI	623
+GBMIN129975-17	KU064500	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064500	Mined from GenBank, NCBI	623
+GBMIN129976-17	KU064516	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Philippines	KU064516	Mined from GenBank, NCBI	623
+GBMIN130279-17	KU366479	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	India	KU366479	Mined from GenBank, NCBI	630
+GBMIN131596-17	KX758568	Cephalopholis nigri	Cephalopholis nigri	BOLD:ACC1733	COI-5P		KX758568	Mined from GenBank, NCBI	604
+GBMIN93709-17	KM226221	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	India	KM226221	Mined from GenBank, NCBI	655
+GBMIN93710-17	KM226234	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	India	KM226234	Mined from GenBank, NCBI	655
+GBMIN93797-17	KM656840	Cephalopholis oligosticta	Cephalopholis oligosticta	BOLD:ADJ9433	COI-5P		KM656840	Mined from GenBank, NCBI	637
+GBMIN94189-17	KP331698	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P		KP331698	Mined from GenBank, NCBI	577
+GBMIN94469-17	KR024641	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	India	KR024641	Mined from GenBank, NCBI	606
+GBMIN94659-17	KT216197	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216197	Mined from GenBank, NCBI	629
+GBMIN94660-17	KT216202	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216202	Mined from GenBank, NCBI	629
+GBMIN94661-17	KT216203	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216203	Mined from GenBank, NCBI	629
+GBMIN94662-17	KT216205	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Djibouti	KT216205	Mined from GenBank, NCBI	629
+GBMIN94663-17	KT216206	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Djibouti	KT216206	Mined from GenBank, NCBI	629
+GBMIN94664-17	KT216212	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216212	Mined from GenBank, NCBI	629
+GBMIN94665-17	KT216214	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KT216214	Mined from GenBank, NCBI	628
+GBMIN94666-17	KT216224	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Oman	KT216224	Mined from GenBank, NCBI	629
+GBMIN95111-17	KU064285		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064285	Mined from GenBank, NCBI	623
+GBMIN95112-17	KU064294		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064294	Mined from GenBank, NCBI	623
+GBMIN95113-17	KU064302		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064302	Mined from GenBank, NCBI	623
+GBMIN95114-17	KU064305		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064305	Mined from GenBank, NCBI	623
+GBMIN95115-17	KU064318		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064318	Mined from GenBank, NCBI	623
+GBMIN95116-17	KU064323		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064323	Mined from GenBank, NCBI	623
+GBMIN95117-17	KU064325		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064325	Mined from GenBank, NCBI	623
+GBMIN95118-17	KU064329		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064329	Mined from GenBank, NCBI	623
+GBMIN95119-17	KU064344		Cephalopholis	BOLD:AAC4202	COI-5P	Australia	KU064344	Mined from GenBank, NCBI	623
+GBMIN95120-17	KU064362	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064362	Mined from GenBank, NCBI	623
+GBMIN95121-17	KU064364	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064364	Mined from GenBank, NCBI	623
+GBMIN95122-17	KU064375	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064375	Mined from GenBank, NCBI	623
+GBMIN95123-17	KU064377	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064377	Mined from GenBank, NCBI	623
+GBMIN95124-17	KU064380	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064380	Mined from GenBank, NCBI	623
+GBMIN95125-17	KU064382	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064382	Mined from GenBank, NCBI	623
+GBMIN95126-17	KU064397	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Australia	KU064397	Mined from GenBank, NCBI	623
+GBMIN95127-17	KU064407	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064407	Mined from GenBank, NCBI	623
+GBMIN95128-17	KU064410	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064410	Mined from GenBank, NCBI	623
+GBMIN95129-17	KU064417	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064417	Mined from GenBank, NCBI	623
+GBMIN95130-17	KU064426	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064426	Mined from GenBank, NCBI	623
+GBMIN95131-17	KU064428	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064428	Mined from GenBank, NCBI	623
+GBMIN95132-17	KU064431	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064431	Mined from GenBank, NCBI	623
+GBMIN95133-17	KU064434	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064434	Mined from GenBank, NCBI	623
+GBMIN95134-17	KU064438	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064438	Mined from GenBank, NCBI	623
+GBMIN95135-17	KU064442	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064442	Mined from GenBank, NCBI	623
+GBMIN95136-17	KU064445	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064445	Mined from GenBank, NCBI	623
+GBMIN95137-17	KU064451	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064451	Mined from GenBank, NCBI	623
+GBMIN95138-17	KU064454	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064454	Mined from GenBank, NCBI	623
+GBMIN95139-17	KU064460	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064460	Mined from GenBank, NCBI	623
+GBMIN95140-17	KU064461	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064461	Mined from GenBank, NCBI	623
+GBMIN95141-17	KU064465	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064465	Mined from GenBank, NCBI	623
+GBMIN95142-17	KU064467	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Australia	KU064467	Mined from GenBank, NCBI	623
+GBMIN95143-17	KU064475	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Micronesia	KU064475	Mined from GenBank, NCBI	623
+GBMIN95144-17	KU064484	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064484	Mined from GenBank, NCBI	623
+GBMIN95145-17	KU064488	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064488	Mined from GenBank, NCBI	623
+GBMIN95146-17	KU064490	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064490	Mined from GenBank, NCBI	623
+GBMIN95147-17	KU064497	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064497	Mined from GenBank, NCBI	623
+GBMIN95148-17	KU064498	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064498	Mined from GenBank, NCBI	623
+GBMIN95149-17	KU064501	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Maldives	KU064501	Mined from GenBank, NCBI	623
+GBMIN95150-17	KU064512	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Palau	KU064512	Mined from GenBank, NCBI	623
+GBMIN97224-17	KY675922	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KY675922	Mined from GenBank, NCBI	551
+GBMIN97251-17	KY676052	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia	KY676052	Mined from GenBank, NCBI	551
+GBMNA14957-19	KC593377	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P		KC593377	Mined from GenBank, NCBI	1548
+GBMNA14958-19	KC593378	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P		KC593378	Mined from GenBank, NCBI	1548
+GBMNA14959-19	KJ469385	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P		KJ469385	Mined from GenBank, NCBI	1548
+GBMNA14960-19	KU891818	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P		KU891818	Mined from GenBank, NCBI	1548
+GBMNA14961-19	KC537759	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P		KC537759	Mined from GenBank, NCBI	1548
+GBMNB10649-20	MN560821	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P		MN560821	Mined from GenBank, NCBI	713
+GBMNB10689-20	MN560861	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P		MN560861	Mined from GenBank, NCBI	658
+GBMNB10720-20	MN560892	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P		MN560892	Mined from GenBank, NCBI	657
+GBMNB10794-20	MN560966	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P		MN560966	Mined from GenBank, NCBI	704
+GBMNB12054-20	MT076831	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P		MT076831	Mined from GenBank, NCBI	663
+GBMNB12055-20	MT076832	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P		MT076832	Mined from GenBank, NCBI	663
+GBMNB12056-20	MT076833	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P		MT076833	Mined from GenBank, NCBI	663
+GBMNB12057-20	MT076834	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P		MT076834	Mined from GenBank, NCBI	663
+GBMNB12058-20	MT076835	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P		MT076835	Mined from GenBank, NCBI	663
+GBMNB5522-20	MK216570	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P		MK216570	Mined from GenBank, NCBI	632
+GBMNB7605-20	MK777595	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P		MK777595	Mined from GenBank, NCBI	557
+GBMNB7606-20	MK777596	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P		MK777596	Mined from GenBank, NCBI	490
+GBMNB7607-20	MK777597	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P		MK777597	Mined from GenBank, NCBI	605
+GBMNC12523-20	MN733543	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Micronesia	MN733543	Mined from GenBank, NCBI	688
+GBMNC14426-20	MN756157	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Mexico	MN756157	Mined from GenBank, NCBI	448
+GBMNC17873-20	MN257517	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Indonesia	MN257517	Mined from GenBank, NCBI	615
+GBMNC18999-20	MW034147	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P		MW034147	Mined from GenBank, NCBI	655
+GBMND67960-21	MW828604	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Bangladesh	MW828604	Mined from GenBank, NCBI	597
+GBMNE78463-22	MZ606163	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P		MZ606163	Mined from GenBank, NCBI	615
+GBMNE78464-22	MZ606206	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P		MZ606206	Mined from GenBank, NCBI	636
+GBMNE78465-22	ON564518	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	India	ON564518	Mined from GenBank, NCBI	661
+GBMNE78466-22	ON573367	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	India	ON573367	Mined from GenBank, NCBI	654
+GBMNF47727-22	ON228385	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India	ON228385	Mined from GenBank, NCBI	663
+GBMNF47728-22	ON194156	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	India	ON194156	Mined from GenBank, NCBI	644
+GBMTG4661-16	NC_021134	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P		NC_021134	Mined from GenBank, NCBI	1548
+GBMTG4661-16	NC_021134	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COII		NC_021134	Mined from GenBank, NCBI	688
+GBMTG4863-16	NC_022142	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P		NC_022142	Mined from GenBank, NCBI	1548
+GBMTG4863-16	NC_022142	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COII		NC_022142	Mined from GenBank, NCBI	688
+GBMTG4865-16	NC_024100	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P		NC_024100	Mined from GenBank, NCBI	1548
+GBMTG4865-16	NC_024100	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COII		NC_024100	Mined from GenBank, NCBI	688
+GBMTG4867-16	NC_022143	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P		NC_022143	Mined from GenBank, NCBI	1548
+GBMTG4867-16	NC_022143	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COII		NC_022143	Mined from GenBank, NCBI	688
+GEOFI064-21	P07241401	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Madagascar		Institut Halieutique et des Sciences Marines	611
+GEOFI199-21	P09050372	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Madagascar		Institut Halieutique et des Sciences Marines	664
+GEOFI594-21	P2070132	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Madagascar		Institut Halieutique et des Sciences Marines	605
+GEOFI755-21	P3090292	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Madagascar		Institut Halieutique et des Sciences Marines	645
+GOAIL314-17	SMNHTAU P.15308	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Israel	MF123774	Tel Aviv University, The Steinhardt Museum of Natural History	655
+GWAFI053-24	GE_188	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Guadeloupe		Marine Biodiversity, Exploitation and Conservation	645
+GWAFI054-24	GE_189	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Guadeloupe		Marine Biodiversity, Exploitation and Conservation	645
+GWAFI055-24	GE_190	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Guadeloupe		Marine Biodiversity, Exploitation and Conservation	634
+GWAFI056-24	GE_192	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Guadeloupe		Marine Biodiversity, Exploitation and Conservation	646
+IFV090-11	RE90	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	India		Paul Hebert Centre for DNA Barcoding and Biodiversity Studies	498
+IMFIB061-22	EtaSP1	Cephalopholis taeniops	Cephalopholis taeniops	BOLD:ABX9081	COI-5P	Ivory Coast		Institut de Recherche pour le Developpement, France	634
+IMFIB286-22	CSP321	Cephalopholis nigri	Cephalopholis nigri	BOLD:ACC1733	COI-5P	Ivory Coast		Institut de Recherche pour le Developpement, France	631
+IMFIB302-22	CSP340	Cephalopholis nigri	Cephalopholis nigri	BOLD:ACC1733	COI-5P	Ivory Coast		Institut de Recherche pour le Developpement, France	657
+IMFIB831-24	CIB9-02	Cephalopholis nigri	Cephalopholis nigri	BOLD:ACC1733	COI-5P	Ivory Coast		Universite NANGUI ABROGOUA	655
+IMFIB832-24	CIB9-03	Cephalopholis taeniops	Cephalopholis taeniops	BOLD:ABX9081	COI-5P	Ivory Coast		Universite NANGUI ABROGOUA	655
+KIR015-13	KIF11_212_FC01	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Kiribati		University of Victoria	636
+KIR022-13	KIF11_272_FC01	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Kiribati		University of Victoria	652
+KIR023-13	KIF11_274_FC01	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Kiribati		University of Victoria	652
+LIDM318-07	bz98704cc220	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Belize		Research Collection of Benjamin Victor	652
+LIDM536-07	st13cc1200	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	United States Virgin Islands		Research Collection of Benjamin Victor	652
+LIDM856-07	n7530bc290.1	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Panama		Research Collection of Benjamin Victor	652
+LIDMA961-11	pp921e250	Cephalopholis panamensis	Cephalopholis panamensis	BOLD:ABA2702	COI-5P	Panama		Research Collection of Benjamin Victor	652
+LIFS151-08	HBL-LI-2001-185	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Australia	KP194491	Royal Ontario Museum	652
+LIFS376-08	UG0191	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Australia	KP194546	Australian Museum, Sydney	648
+LIFS377-08	UG0192	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Australia	KP194367	Australian Museum, Sydney	648
+LIFS482-08	UG0297	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Australia	KP194946	CSIRO, Australian National Fish Collection	648
+LIFS621-08	UG0436	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Australia	KP194149	Australian Museum, Sydney	648
+LIFS641-08	UG0456	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Australia	KP194176	CSIRO, Australian National Fish Collection	648
+LIFS642-08	UG0457	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Australia	KP194063	Australian Museum, Sydney	648
+LIFS724-08	UG0539	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Australia	KP194861	Australian Museum, Sydney	648
+LIFS864-08	UG0679	Cephalopholis microprion	Cephalopholis microprion	BOLD:AAF0629	COI-5P	Australia	KP194699	Australian Museum, Sydney	648
+MARQ359-12	MARQ-360	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5432	COI-5P	French Polynesia	MK566843	Smithsonian Institution, National Museum of Natural History	655
+MARQ366-12	MARQ-367	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	French Polynesia	MK566842	Smithsonian Institution, National Museum of Natural History	655
+MBFA027-07	MBIO64.4	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	French Polynesia	JQ431578	Museum national d'Histoire naturelle	587
+MBFA028-07	MBIO65.4	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	French Polynesia	JQ431577	Museum national d'Histoire naturelle	599
+MBFA029-07	MBIO68.4	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	French Polynesia	JQ431571	Museum national d'Histoire naturelle	587
+MBFA030-07	MBIO69.4	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	French Polynesia	JQ431570	Museum national d'Histoire naturelle	585
+MBFA067-07	MBIO125.4	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	French Polynesia	JQ431565	Museum national d'Histoire naturelle	631
+MBFA196-07	MBIO327.4	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	French Polynesia	JQ431569	Museum national d'Histoire naturelle	654
+MBFA197-07	MBIO328.4	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	French Polynesia	JQ431566	Museum national d'Histoire naturelle	638
+MBFA286-07	MBIO475.4	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	French Polynesia	JQ431567	Museum national d'Histoire naturelle	651
+MBFA399-07	MBIO667.4	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	French Polynesia	JQ431573	Museum national d'Histoire naturelle	592
+MBFA530-07	MBIO868.4	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	French Polynesia	JQ431564	Museum national d'Histoire naturelle	654
+MBFA531-07	MBIO869.4	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	French Polynesia	JQ431568	Smithsonian Institution	654
+MBFA552-07	MBIO900.4	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAE4050	COI-5P	French Polynesia	JQ431576	Museum national d'Histoire naturelle	654
+MBFA556-07	MBIO905.4	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	French Polynesia	JQ431572	Museum national d'Histoire naturelle	654
+MBFB047-07	MBIO1868.4	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5432	COI-5P	French Polynesia	JQ431574	Museum national d'Histoire naturelle	651
+MBFB048-07	MBIO1869.4	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5432	COI-5P	French Polynesia	JQ431575	Museum national d'Histoire naturelle	651
+MEFM317-06	MX086	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Mexico	GU225174	El Colegio de la Frontera Sur, Unidad Chetumal	652
+MEFM425-06	MX194	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Mexico	GU225175	El Colegio de la Frontera Sur, Unidad Chetumal	652
+MEFM426-06	MX195	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Mexico	GU225173	El Colegio de la Frontera Sur, Unidad Chetumal	652
+MEFM427-06	MX196	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Mexico	GU225172	El Colegio de la Frontera Sur, Unidad Chetumal	652
+MEFM428-06	MX197	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Mexico	GU225176	El Colegio de la Frontera Sur, Unidad Chetumal	652
+MFIV340-10	MXIV0434	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Mexico	JN313630	El Colegio de la Frontera Sur, Unidad Chetumal	652
+MFIV343-10	MXIV0437	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Mexico	JN313632	El Colegio de la Frontera Sur, Unidad Chetumal	652
+MFLE084-12	MFLE4714	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Haiti		El Colegio de la Frontera Sur, Unidad Chetumal	652
+MFLE138-12	MFLE4768	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Cayman Islands		El Colegio de la Frontera Sur, Unidad Chetumal	652
+MFLE318-13	MFLE4853	Cephalopholis cruentata	Cephalopholis cruentata		COI-5P	Belize		El Colegio de la Frontera Sur, Unidad Chetumal	295
+MFLII523-07	MFL843	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Mexico	GU224752	El Colegio de la Frontera Sur, Unidad Chetumal	648
+MFLVI195-10	MFLVI3090	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Mexico		El Colegio de la Frontera Sur, Unidad Chetumal	648
+MFLVI197-10	MFLVI3092	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Mexico		El Colegio de la Frontera Sur, Unidad Chetumal	648
+MFLVI198-10	MFLVI3093	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Mexico	HQ991880-SUPPRESSED	El Colegio de la Frontera Sur, Unidad Chetumal	621
+MFLVI359-10	MFLVI3254	Cephalopholis fulva	Cephalopholis fulva		COI-5P	Mexico	HQ573512	El Colegio de la Frontera Sur, Unidad Chetumal	652
+MFLVI847-11	MFLVI4130	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Mexico		El Colegio de la Frontera Sur, Unidad Chetumal	652
+MFSP1896-11	LBPV53040	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Brazil	JQ365279	Universidade Estadual Paulista, Lab de Biologia e Genetica de Peixes	654
+MFSP1897-11	LBPV53041	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Brazil	JQ365278	Universidade Estadual Paulista, Lab de Biologia e Genetica de Peixes	654
+MFSP1898-11	LBPV53042	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Brazil	JQ365277	Universidade Estadual Paulista, Lab de Biologia e Genetica de Peixes	654
+MINDA026-23	DNSC_2017_084A	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Philippines	OR524300	Davao del Norte State College	666
+MINDA035-23	DNSC_2017_126A	Cephalopholis aitha	Cephalopholis aitha	BOLD:ADL0078	COI-5P	Philippines	OR524291	Davao del Norte State College	666
+MINDA099-23	FDP_GOVG_2202_035A	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Philippines	OR524295	University of the Philippines Mindanao	675
+MINDA115-23	FDP_GOVG_2204_010A	Cephalopholis aitha	Cephalopholis aitha	BOLD:ADL0078	COI-5P	Philippines	OR524306	University of the Philippines Mindanao	675
+MINDA127-23	FDP_GOVG_2207_009A	Cephalopholis polleni	Cephalopholis polleni	BOLD:AAK0631	COI-5P	Philippines	OR524301	University of the Philippines Mindanao	675
+MINDA207-23	FDP_IGCS_2111_016A	Cephalopholis microprion	Cephalopholis microprion	BOLD:AAF0629	COI-5P	Philippines	OR524298	University of the Philippines Mindanao	675
+MINDA255-23	FDP_IGCS_2202_014A	Cephalopholis aitha	Cephalopholis aitha	BOLD:ADL0078	COI-5P	Philippines	OR524307	University of the Philippines Mindanao	675
+MINDA256-23	FDP_IGCS_2202_016A	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	Philippines	OR524303	University of the Philippines Mindanao	675
+MINDA257-23	FDP_IGCS_2202_016B	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	Philippines	OR524302	University of the Philippines Mindanao	675
+MINDA321-23	FDP_SGES_2112_006A	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Philippines	OR524297	University of the Philippines Mindanao	570
+MINDA392-23	FDP_STAC_2211_029A	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Philippines	OR524292	University of the Philippines Mindanao	666
+MINDA403-23	FDP_TORL_2206_013A	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Philippines	OR524304	University of the Philippines Mindanao	675
+MINDA410-23	FDP_TORL_2206_031A	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Philippines	OR524293	University of the Philippines Mindanao	675
+MINDA419-23	MIN_1908_GOVG_049A	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Philippines	OR524294	University of the Philippines Mindanao	663
+MINDA437-23	MIN_1908_GOVG_047A	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Philippines	OR524296	University of the Philippines Mindanao	663
+MINDA449-23	MIN_1908_STAC_019A	Cephalopholis microprion	Cephalopholis microprion	BOLD:AAF0629	COI-5P	Philippines	OR524299	University of the Philippines Mindanao	621
+MINDA466-23	MIN_1811_STAC_057A	Cephalopholis aitha	Cephalopholis aitha	BOLD:ADL0078	COI-5P	Philippines	OR524305	University of the Philippines Mindanao	663
+MLIII364-08	MFL 1258	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Mexico		El Colegio de la Frontera Sur, Unidad Chetumal	652
+MOH019-16	MOH-019	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	French Polynesia	MK658158	Smithsonian Institution, National Museum of Natural History	655
+MOH155-16	MOH-155	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	French Polynesia	MK657950	Smithsonian Institution, National Museum of Natural History	655
+MXIV104-10	MXIV104	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Mexico	HM379863	El Colegio de la Frontera Sur, Unidad Chetumal	652
+MXIV264-10	MXIV0264	Cephalopholis cruentata	Cephalopholis cruentata		COI-5P	Mexico		El Colegio de la Frontera Sur, Unidad Chetumal	504
+MXIV488-10	MXIV0866	Cephalopholis cruentata	Cephalopholis cruentata		COI-5P	Mexico		El Colegio de la Frontera Sur, Unidad Chetumal	648
+MXIV500-10	MXIV0878	Cephalopholis cruentata	Cephalopholis cruentata		COI-5P	Mexico	JN313791	El Colegio de la Frontera Sur, Unidad Chetumal	648
+MXV522-14	MXV0572	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Mexico		El Colegio de la Frontera Sur, Unidad Chetumal	639
+MXV523-14	MXV0573	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Mexico		El Colegio de la Frontera Sur, Unidad Chetumal	643
+MXV525-14	MXV0575	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Mexico		El Colegio de la Frontera Sur, Unidad Chetumal	510
+MYANF006-18	USNM444062	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Myanmar	MH235618	Smithsonian Institution, National Museum of Natural History	651
+MYANF075-18	USNM444131	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Myanmar	MH235617	Smithsonian Institution, National Museum of Natural History	651
+MYANF125-18	ISGMM4	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Myanmar	MH235616	Private Collection of Iris Segura Garcia	651
+MYANF145-19	MM-016	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Myanmar		Private Collection of Iris Segura Garcia	589
+NNPF101-10	NPPF1101	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Iran	HQ149822	University of Tehran	649
+OXF030-11	OXF89	Cephalopholis panamensis	Cephalopholis panamensis	BOLD:ABA2702	COI-5P	Mexico		El Colegio de la Frontera Sur, Unidad Chetumal	652
+OXF098-11	OXF90	Cephalopholis panamensis	Cephalopholis panamensis	BOLD:ABA2702	COI-5P	Mexico		El Colegio de la Frontera Sur, Unidad Chetumal	652
+OXF099-11	OXF91	Cephalopholis panamensis	Cephalopholis panamensis	BOLD:ABA2702	COI-5P	Mexico		El Colegio de la Frontera Sur, Unidad Chetumal	652
+OXF100-11	OXF92	Cephalopholis panamensis	Cephalopholis panamensis	BOLD:ABA2702	COI-5P	Mexico		El Colegio de la Frontera Sur, Unidad Chetumal	652
+OXF101-11	OXF93	Cephalopholis panamensis	Cephalopholis panamensis	BOLD:ABA2702	COI-5P	Mexico		El Colegio de la Frontera Sur, Unidad Chetumal	652
+PHILA026-13	PI-0026	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAE4050	COI-5P	Philippines	OQ385495	Smithsonian Institution, National Museum of Natural History	655
+PHILA027-13	PI-0027	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAE4050	COI-5P	Philippines	OQ386847	Smithsonian Institution, National Museum of Natural History	615
+PHILA028-13	PI-0028	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAE4050	COI-5P	Philippines	OQ385584	Smithsonian Institution, National Museum of Natural History	655
+PHILA032-13	PI-0032	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Philippines	OQ387548	Smithsonian Institution, National Museum of Natural History	647
+PHILA033-13	PI-0033	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Philippines	OQ387545	Smithsonian Institution, National Museum of Natural History	622
+PHILA034-13	PI-0034	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Philippines	OQ387722	Smithsonian Institution, National Museum of Natural History	602
+PHILA1231-15	PIL-048	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Philippines	OQ386775	Smithsonian Institution, National Museum of Natural History	655
+PHILA1275-15	PIL-092	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Philippines	OQ387627	Smithsonian Institution, National Museum of Natural History	655
+PHILA1296-15	PIL-113	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Philippines	OQ385423	Smithsonian Institution, National Museum of Natural History	655
+PHILA1309-15	PIL-126	Cephalopholis cyanostigma	Cephalopholis cyanostigma		COI-5P	Philippines		Smithsonian Institution, National Museum of Natural History	655
+PHILA164-13	PI-0164	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	Philippines	OQ385726	Smithsonian Institution, National Museum of Natural History	655
+PHILA165-13	PI-0165	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Philippines	OQ386303	Smithsonian Institution, National Museum of Natural History	655
+PHILA195-13	PI-0197	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Philippines	OQ386243	Smithsonian Institution, National Museum of Natural History	655
+PHILA2267-18	PHISH-021	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAE4050	COI-5P	Philippines	OQ386947	Smithsonian Institution, National Museum of Natural History	655
+PHILA2275-18	PHISH-029	Cephalopholis aitha	Cephalopholis aitha	BOLD:ADL0078	COI-5P	Philippines	OQ387830	Smithsonian Institution, National Museum of Natural History	655
+PHILA231-13	PI-0233	Cephalopholis polleni	Cephalopholis polleni	BOLD:AAK0631	COI-5P	Philippines	OQ386886	Smithsonian Institution, National Museum of Natural History	655
+PHILA251-13	PI-0253	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Philippines	OQ385681	Smithsonian Institution, National Museum of Natural History	651
+PHILA2583-18	PHISH-392	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Philippines	OQ387535	Smithsonian Institution, National Museum of Natural History	655
+PHILA2585-18	PHISH-394	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Philippines	OQ387333	Smithsonian Institution, National Museum of Natural History	655
+PHILA2631-18	PHISH-440	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAB5432	COI-5P	Philippines	OQ385925	Smithsonian Institution, National Museum of Natural History	655
+PHILA2632-18	PHISH-441	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Philippines	OQ386708	Smithsonian Institution, National Museum of Natural History	655
+PHILA2633-18	PHISH-442	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAB5432	COI-5P	Philippines	OQ387248	Smithsonian Institution, National Museum of Natural History	655
+PHILA2640-18	PHISH-449	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAB5432	COI-5P	Philippines	OQ386086	Smithsonian Institution, National Museum of Natural History	655
+PHILA2642-18	PHISH-451	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Philippines	OQ387557	Smithsonian Institution, National Museum of Natural History	647
+PHILA2643-18	PHISH-452	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAB5432	COI-5P	Philippines	OQ386820	Smithsonian Institution, National Museum of Natural History	655
+PHILA2644-18	PHISH-453	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Philippines	OQ387254	Smithsonian Institution, National Museum of Natural History	655
+PHILA475-13	RP-001	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Philippines	OQ385706	Smithsonian Institution, National Museum of Natural History	655
+PHILA560-13	RP-086	Cephalopholis igarashiensis	Cephalopholis igarashiensis	BOLD:AAE9793	COI-5P	Philippines	OQ387098	Smithsonian Institution, National Museum of Natural History	650
+PHILA915-13	PHI-157	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Philippines	OQ386211	Smithsonian Institution, National Museum of Natural History	655
+PHILV076-15	VERDE-076	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Philippines	OQ385608	Smithsonian Institution, National Museum of Natural History	655
+PHILV146-15	VERDE-146	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Philippines	OQ385510	Smithsonian Institution, National Museum of Natural History	655
+PHILV214-15	VERDE-214	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Philippines	OQ385437	Smithsonian Institution, National Museum of Natural History	655
+PHILV227-15	VERDE-227	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Philippines	OQ385995	Smithsonian Institution, National Museum of Natural History	655
+PHILV230-15	VERDE-230	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Philippines	OQ386711	Smithsonian Institution, National Museum of Natural History	655
+PHILV246-15	VERDE-246	Cephalopholis sexmaculata	Cephalopholis sexmaculata	BOLD:AAE4051	COI-5P	Philippines	OQ387239	Smithsonian Institution, National Museum of Natural History	655
+PHILV375-15	VERDE-375	Cephalopholis microprion	Cephalopholis microprion	BOLD:AAF0629	COI-5P	Philippines	PZ231520	Smithsonian Institution, National Museum of Natural History	655
+PHIVS280-16	VIS-280	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Philippines	OQ386636	Smithsonian Institution, National Museum of Natural History	655
+PHIVS303-16	VIS-303	Cephalopholis microprion	Cephalopholis microprion	BOLD:AAF0629	COI-5P	Philippines	PZ231545	Smithsonian Institution, National Museum of Natural History	655
+RESIC139-11	MNHN_PE242	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	New Caledonia		Museum national d'Histoire naturelle	652
+RESIC210-11	MNHN_PE317	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	New Caledonia		Museum national d'Histoire naturelle	624
+RFE253-05	CEPHFULV-I96-002 CERT	Cephalopholis fulva	Cephalopholis fulva		COI-5P		EU752069		652
+RFE254-05	CEPHFULV-I96-003 CERT	Cephalopholis fulva	Cephalopholis fulva		COI-5P		EU752070		652
+RRFSH122-25	580_BB_26082024	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Bonaire, Sint Eustatius, and Saba		Blijdorp Conservation and Science Center	655
+RRFSH123-25	583_BB_26082024	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Bonaire, Sint Eustatius, and Saba		Blijdorp Conservation and Science Center	655
+RRFSH124-25	584_BB_26082024	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Bonaire, Sint Eustatius, and Saba		Blijdorp Conservation and Science Center	655
+RRFSH125-25	587_BB_26082024	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Bonaire, Sint Eustatius, and Saba		Blijdorp Conservation and Science Center	655
+SABA016-11	SABA016	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Bonaire, Sint Eustatius, and Saba		Old Dominion University	655
+SABA040-11	SABA040	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Bonaire, Sint Eustatius, and Saba		Old Dominion University	636
+SABA108-11	SABA108	Cephalopholis cruentata	Cephalopholis cruentata	BOLD:AAB3619	COI-5P	Bonaire, Sint Eustatius, and Saba		Old Dominion University	655
+SABF022-12	AGSA-F0023		Cephalopholis	BOLD:AAW6020	COI-5P	Saudi Arabia		King Abdulaziz City for Science and Technology	652
+SABF047-12	AGSA-F0049	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia		King Abdulaziz City for Science and Technology	652
+SABF048-12	AGSA-F0050	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia		King Abdulaziz City for Science and Technology	652
+SABF049-12	AGSA-F0051	Cephalopholis hemistiktos	Cephalopholis hemistiktos	BOLD:AAW6020	COI-5P	Saudi Arabia		King Abdulaziz City for Science and Technology	652
+SAIAB046-06	SAIAB 77334-T383	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5431	COI-5P	Seychelles		South African Institute for Aquatic Biodiversity	647
+SAIAB161-06	SAIAB 77329-T173	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Seychelles		South African Institute for Aquatic Biodiversity	652
+SAIAB205-06	SAIAB 77850-T223	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Seychelles		South African Institute for Aquatic Biodiversity	652
+SAIAB331-06	SAIAB 77355-T259	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Seychelles		South African Institute for Aquatic Biodiversity	652
+SAIAB460-06	SAIAB 77332-T86	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Seychelles		South African Institute for Aquatic Biodiversity	652
+SAIAB617-07	SAIAB 77353-T552	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Seychelles		South African Institute for Aquatic Biodiversity	652
+SAIAB618-07	SAIAB 77353-T553	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Seychelles		South African Institute for Aquatic Biodiversity	652
+SAIAB801-08	80426-1	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Tanzania		South African Institute for Aquatic Biodiversity	652
+SAIAB802-08	80426-2	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Tanzania		South African Institute for Aquatic Biodiversity	652
+SAIAB820-08	80652-1	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Tanzania		South African Institute for Aquatic Biodiversity	652
+SAIAB821-08	80652-2	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Tanzania		South African Institute for Aquatic Biodiversity	652
+SAIAB822-08	80652-3	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Tanzania		South African Institute for Aquatic Biodiversity	652
+SAIAB874-08	80627-1	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Tanzania		South African Institute for Aquatic Biodiversity	652
+SAIAB919-08	80664-1	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Tanzania		South African Institute for Aquatic Biodiversity	652
+SAIAB975-08	80669-1	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAI7557	COI-5P	Tanzania		South African Institute for Aquatic Biodiversity	606
+SAIAD408-11	CB10-307	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Kenya		South African Institute for Aquatic Biodiversity	652
+SAIAD415-11	CB10-320	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5431	COI-5P	Kenya		South African Institute for Aquatic Biodiversity	637
+SAMF016-13	SAIAB GM-002b_rerun	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Mozambique		South African Institute for Aquatic Biodiversity	652
+SAMF017-13	SAIAB GM-003b_rerun	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Mozambique		South African Institute for Aquatic Biodiversity	652
+SAU100-18	F1710SM-06	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Bangladesh		Sher-e-Bangla Agricultural University, Department of Fisheries Biology and Genetics, Aquatic Bioresource Research Lab	611
+SAU118-18	F1710SM-34	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Bangladesh		Sher-e-Bangla Agricultural University, Department of Fisheries Biology and Genetics, Aquatic Bioresource Research Lab	611
+SAU119-18	F1710SM-35	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Bangladesh		Sher-e-Bangla Agricultural University, Department of Fisheries Biology and Genetics, Aquatic Bioresource Research Lab	611
+SAU120-18	F1710SM-36	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Bangladesh		Sher-e-Bangla Agricultural University, Department of Fisheries Biology and Genetics, Aquatic Bioresource Research Lab	611
+SBF010-11	NBE0010	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Madagascar	JQ349856	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF017-11	NBE0021	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Madagascar	JQ349861	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF036-11	NBE0084	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Madagascar	JQ349860	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF037-11	NBE0085	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Madagascar	JQ349859	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF038-11	NBE0086	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Madagascar	JQ349858	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF135-11	NBE0342	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Madagascar	JQ349866	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF370-11	NBE1120	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Madagascar	JQ349864	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF371-11	NBE1121	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Madagascar	JQ349862	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF451-11	NBE1250	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Madagascar	JQ349865	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF452-11	NBE1251	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Madagascar	JQ349863	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF454-11	NBE1253	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	Madagascar	JQ349857	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF550-11	REU0783	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Reunion	JQ349872	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF570-11	REU0949	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Reunion	JQ349871	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF571-11	REU0950	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Reunion	JQ349869	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF572-11	REU0951	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Reunion	JQ349870	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF577-11	REU0959	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAE4050	COI-5P	Reunion	JQ349868	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF578-11	REU0960	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAE4050	COI-5P	Reunion	JQ349867	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SBF631-11	REU1620	Cephalopholis nigripinnis	Cephalopholis nigripinnis	BOLD:AAC4202	COI-5P	Reunion	JQ349873	Universite de La Reunion, Laboratoire d'Ecologie Marine	654
+SCILL117-15	SCIL-117	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	French Polynesia	MK658032	Smithsonian Institution, National Museum of Natural History	655
+SCILL118-15	SCIL-118	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	French Polynesia	MK658481	Smithsonian Institution, National Museum of Natural History	655
+SCILL137-15	SCIL-137	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4474	COI-5P	French Polynesia	MK658331	Smithsonian Institution, National Museum of Natural History	655
+SCILL138-15	SCIL-138	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAE4050	COI-5P	French Polynesia	MK657576	Smithsonian Institution, National Museum of Natural History	655
+SCS093-16	XWC149	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	China	KY371318	Guangdong Ocean University	634
+SERV003-16	070716_A	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Vietnam	MN708816	Universite de Montpellier	660
+SERV008-16	071115-B	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Vietnam	MN708817	Ho Chi Minh City University of Science	684
+SERV009-16	080316-A	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Vietnam	MN708805	Universite de Montpellier	655
+SERV012-16	080316-D	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Vietnam	MN708803	Ho Chi Minh City University of Science	655
+SERV013-16	090316-3	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Vietnam	MN708801	Nha Trang University	655
+SERV014-16	090416-3	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Vietnam	MN708809	Nha Trang University	659
+SERV024-16	131115-A	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Vietnam	MN708814	Universite de Montpellier	651
+SERV028-16	140716-1	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Vietnam	MN708812	Universite de Montpellier	659
+SERV033-16	151115-B	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Vietnam	MN708815	Ho Chi Minh City University of Science	684
+SERV040-16	230316-B	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P	Vietnam	MN708813	Ho Chi Minh City University of Science	649
+SERV055-16	Cm3-2015	Cephalopholis boenak	Cephalopholis boenak		COI-5P	Vietnam	MN708804	Vietnam National Museum of Nature	651
+SERV081-16	H1.040616 CD	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Vietnam	MN708807	Universite de Montpellier	659
+SERV104-16	QN004	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Vietnam	MN708800	Universite de Montpellier	646
+SERV122-16	TTVT-3.1	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Vietnam	MN708806	Universite de Montpellier	655
+SERV153-16	D17.040616 CD	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	Vietnam	MN708802	Universite de Montpellier	661
+SERV163-18	300317_CD1	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Vietnam	MN708810	Universite de Montpellier	659
+SERV165-18	130517-A	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Vietnam	MN708811	Universite de Montpellier	634
+SERV169-18	121117-C	Cephalopholis cyanostigma	Cephalopholis cyanostigma	BOLD:AAC0217	COI-5P	Vietnam	MN708808	Universite de Montpellier	660
+TZAIB035-06	HLC-12146	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Philippines	FJ583012	Royal Ontario Museum	652
+TZAIB355-06	HLC-12372	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Philippines	FJ583013	Royal Ontario Museum	652
+TZAIB356-06	HLC-12373	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Philippines	FJ583014	Royal Ontario Museum	652
+TZAIB367-06	HLC-12384	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Sri Lanka	FJ583003	Royal Ontario Museum	631
+TZAIB488-06	HLC-13111	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Cuba	FJ583005	Royal Ontario Museum	652
+TZAIB489-06	HLC-13112	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Cuba	FJ583006	Royal Ontario Museum	652
+TZAIB490-06	HLC-13113	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Cuba	FJ583007	Royal Ontario Museum	652
+TZAIB491-06	HLC-13114	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Cuba	FJ583008	Royal Ontario Museum	652
+TZAIB492-06	HLC-13115	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Philippines	FJ583009	Royal Ontario Museum	652
+TZAIB515-06	HLC-13138	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Philippines	FJ583010	Royal Ontario Museum	652
+TZAIB516-06	HLC-13139	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Philippines	FJ583015	Royal Ontario Museum	652
+TZAIB799-07	HLC-15117	Cephalopholis formosa	Cephalopholis formosa	BOLD:AAF0621	COI-5P	Sri Lanka	FJ583004	Centre for Biodiversity Genomics	652
+TZAIB857-07	HLC-15187	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	Sri Lanka	FJ583011	Royal Ontario Museum	652
+TZMSA250-04	ADC166.29-1	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5431	COI-5P	South Africa	DQ884992	South African Institute for Aquatic Biodiversity	654
+TZMSA318-04	ADC166.29-2	Cephalopholis sonnerati	Cephalopholis sonnerati		COI-5P	South Africa	DQ884994		654
+TZMSB153-04	ADC 166.26-1	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	South Africa	DQ884988	South African Institute for Aquatic Biodiversity	654
+TZMSB154-04	ADC 166.26-2	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	South Africa	DQ884989	South African Institute for Aquatic Biodiversity	654
+TZMSB155-04	ADC 166.29-3	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5431	COI-5P	South Africa	DQ884993	South African Institute for Aquatic Biodiversity	654
+TZMSC455-05	Smith 166.29-4	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5431	COI-5P	South Africa	DQ884990	South African Institute for Aquatic Biodiversity	654
+TZMSC456-05	Smith 166.29-5	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5431	COI-5P	South Africa	DQ884991	South African Institute for Aquatic Biodiversity	654
+UKFBI793-08	KUT 5873	Cephalopholis fulva	Cephalopholis fulva		COI-5P	Belize	KF929697	University of Kansas, Biodiversity Research Center	589
+UKFBJ051-08	KUT 219	Cephalopholis fulva	Cephalopholis fulva	BOLD:AAB4588	COI-5P	Belize	KF929698	University of Kansas, Biodiversity Research Center	652
+UKFBJ1035-08	KUT 7234	Cephalopholis leopardus	Cephalopholis leopardus	BOLD:AAD9032	COI-5P	Seychelles	KF929699	University of Kansas, Biodiversity Research Center	652
+UKFBJ763-08	KUT 5554	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	Northern Mariana Islands	KF929702	University of Kansas, Biodiversity Research Center	652
+UKFBJ783-08	KUT 5704	Cephalopholis spiloparaea	Cephalopholis spiloparaea	BOLD:AAE4050	COI-5P	Northern Mariana Islands	KF929701	University of Kansas, Biodiversity Research Center	652
+UKFBJ962-08	KUT 6971	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAB5431	COI-5P	Seychelles	KF929700	University of Kansas, Biodiversity Research Center	617
+ZOSKT1472-16	KU885588	Cephalopholis igarashiensis	Cephalopholis igarashiensis	BOLD:AAE9793	COI-5P	China	KU885588	Academia Sinica, Cryobanking Program	519
+ZOSKT1604-16	KU892835	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAB5432	COI-5P	China	KU892835	Academia Sinica, Cryobanking Program	525
+ZOSKT1610-16	KU892841	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	China	KU892841	Academia Sinica, Cryobanking Program	525
+ZOSKT1612-16	KU892843	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	China	KU892843	Academia Sinica, Cryobanking Program	525
+ZOSKT1613-16	KU892844	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	China	KU892844	Academia Sinica, Cryobanking Program	525
+ZOSKT1823-16	KU942707	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0217	COI-5P	Taiwan	KU942707	Academia Sinica, Cryobanking Program	552
+ZOSKT2163-16	KU943450	Cephalopholis aurantia	Cephalopholis aurantia	BOLD:AAB5432	COI-5P	China	KU943450	Academia Sinica, Cryobanking Program	552
+ZOSKT2171-16	KU943459	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	China	KU943459	Academia Sinica, Cryobanking Program	552
+ZOSKT2193-16	KU943484	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	China	KU943484	Academia Sinica, Cryobanking Program	552
+ZOSKT2200-16	KU943491	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	China	KU943491	Academia Sinica, Cryobanking Program	552
+ZOSKT2201-16	KU943492	Cephalopholis urodeta	Cephalopholis urodeta	BOLD:AAC4202	COI-5P	China	KU943492	Academia Sinica, Cryobanking Program	552
+ZOSKT2202-16	KU943493	Cephalopholis miniata	Cephalopholis miniata	BOLD:AAC0216	COI-5P	China	KU943493	Academia Sinica, Cryobanking Program	552
+ZOSKT2205-16	KU943496	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	China	KU943496	Academia Sinica, Cryobanking Program	552
+ZOSKT2206-16	KU943497	Cephalopholis boenak	Cephalopholis boenak	BOLD:AAB3684	COI-5P	China	KU943497	Academia Sinica, Cryobanking Program	552
+ZOSKT2221-16	KU943514	Cephalopholis argus	Cephalopholis argus	BOLD:AAC4475	COI-5P	China	KU943514	Academia Sinica, Cryobanking Program	552
+ZOSKT514-16	ASIZP0916494	Cephalopholis sonnerati	Cephalopholis sonnerati	BOLD:AAD4737	COI-5P		KU943552	Academia Sinica, Biodiversity Research Museum	552

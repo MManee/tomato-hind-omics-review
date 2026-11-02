@@ -1,0 +1,9 @@
+.DS_Store
+*.bak
+.Rhistory
+.RData
+__pycache__/
+# BOLD-derived files are not redistributed (see README)
+data/coi_20261008/bold_raw.json
+data/coi_20261008/bold_records.tsv
+results/coi_analysis/coi_window_alignment_qc_pass.fasta

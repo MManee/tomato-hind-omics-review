@@ -1,0 +1,135 @@
+=== Record counts (species | genus) ===
+  database | Cephalopholis_sonnerati | Cephalopholis_genus
+  assembly | 4 | 13
+  sra | 69 | 450
+  bioproject | 10 | 27
+  biosample | 65 | 450
+  nuccore | 212 | 2426
+  protein | 178 | 2235
+  gds | 0 | 6
+  pubmed | 11 | 88
+
+=== Genome assemblies (species) ===
+  Assembly Accession	Organism Name	Assembly Name	Assembly Level	Assembly Release Date	Assembly Submitter	Assembly BioProject Accession	Assembly BioSample Accession	Assembly Stats Total Sequence Length	Assembly Stats Number of Contigs	Assembly Stats Contig N50	Assembly Stats Scaffold N50	Assembly Stats GC Percent	Annotation Name	Annotation BUSCO Lineage	Annotation BUSCO Complete
+  GCA_043388385.1	Cephalopholis sonnerati	ASM4338838v1	Complete Genome	2024-10-21	Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences	PRJNA1143726	SAMN41688836	1039913711	24	44092975	44092975	41			
+  GCA_019142605.1	Cephalopholis sonnerati	JJU_Cson_1.0	Scaffold	2021-07-06	Jiujiang University	PRJNA699118	SAMN17766311	1043730103	939	2482587	43987100	41			
+  GCA_043388425.1	Cephalopholis sonnerati	ASM4338842v1	Complete Genome	2024-10-21	Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences	PRJNA1143724	SAMN41688836	1039525268	24	43828159	43828159	41			
+  GCA_988286015.1	Cephalopholis sonnerati	Cephalopholis sonnerati_OG354_draft	Contig	2026-09-21	Minderoo OceanOmics Centre at UWA	PRJEB123829	SAMN49597358	1121888852	388963	6778	6778	41			
+
+=== SRA runs by strategy / platform / BioProject ===
+  Runs: 69   Total bases: 1,068.8 Gb
+  LibraryStrategy: RNA-Seq=35, WGS=32, FL-cDNA=1, Hi-C=1
+  LibrarySource: TRANSCRIPTOMIC=60, GENOMIC=9
+  Platform: BGISEQ=37, ILLUMINA=26, PACBIO_SMRT=3, DNBSEQ=2, OXFORD_NANOPORE=1
+  BioProject: PRJNA1433042=24, PRJNA699118=15, PRJNA1158525=12, PRJNA1307777=12, PRJNA1120365=4, PRJNA1098793=1, PRJNA720393=1
+  Per BioProject:
+    PRJNA699118: WGS=3, FL-cDNA=1, RNA-Seq=11
+    PRJNA1158525: WGS=12
+    PRJNA1120365: WGS=3, Hi-C=1
+    PRJNA1098793: WGS=1
+    PRJNA1307777: WGS=12
+    PRJNA1433042: RNA-Seq=24
+    PRJNA720393: WGS=1
+
+=== BioSample localities ===
+  China:wanning: 24
+  not collected: 12
+  China: Hainan: 12
+  muscle: 2
+  blood: 1
+  intestine: 1
+  pituitary: 1
+  liver: 1
+  brain: 1
+  skin: 1
+  gill: 1
+  kidney: 1
+  head kidney: 1
+  gonad: 1
+  heart: 1
+  China: 1
+  missing: 1
+  Pacific Ocean: Philippines, Mindanao, Davao del Sur: 1
+  not given: 1
+
+=== COI records by country ===
+  Direct Submission: 9
+  Review of number of species, distributional records, and color features of Japanese species of the genus Cephalopholis (Perciformes: Epinephelidae): 7
+  3.6876 S 128.183 E: 6
+  DNA barcoding Australia's fish species: 5
+  30.33 S 30.75 E: 5
+  11.6551 N 92.7269 E: 5
+  Barcoding Aurora Province Commercial Fishes: 4
+  Genetic diversity within grouper species and a method for interspecific hybrid identification using DNA barcoding and RYR3 marker: 4
+  11.5661 N 109.031 E: 4
+  DNA Barcoding Ikan Kerapu Komersial Penting di Perairan Simeulue dan Kepulauan Banyak, Provinsi Aceh: 4
+  8.75 S 115.15 E: 3
+  Establishment of a mitochondrial DNA sequence database for the identification of fish species commercially available in South Africa: 3
+  DNA barcoding of Philippine groupers: 3
+  28.162 S 32.562 E: 2
+  17.479 S 149.887 W: 2
+  A comprehensive description and evolutionary analysis of 22 grouper (perciformes, epinephelidae) mitochondrial genomes with emphasis on two novel genome organizations: 2
+  DNA Barcoding of Reef-associated Fish from India: 2
+  Molecular identification of coral reef fishes of Kilakarai, Gulf of Mannar: 2
+  14.84 N 120.287 E: 2
+  10.02 N 76.13 E: 1
+  8.75 S 116.583 E: 1
+  7.03 S 106.53 E: 1
+  8.80 S 116.48 E: 1
+  The separation of Epinephelus sp. and Cephalopholis sp. as evidenced on the molecular characterization based on COI: 1
+  RAPD and barcode analyses of groupers of the genus Epinephelus: 1
+  A phylogenetic re-analysis of groupers with applications for ciguatera fish poisoning: 1
+  Molecular identification of high-valued fish species at Cuyo, Palawan, Philippines: 1
+  4.637 S 55.375 E: 1
+  DNA barcodes of the native ray-finned fishes in Taiwan: 1
+  DNA Barcoding of Indonesia Commercial Marine Fish Species: Java and Bali Island: 1
+  9.9809 S 139.129 W: 1
+  5.585424 N 95.318536 E: 1
+  10.185 N 104.047 E: 1
+  20.3917 S 57.3483 E: 1
+  19.246214 N 84.895903 E: 1
+  7.018 N 125.496 E: 1
+  DNA barcode library and checklist of marine fishes from Davao Gulf, southern Philippines: 1
+  Establishment and characterization of a brain cell line from tomato grouper (Cephalopholis sonnerati): 1
+  Establishment and characterization of a gill cell line from tomato grouper (Cephalopholis sonnerati): 1
+  Establishment and characterization of a gonad cell line from tomato grouper (Cephalopholis sonnerati): 1
+  DNA Barcoding of Marine Fishes in the Fakfak-Kaimana waters, Indonesia: 1
+  Establishing a COI DNA barcoding reference database for Taiwanese coastal fish species from eggs and larvae specimens: 1
+  7.018439 N 125.495847 E: 1
+
+=== Mitogenomes ===
+  KC593378.1	16587	2013/08/25	Cephalopholis sonnerati mitochondrion, complete genome
+  NC_022143.1	16587	2013/08/27	Cephalopholis sonnerati mitochondrion, complete genome
+  PZ210651.1	16587	2026/04/01	Cephalopholis sonnerati voucher USNM:FISH:405896 mitochondrion, complete genome
+
+=== TSA assemblies ===
+
+=== GEO datasets ===
+
+=== BioProjects ===
+  PRJNA217273	2013/08/26 00:00	RefSeq Genome	Cephalopholis sonnerati RefSeq Genome
+  PRJNA699118	2021/07/06 00:00	Genome sequencing and assembly	Chromosome-level genome assembly and transcriptome of the tomato hind, Cephalopholis sonnerati
+  PRJNA1098793	2024/04/10 00:00	Raw sequence reads	Draft Genomes Raw Sequence Data
+  PRJNA1120365	2024/06/05 00:00	Assembly	Genome sequencing and assembly of Cephalopholis sonnerati
+  PRJNA1143724	2024/08/03 00:00	Genome sequencing	Cephalopholis sonnerati (tomato hind) genome assembly, haplotype 1
+  PRJNA1143726	2024/08/03 00:00	Genome sequencing	Cephalopholis sonnerati (tomato hind) genome assembly, haplotype 2
+  PRJNA1158525	2024/09/09 00:00	Raw sequence reads	Raw sequence reads of brain cell line and gonad cell line from Cephalopholis sonnerati
+  PRJNA1160846	2024/09/13 00:00	Cephalopholis sonnerati (tomato hind) genome assembly
+  PRJNA1307777	2025/08/19 00:00	Raw sequence reads	Establishment of a new intestinal cell line from the grouper (Cephalopholis sonnerati) and transcriptome response to Vibrio harveyi infection
+  PRJNA1433042	2026/03/05 00:00	Raw sequence reads	transcriptomics of Cephalopholis sonnerati to growth
+
+=== Cephalopholis species with complete mitogenomes ===
+  Cephalopholis argus: 6
+  Cephalopholis aurantia: 2
+  Cephalopholis boenak: 8
+  Cephalopholis cruentata: 1
+  Cephalopholis fulva: 4
+  Cephalopholis leopardus: 3
+  Cephalopholis microprion: 1
+  Cephalopholis miniata: 2
+  Cephalopholis panamensis: 1
+  Cephalopholis sexmaculata: 3
+  Cephalopholis sonnerati: 3
+  Cephalopholis spiloparaea: 2
+  Cephalopholis taeniops: 2
+  Cephalopholis urodeta: 3

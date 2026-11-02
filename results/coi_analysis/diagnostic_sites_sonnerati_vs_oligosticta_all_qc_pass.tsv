@@ -1,0 +1,8 @@
+KC593378_COI_position	codon_position	sonnerati_bases	oligosticta_bases	n_sonnerati	n_oligosticta	aa_sonnerati	aa_oligosticta	change	sonnerati_base_absent_from_all_other_species
+351	3	A:118	G:2	118	2	G	G	synonymous	FALSE
+441	3	C:118	T:2	118	2	I	I	synonymous	FALSE
+540	3	A:118	G:2	118	2	Q	Q	synonymous	FALSE
+549	3	A:118	G:2	118	2	L	L	synonymous	FALSE
+621	3	A:118	G:2	118	2	T	T	synonymous	FALSE
+630	3	A:102,T:16	G:2	118	2	L	L	synonymous	FALSE
+687	3	A:1,C:107	T:2	108	2	I	I	synonymous	FALSE

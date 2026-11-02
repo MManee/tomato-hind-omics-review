@@ -1,0 +1,60 @@
+Total mitochondrial records: 136
+
+Records by marker:
+  COI: 95
+  16S: 15
+  12S: 11
+  ND2: 5
+  other: 5
+  mitogenome: 3
+  CYTB: 1
+  D-loop: 1
+
+Records by country (text before ':'; blank = not given):
+  (none): 37
+  Indonesia: 19
+  India: 17
+  South Africa: 16
+  Philippines: 8
+  Saudi Arabia: 7
+  Japan: 7
+  Australia: 5
+  Viet Nam: 5
+  French Polynesia: 4
+  Thailand: 2
+  New Caledonia: 2
+  Taiwan: 2
+  Indian Ocean: 1
+  Seychelles: 1
+  Mauritius: 1
+  Sri Lanka: 1
+  Malaysia: 1
+
+Records with lat_lon but no country: 1
+Records with neither country nor lat_lon: 36
+
+Records from Red Sea / Gulf of Aden / Arabian region: 7
+  KX298697.1  16S  Saudi Arabia    Molecular variations among some Actinopterygii fish
+  KX298698.1  16S  Saudi Arabia    Molecular variations among some Actinopterygii fish
+  KX298699.1  16S  Saudi Arabia    Molecular variations among some Actinopterygii fish
+  KX298707.1  12S  Saudi Arabia    Molecular variations among some Actinopterygii fish
+  KX298708.1  12S  Saudi Arabia    Molecular variations among some Actinopterygii fish
+  KX298709.1  12S  Saudi Arabia    Molecular variations among some Actinopterygii fish
+  KX298710.1  12S  Saudi Arabia    Molecular variations among some Actinopterygii fish
+
+COI records by country:
+  (none): 20
+  Indonesia: 18
+  India: 13
+  South Africa: 10
+  Philippines: 8
+  Japan: 6
+  Australia: 5
+  Viet Nam: 5
+  French Polynesia: 3
+  Taiwan: 2
+  New Caledonia: 1
+  Seychelles: 1
+  Mauritius: 1
+  Sri Lanka: 1
+  Malaysia: 1

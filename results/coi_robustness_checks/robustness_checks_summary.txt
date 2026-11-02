@@ -1,0 +1,88 @@
+Run: 2026-11-02 09:34:31 +03 | R version 4.6.0 (2026-04-24) | ape 5.8.1 | Biostrings 2.80.2 
+
+== 1. Record ledger (coi_record_ledger.tsv) == 
+  dropped_duplicate_of_GenBank (GB-mined process ID)             137 
+  excluded_nearest_neighbour                                      26 
+  included_species_level                                        1247 
+  pass_unresolved_name                                            80 
+  qc_fail:frameshift_indel                                         6 
+  qc_fail:low_identity_to_reference                                2 
+  qc_fail:short_coverage_of_window                               157 
+  qc_fail:too_many_ambiguous_bases                                 1 
+  set_aside_probable_misidentification                             3 
+  QC-passed records with an unresolved name (for Table S1): 80 
+  ... by source (GenBank / BOLD): unresolved 77 / 3 | resolved 1061 / 215 
+  Unresolved names among all aligned records (run log value): 81 
+  QC-passed, resolved name: 1276 in 23 species 
+  Included in species-level statistics: 1247 in 22 species 
+  Species with no record left after exclusions: Cephalopholis aitha 
+  Flagged but retained (far from conspecifics only): KF929697.1 
+  BOLD records linked to a GenBank record (bold_linked_records.tsv): 899 
+
+== 2. 'Within 1% of another named species' applied to all species (after nearest-neighbour exclusions) == 
+  Records affected: 320 in 8 species 
+  Cephalopholis sonnerati      vs Cephalopholis aurantia          3 
+  Cephalopholis spiloparaea    vs Cephalopholis aurantia          2 
+  Cephalopholis microprion     vs Cephalopholis cyanostigma       4 
+  Cephalopholis miniata        vs Cephalopholis cyanostigma       2 
+  Cephalopholis cyanostigma    vs Cephalopholis microprion       36 
+  Cephalopholis cyanostigma    vs Cephalopholis miniata           5 
+  Cephalopholis urodeta        vs Cephalopholis nigripinnis     159 
+  Cephalopholis aurantia       vs Cephalopholis spiloparaea      13 
+  Cephalopholis nigripinnis    vs Cephalopholis urodeta          96 
+  Records set aside for C. sonnerati: nearest conspecific and distance: 
+    JQ431574.1: nearest conspecific JQ431575.1 at 0.00%; nearest other species Cephalopholis aurantia (GU673953.1) at 0.17% 
+    JQ431575.1: nearest conspecific JQ431574.1 at 0.00%; nearest other species Cephalopholis aurantia (GU673953.1) at 0.17% 
+    MK566843.1: nearest conspecific JQ431574.1 at 0.00%; nearest other species Cephalopholis aurantia (GU673953.1) at 0.17% 
+
+== 3. C. sonnerati records omitted from the haplotype network == 
+  Curated C. sonnerati: 113; core = window columns 1-580 (580 bp); omitted: 9 
+    DQ107929.1 (Australia; BOLD:AAD4737): 4 core positions missing or ambiguous 
+    DQ884993.1 (South Africa; BOLD:AAB5431): 1 core positions missing or ambiguous 
+    GU805050.1 (South Africa; BOLD:AAB5431): 4 core positions missing or ambiguous 
+    JN208563.1 (Not recorded; BOLD:AAD4737): 16 core positions missing or ambiguous 
+    JQ268571.1 (Not recorded; BOLD:AAD4737): 28 core positions missing or ambiguous 
+    KF929700.1 (Seychelles; BOLD:AAB5431): 1 core positions missing or ambiguous 
+    KR024641.1 (India; BOLD:AAD4737): 19 core positions missing or ambiguous 
+    KU943552.1 (Taiwan; BOLD:AAD4737): 28 core positions missing or ambiguous 
+    SAIAB046-06 (Seychelles; BOLD:AAB5431): 3 core positions missing or ambiguous 
+
+== 4a. QC threshold sensitivity (qc_threshold_sensitivity.tsv) == 
+  Ranges across the 27 combinations: 
+  pass                      1135 -  1498 (manuscript setting: 1356) 
+  pass_named                1057 -  1418 (manuscript setting: 1276) 
+  n_species                   19 -    23 (manuscript setting: 23) 
+  csonnerati_pass            114 -   129 (manuscript setting: 118) 
+  csonnerati_countries        12 -    15 (manuscript setting: 13) 
+  csonnerati_BIN_AAB5431      15 -    15 (manuscript setting: 15) 
+  csonnerati_BIN_ACC0647       5 -     5 (manuscript setting: 5) 
+
+== 4b. C. sonnerati records set aside at alternative thresholds == 
+  < 0.5%: 3 (JQ431574.1;JQ431575.1;MK566843.1) 
+  < 1.0%: 3 (JQ431574.1;JQ431575.1;MK566843.1) 
+  < 2.0%: 3 (JQ431574.1;JQ431575.1;MK566843.1) 
+
+== 5. Possible repeated specimens among curated C. sonnerati == 
+  voucher (n = 2): OR829788.1;PP680539.1 | TC158-1a-Cephalopholis 
+  voucher (n = 2): OR829789.1;PP680540.1 | TC158-1-Cephalopholis 
+  same_study_identical_seq (n = 3): DQ107916.1;DQ107927.1;DQ107928.1 | DNA barcoding Australia's fish species 
+  same_study_identical_seq (n = 2): DQ884991.1;DQ884992.1 | DNA barcoding reveals overlooked marine fish 
+  same_study_identical_seq (n = 3): HQ611096.1;HQ611097.1;HQ611098.1 | Establishment of a mitochondrial DNA sequence database for the identification of 
+  same_study_identical_seq (n = 5): HQ564422.1;JN312920.1;JN313067.1;JN313069.1;JN313109.1 | iBOL Data Release 
+  same_study_identical_seq (n = 5): JX674958.1;JX674959.1;JX674960.1;JX674961.1;JX674962.1 | DNA barcoding of grouper fishes of Andaman 
+  same_study_identical_seq (n = 7): KM226231.1;KM226232.1;KM226233.1;KM226234.1;OZ556861.1;PZ152962.1;PZ210651.1 | Direct Submission 
+  same_study_identical_seq (n = 4): KU668631.1;KU668632.1;KU668633.1;KU668634.1 | Barcoding Aurora Province Commercial Fishes 
+  same_study_identical_seq (n = 2): MF185424.1;MF185427.1 | Genetic diversity within grouper species and a method for interspecific hybrid i 
+  same_study_identical_seq (n = 2): MN708815.1;MN708816.1 | Sorting the wheat from the chaff: a review of BINs associated with groupers of V 
+  same_study_identical_seq (n = 4): MN869961.1;MN869967.1;MN870108.1;MN870412.1 | Assessing species diversity of Coral Triangle artisanal fisheries: A DNA barcode 
+  same_study_identical_seq (n = 2): MN870280.1;MN870606.1 | Assessing species diversity of Coral Triangle artisanal fisheries: A DNA barcode 
+  same_study_identical_seq (n = 2): MZ606163.1;MZ606206.1 | DNA Barcoding of Reef-associated Fish from India 
+  same_study_identical_seq (n = 4): OM273108.1;OM273109.1;OM273110.1;OM273111.1 | DNA Barcoding Ikan Kerapu Komersial Penting di Perairan Simeulue dan Kepulauan B 
+  same_study_identical_seq (n = 3): OQ385706.1;OQ386708.1;OQ387254.1 | Biodiversity of Philippine Fishes: A DNA barcode reference library based on vouc 
+  same_study_identical_seq (n = 2): OR829788.1;PP680539.1 | Direct Submission 
+  same_study_identical_seq (n = 2): OR829789.1;PP680540.1 | Direct Submission 
+  Records with a voucher: 60 of 113 | with a BOLD sample ID: 28 
+
+Note: identical sequences from the same study may be different fish; they are listed for checking, not removed. 
+
+Done. Summary written to: ./results/coi_robustness_checks/robustness_checks_summary.txt 

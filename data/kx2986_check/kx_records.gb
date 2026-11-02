@@ -1,0 +1,2116 @@
+LOCUS       KX298680                 392 bp    DNA     linear   PLN 12-JUL-2016
+DEFINITION  Taprobanea spathulata voucher NRCO/Gen/Van-20/1 tRNA-Leu (trnL)
+            gene and trnL-trnF intergenic spacer, partial sequence;
+            chloroplast.
+ACCESSION   KX298680
+VERSION     KX298680.1
+KEYWORDS    .
+SOURCE      chloroplast Taprobanea spathulata
+  ORGANISM  Taprobanea spathulata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; Liliopsida; Asparagales; Orchidaceae;
+            Epidendroideae; Vandeae; Aeridinae; Taprobanea.
+REFERENCE   1  (bases 1 to 392)
+  AUTHORS   Chakrabarti,S., Mahadani,P. and Sevanthi,A.M.
+  TITLE     DNA Barcoding of native Vanda orchids of India
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 392)
+  AUTHORS   Chakrabarti,S., Mahadani,P. and Sevanthi,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Genetics, ICAR-National Research Centre for
+            Orchids, Dickling Road, Pakyong, Gangtok, Sikkim 737106, India
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..392
+                     /organism="Taprobanea spathulata"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /isolate="A"
+                     /specimen_voucher="NRCO/Gen/Van-20/1"
+                     /db_xref="taxon:1380714"
+                     /geo_loc_name="India"
+                     /lat_lon="10.53 N 76.36 E"
+                     /collection_date="06-Jun-2008"
+                     /collected_by="S Chakrabarti"
+                     /identified_by="S Chakrabarti"
+     misc_feature    <1..>392
+                     /note="contains tRNA-Leu (trnL) and trnL-trnF intergenic
+                     spacer"
+ORIGIN      
+        1 tccgtgcatc atcctagcag agtacttcta tctatgtcaa tgaaaataat taaaaaagaa
+       61 aatcttaaca aattggctct agcccctgaa attctcggat cttcaaaaag aagacttttt
+      121 tttgtagtaa atgtaaggaa aaatatatag actatgaatg attcaataac ggagattcct
+      181 tgaacatata tattcatatt ggattataca aaacaaatga gattggattg gaaaaagata
+      241 cgaggattta tattcggatc tatttgtaaa agaacagagt gaataaaatg agaaagatat
+      301 ttcattttgt ttaaactgag tgactgatga aaaaaaaaat gaataacaga ggatgaggat
+      361 aaataaagag cgaggaagta atatgggctt tt
+//
+
+LOCUS       KX298681                 393 bp    DNA     linear   PLN 12-JUL-2016
+DEFINITION  Papilionanthe teres voucher NRCO/Gen/Van-25/1 tRNA-Leu (trnL) gene
+            and trnL-trnF intergenic spacer, partial sequence; chloroplast.
+ACCESSION   KX298681
+VERSION     KX298681.1
+KEYWORDS    .
+SOURCE      chloroplast Papilionanthe teres
+  ORGANISM  Papilionanthe teres
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; Liliopsida; Asparagales; Orchidaceae;
+            Epidendroideae; Vandeae; Aeridinae; Papilionanthe.
+REFERENCE   1  (bases 1 to 393)
+  AUTHORS   Chakrabarti,S., Mahadani,P. and Sevanthi,A.M.
+  TITLE     DNA Barcoding of native Vanda orchids of India
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 393)
+  AUTHORS   Chakrabarti,S., Mahadani,P. and Sevanthi,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Genetics, ICAR-National Research Centre for
+            Orchids, Dickling Road, Pakyong, Gangtok, Sikkim 737106, India
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..393
+                     /organism="Papilionanthe teres"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /isolate="A"
+                     /specimen_voucher="NRCO/Gen/Van-25/1"
+                     /db_xref="taxon:339107"
+                     /geo_loc_name="India"
+                     /lat_lon="27.27 N 88.27 E"
+                     /collection_date="09-Nov-2012"
+                     /collected_by="S K Jain"
+                     /identified_by="S K Jain"
+     misc_feature    <1..>393
+                     /note="contains tRNA-Leu (trnL) and trnL-trnF intergenic
+                     spacer"
+ORIGIN      
+        1 ccgtgcatca tcctagcgga gttattctat ctatgtcaat gaaaagaact aaaaaaaaat
+       61 cttaacaaat tggctctagc cccttaaatt cttggatctt caaaaagaag actttttttg
+      121 taaatgtaaa gaaaaagata tagactatga atgattcaat aacggagatt ccttgaatat
+      181 atatcttcat atcgtattat acaaaacaaa tgagatagga ttgaaaaaag atacgaggat
+      241 ttatattcgg atccttttgt gaaagaacag agtgaataaa atgagaaaga tatttcattt
+      301 tgtttaaact gagtcactga tgaaaaaaaa tgaataaaga ggatgaggat aaataaagag
+      361 cgaggaagta aaatgggctt tttattgggg atc
+//
+
+LOCUS       KX298682                 615 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis oligosticta voucher ND_2_rep1 sex-determining region
+            Y-box 14 gene, partial cds.
+ACCESSION   KX298682
+VERSION     KX298682.1
+KEYWORDS    .
+SOURCE      Cephalopholis oligosticta (vermillion hind)
+  ORGANISM  Cephalopholis oligosticta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 615)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 615)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..615
+                     /organism="Cephalopholis oligosticta"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ND_2_rep1"
+                     /db_xref="taxon:1550411"
+                     /geo_loc_name="Saudi Arabia"
+     mRNA            <1..>615
+                     /product="sex-determining region Y-box 14"
+     CDS             <1..>615
+                     /note="SOX14"
+                     /codon_start=1
+                     /product="sex-determining region Y-box 14"
+                     /protein_id="AOD93709.1"
+                     /translation="NQNEHSEIIQRLGAEWKLLYESEKRPYIHEAKRLRAQHMKEHPD
+                     YKYRPRRKPKNLLKKDRYVFPLPYLGDTDHLKGLPVSAADSLLSHSEKARAFLPPTTA
+                     PYSFLDPSQFSSSAIQKMTEMPHTLSTSTLPYASSLGYQNGAFGTLGCPSQHTHTHPS
+                     PTNPGYVVPCNCTAWSASSLQPPVAYILFPGMTKTGIDPYPSAQK"
+ORIGIN      
+        1 aaccaaaatg agcactcgga gatcatccag agactgggcg ccgagtggaa actgctctac
+       61 gagtccgaga agagacctta catccacgag gccaagaggc tgcgcgccca gcacatgaag
+      121 gagcaccccg actacaagta cagaccccgg cgcaaaccca aaaacctgct caagaaggac
+      181 aggtacgttt tccctttgcc ttacctcggg gacaccgacc acttgaaggg actcccggtg
+      241 tcggccgcgg actctctttt gagccactcg gagaaagcca gagcgtttct gccgcccacc
+      301 accgctccgt actccttcct cgacccgagc cagttcagct ccagcgccat ccagaagatg
+      361 acggagatgc cgcacacgtt gagcaccagc actttgccgt acgcgtcctc tttgggatac
+      421 cagaacggcg cgttcggcac cctggggtgc cccagtcagc acacccacac ccatccgtcg
+      481 cccacaaacc cgggctacgt cgtcccgtgt aactgcacgg cctggtcagc gtcaagttta
+      541 cagcccccgg tggcctacat actttttcca ggtatgacca agactgggat agacccatat
+      601 ccatccgcac aaaaa
+//
+
+LOCUS       KX298683                 615 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis oligosticta voucher ND_2_rep2 sex-determining region
+            Y-box 14 gene, partial cds.
+ACCESSION   KX298683
+VERSION     KX298683.1
+KEYWORDS    .
+SOURCE      Cephalopholis oligosticta (vermillion hind)
+  ORGANISM  Cephalopholis oligosticta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 615)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 615)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..615
+                     /organism="Cephalopholis oligosticta"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ND_2_rep2"
+                     /db_xref="taxon:1550411"
+                     /geo_loc_name="Saudi Arabia"
+     mRNA            <1..>615
+                     /product="sex-determining region Y-box 14"
+     CDS             <1..>615
+                     /note="SOX14"
+                     /codon_start=1
+                     /product="sex-determining region Y-box 14"
+                     /protein_id="AOD93710.1"
+                     /translation="NQNEHSEIIQRLGAEWKLLYESEKRPYIDEAKRLRAQHMKEHPD
+                     YKYRPRRKPKNLLKKDRYVFPLPYLGDTDHLKGLPVSAADSLLSHSEKARAFLPPTTA
+                     PYSFLDPSQFSSSAIQKMTEMPHTLSTSTLPYASSLGYQNGAFGTLGCPSQHTHTHPS
+                     PTNPGYVVPCNCTAWSASSLQPPVAYILFPGMTKTGIDPYPSAQK"
+ORIGIN      
+        1 aaccaaaatg agcactcgga gatcatccag agactgggcg ccgagtggaa actgctctac
+       61 gagtccgaga agagacctta catcgacgag gccaagaggc tgcgcgccca gcacatgaag
+      121 gagcaccccg actacaagta cagaccccgg cgcaaaccca aaaacctgct caagaaggac
+      181 aggtacgttt tccctttgcc ttacctcggg gacaccgacc acttgaaggg gctcccggtg
+      241 tcggccgcgg actctctttt gagccactcg gagaaagcca gagcgtttct gccgcccacc
+      301 accgctccgt actccttcct cgacccgagc cagttcagct ccagcgccat ccagaagatg
+      361 acggagatgc cgcacacgtt gagcaccagc actttgccgt acgcgtcctc tttgggatac
+      421 cagaacggcg cgttcggcac cctggggtgc cccagtcagc acacccacac ccatccgtcg
+      481 cccacaaacc cgggctacgt cgtcccgtgt aactgcacgg cctggtcagc gtcaagttta
+      541 cagcccccgg tggcctacat actttttcca ggtatgacca agactgggat agacccatat
+      601 ccatccgcac aaaaa
+//
+
+LOCUS       KX298684                 608 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_1_rep1 sex-determining region
+            Y-box 14 gene, partial cds.
+ACCESSION   KX298684
+VERSION     KX298684.1
+KEYWORDS    .
+SOURCE      Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 608)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 608)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..608
+                     /organism="Cephalopholis sonnerati"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_1_rep1"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     mRNA            <1..>608
+                     /product="sex-determining region Y-box 14"
+     CDS             <1..>608
+                     /note="SOX14"
+                     /codon_start=1
+                     /product="sex-determining region Y-box 14"
+                     /protein_id="AOD93711.1"
+                     /translation="MNNSEISKRLGAEWKLLSESEKRPYIDEAKRLRAQHMKEHPDYK
+                     YRPRRKPKNLLKKDRYVFPLPYLGDTDHLKGLPVSAADSLLSHSEKARAFLPPTTAPY
+                     SFLDPSQFSSSAIQKMTEMPHTLSTSTLPYASSLGYQNGAFGTLGCPSQHTHTHPSPT
+                     NPGYVVPCNCTAWSASSLQPPVAYILFPGMTKTGIDPYSFRT"
+ORIGIN      
+        1 atgaacaact ctgagatcag caaaagactg ggcgccgagt ggaagctgct ttccgagtct
+       61 gagaagagac cttacatcga cgaggccaag aggctgcgcg ctcagcacat gaaggagcac
+      121 cccgactaca agtacagacc caggcgcaag cccaaaaacc tgctcaagaa ggacaggtac
+      181 gttttccctt tgccttacct cggggacacc gaccacttga agggactccc ggtgtcggcc
+      241 gcggactctc tgttgagcca ctcggagaaa gccagagcgt ttctgccgcc gaccaccgct
+      301 ccgtactcct tcctcgaccc gagccagttc agctccagcg ccatccagaa gatgaccgag
+      361 atgccgcaca cgttgagcac cagcactttg ccgtacgcgt cctcgttggg ataccagaac
+      421 ggcgcgttcg gcaccctcgg gtgccccagt cagcacaccc acacccaccc gtcgcccaca
+      481 aacccgggct acgtcgtccc gtgtaactgc acggcctggt cagcgtcaag tttacagccc
+      541 ccggtggcct acatactttt tccaggtatg accaagactg ggatagaccc atattcattc
+      601 cgcacaaa
+//
+
+LOCUS       KX298685                 608 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_1_rep2 sex-determining region
+            Y-box 14 gene, partial cds.
+ACCESSION   KX298685
+VERSION     KX298685.1
+KEYWORDS    .
+SOURCE      Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 608)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 608)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..608
+                     /organism="Cephalopholis sonnerati"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_1_rep2"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     mRNA            <1..>608
+                     /product="sex-determining region Y-box 14"
+     CDS             <1..>608
+                     /note="SOX14"
+                     /codon_start=1
+                     /product="sex-determining region Y-box 14"
+                     /protein_id="AOD93712.1"
+                     /translation="MNNSEISKRLGAEWKLLSESEKRPYIDEAKRLRAQHMKEHPDYK
+                     YRPRRKPKNLLKKDRYVFPLPYLGDTDHLKGLPVSAADSLLSHSEKARAFLPPTTAPY
+                     SFLDPSQFSSSAIQKMTEMPHTLSTSTLPYASSLGYQNGAFGTLGCPSQHTHTHPSPT
+                     NPGYVVPCNCTAWSASSLQPPVAYILFPGMTKTGIDPYSFRT"
+ORIGIN      
+        1 atgaacaact ctgagatcag caaaagactg ggcgccgagt ggaagctgct ttccgagtct
+       61 gagaagagac cttacatcga cgaggccaag aggctgcgcg ctcagcacat gaaggagcac
+      121 cccgactaca agtacagacc caggcgcaag cccaaaaacc tgctcaagaa ggacaggtac
+      181 gttttccctt tgccttacct cggggacacc gaccacttga agggactccc ggtgtcggcc
+      241 gcggactctc tgttgagcca ctcggagaaa gccagagcgt ttctgccgcc gaccaccgct
+      301 ccgtactcct tcctcgaccc gagccagttc agctccagcg ccatccagaa gatgaccgag
+      361 atgccgcaca cgttgagcac cagcactttg ccgtacgcgt cctcgttggg ataccagaac
+      421 ggcgcgttcg gcaccctcgg gtgccccagt cagcacaccc acacccaccc gtcgcccaca
+      481 aacccgggct acgtcgtccc gtgtaactgc acggcctggt cagcgtcaag tttacagccc
+      541 ccggtggcct acatactttt tccaggtatg accaagactg ggatagaccc atattcattc
+      601 cgcacaaa
+//
+
+LOCUS       KX298686                 608 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_4_1_rep2 sex-determining region
+            Y-box 14 gene, partial cds.
+ACCESSION   KX298686
+VERSION     KX298686.1
+KEYWORDS    .
+SOURCE      Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 608)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 608)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..608
+                     /organism="Cephalopholis sonnerati"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_4_1_rep2"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     mRNA            <1..>608
+                     /product="sex-determining region Y-box 14"
+     CDS             <1..>608
+                     /note="SOX14"
+                     /codon_start=1
+                     /product="sex-determining region Y-box 14"
+                     /protein_id="AOD93713.1"
+                     /translation="MNNSEISKRLGAEWKLLYESEKRPYIDEAKRLRAQHMKEHPDYK
+                     YRPRRKPKNLLKKDRYVFPLPYLGDTDHLKGLPVSAADSLLSHSEKARAFLPPTTAPY
+                     SFLDPSQFSSSAIQKMTEMPHTLSTSTLPYASSLGYQNGAFGTLGCPSQHTHTHPSPT
+                     NPGYVVPCNCTAWSASSLQPPVAYILFPGMTKTGIDPYSFRT"
+ORIGIN      
+        1 atgaacaact ctgagatcag caaaagactg ggcgccgagt ggaagctgct ttacgagtct
+       61 gagaagagac cttacatcga cgaggccaag aggctgcgcg ctcagcacat gaaggagcac
+      121 cccgactaca agtacagacc caggcgcaag cccaaaaacc tgctcaagaa ggacaggtac
+      181 gttttccctt tgccttacct cggggacacc gaccacttga agggactccc ggtgtcggcc
+      241 gcggactctc tgttgagcca ctcggagaaa gccagagcgt ttctgccgcc gaccaccgct
+      301 ccgtactcct tcctcgaccc gagccagttc agctccagcg ccatccagaa gatgaccgag
+      361 atgccgcaca cgttgagcac cagcactttg ccgtacgcgt cctcgttggg ataccagaac
+      421 ggcgcgttcg gcaccctcgg gtgccccagt cagcacaccc acacccaccc gtcgcccaca
+      481 aacccgggct acgtcgtccc gtgtaactgc acggcctggt cagcgtcaag tttacagccc
+      541 ccggtggcct acatactttt tccaggtatg accaagactg ggatagaccc atattcattc
+      601 cgcacaaa
+//
+
+LOCUS       KX298687                 608 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_4_2_rep2 sex-determining region
+            Y-box 14 gene, partial cds.
+ACCESSION   KX298687
+VERSION     KX298687.1
+KEYWORDS    .
+SOURCE      Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 608)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 608)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..608
+                     /organism="Cephalopholis sonnerati"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_4_2_rep2"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     mRNA            <1..>608
+                     /product="sex-determining region Y-box 14"
+     CDS             <1..>608
+                     /note="SOX14"
+                     /codon_start=1
+                     /product="sex-determining region Y-box 14"
+                     /protein_id="AOD93714.1"
+                     /translation="MNNSEISKRLGAEWKLLYESEKRPYIDEAKRLRAQHMKEHPDYK
+                     YRPRRKPKNLLKKDRYVFPLPYLGDTDHLKGLPVSAADSLLSHSEKARAFLPPTTAPY
+                     SFLDPSQFSSSAIQKMTEMPHTLSTSTLPYASSLGYQNGAFGTLGCPSQHTHTHPSPT
+                     NPGYVVPCNCTAWSASSLQPPVAYILFPGMTKTGIDPYSFRT"
+ORIGIN      
+        1 atgaacaact ctgagatcag caaaagactg ggcgccgagt ggaagctgct ttacgagtct
+       61 gagaagagac cttacatcga cgaggccaag aggctgcgcg ctcagcacat gaaggagcac
+      121 cccgactaca agtacagacc caggcgcaag cccaaaaacc tgctcaagaa ggacaggtac
+      181 gttttccctt tgccttacct cggggacacc gaccacttga agggactccc ggtgtcggcc
+      241 gcggactctc tgttgagcca ctcggagaaa gccagagcgt ttctgccgcc gaccaccgct
+      301 ccgtactcct tcctcgaccc gagccagttc agctccagcg ccatccagaa gatgaccgag
+      361 atgccgcaca cgttgagcac cagcactttg ccgtacgcgt cctcgttggg ataccagaac
+      421 ggcgcgttcg gcaccctcgg gtgccccagt cagcacaccc acacccaccc gtcgcccaca
+      481 aacccgggct acgtcgtccc gtgtaactgc acggcctggt cagcgtcaag tttacagccc
+      541 ccggtggcct acatactttt tccaggtatg accaagactg ggatagaccc atattcattc
+      601 cgcacaaa
+//
+
+LOCUS       KX298688                 618 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Plectropomus areolatus voucher NZ_1_rep1 sex-determining region
+            Y-box 14 gene, partial cds.
+ACCESSION   KX298688
+VERSION     KX298688.1
+KEYWORDS    .
+SOURCE      Plectropomus areolatus (squaretail coralgrouper)
+  ORGANISM  Plectropomus areolatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Plectropomus.
+REFERENCE   1  (bases 1 to 618)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 618)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..618
+                     /organism="Plectropomus areolatus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZ_1_rep1"
+                     /db_xref="taxon:327818"
+                     /geo_loc_name="Saudi Arabia"
+     mRNA            <1..>618
+                     /product="sex-determining region Y-box 14"
+     CDS             <1..>618
+                     /note="SOX14"
+                     /codon_start=2
+                     /product="sex-determining region Y-box 14"
+                     /protein_id="AOD93715.1"
+                     /translation="GKTIMNNSEISKRLGAEWKLLYESEKRPYIDEAKRLRAQHMKEH
+                     PDYKYRPRRKPKNLLKKDRYVFPLPYLGDTDHLKGLPVSAADSLLSHSEKARAFLPPT
+                     TAPYSFLDPSQFSSSAIQKMTEMPHTLSTSTLPYASSLGYQNGAFGTLGCPSQHTHTH
+                     PSPTNPGYVVPCNCTAWSASSLQPPVAYILFPGMTKTGIDPYSSA"
+ORIGIN      
+        1 gggaaaaacc ataatgaaca actcggagat cagcaaaaga ctgggcgccg agtggaagct
+       61 gctctacgag tccgagaaga gaccttacat cgacgaggcc aagcggctgc gcgcccagca
+      121 catgaaggag caccccgact acaagtacag accccggcgc aaacccaaaa acctgctcaa
+      181 gaaggacagg tacgttttcc ctttgcctta cctcggggac accgaccact tgaaggggct
+      241 cccggtgtcg gccgcggact ctcttttgag ccactcggag aaagccagag cgtttctgcc
+      301 gcccaccacg gctccgtact ccttcctcga cccgagccag ttcagctcca gcgccatcca
+      361 gaagatgacg gagatgccgc acacgttgag caccagcact ttgccgtacg cgtcctcttt
+      421 gggataccag aacggcgcgt tcggcaccct ggggtgcccc agtcagcaca cccacaccca
+      481 tccgtcgccc acaaacccgg gctacgtcgt cccgtgtaac tgcacggcct ggtcagcgtc
+      541 aagtttacag cccccggtgg cctacatact ttttccaggt atgaccaaga ctgggataga
+      601 cccatattca tccgcaca
+//
+
+LOCUS       KX298689                 618 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Plectropomus areolatus voucher NZ_2_rep1 sex-determining region
+            Y-box 14 gene, partial cds.
+ACCESSION   KX298689
+VERSION     KX298689.1
+KEYWORDS    .
+SOURCE      Plectropomus areolatus (squaretail coralgrouper)
+  ORGANISM  Plectropomus areolatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Plectropomus.
+REFERENCE   1  (bases 1 to 618)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 618)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..618
+                     /organism="Plectropomus areolatus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZ_2_rep1"
+                     /db_xref="taxon:327818"
+                     /geo_loc_name="Saudi Arabia"
+     mRNA            <1..>618
+                     /product="sex-determining region Y-box 14"
+     CDS             <1..>618
+                     /note="SOX14"
+                     /codon_start=2
+                     /product="sex-determining region Y-box 14"
+                     /protein_id="AOD93716.1"
+                     /translation="GKTIMNNSEISKRLGAEWKLLYESEKRPYIDEAKRLRAQHMKEH
+                     PDYKYRPRRKPKNLLKKDRYVFPLPYLGDTDHLKGLPVSAADSLLSHSEKARAFLPPT
+                     TAPYSFLDPSQFSSSAIQKMTEMPHTLSTSTLPYASSLGYQNGAFGTLGCPSQHTHTH
+                     PSPTNPGYVVPCNCTAWSASSLQPPVAYILFPGMTKTGIDPYPSA"
+ORIGIN      
+        1 gggaaaaacc ataatgaaca actcggagat cagcaaaaga ctgggcgccg agtggaagct
+       61 gctctacgag tccgagaaga gaccttacat cgacgaggcc aagcggctgc gcgcccagca
+      121 catgaaggag caccccgact acaagtacag accccggcgc aaacccaaaa acctgctcaa
+      181 gaaggacagg tacgttttcc ctttgcctta cctcggggac accgaccact tgaaggggct
+      241 cccggtgtcg gccgcggact ctcttttgag ccactcggag aaagccagag cgtttctgcc
+      301 gcccaccacg gctccgtact ccttcctcga cccgagccag ttcagctcca gcgccatcca
+      361 gaagatgacg gagatgccgc acacgttgag caccagcact ttgccgtacg cgtcctcttt
+      421 gggataccag aacggcgcgt tcggcaccct ggggtgcccc agtcagcaca cccacaccca
+      481 tccgtcgccc acaaacccgg gctacgtcgt cccgtgtaac tgcacggcct ggtcagcgtc
+      541 aagtttacag cccccggtgg cctacatact ttttccaggt atgaccaaga ctgggataga
+      601 cccatatcct tccgcaca
+//
+
+LOCUS       KX298690                 618 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Plectropomus areolatus voucher NZ_5_rep2 sex-determining region
+            Y-box 14 gene, partial cds.
+ACCESSION   KX298690
+VERSION     KX298690.1
+KEYWORDS    .
+SOURCE      Plectropomus areolatus (squaretail coralgrouper)
+  ORGANISM  Plectropomus areolatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Plectropomus.
+REFERENCE   1  (bases 1 to 618)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 618)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..618
+                     /organism="Plectropomus areolatus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZ_5_rep2"
+                     /db_xref="taxon:327818"
+                     /geo_loc_name="Saudi Arabia"
+     mRNA            <1..>618
+                     /product="sex-determining region Y-box 14"
+     CDS             <1..>618
+                     /note="SOX14"
+                     /codon_start=2
+                     /product="sex-determining region Y-box 14"
+                     /protein_id="AOD93717.1"
+                     /translation="GKTIMNNSEISKRLGAEWKLLYESEKRPYIDEAKRLRAQHMKEH
+                     PDYKYRPRRKPKNLLKKDRYVFPLPYLGDTDHLKGLPVSAADSLLIHSEKARAFLPPT
+                     TAPYSFLDPSHFGSSAIQKMTEMPHTLSTSTLPYASSLGYHNGAFGTLGCPSQHTHTH
+                     PSPTNPGYVVPCNCTVWSASSLQPPVAYILFPGMTKTGIDPYSSA"
+ORIGIN      
+        1 gggaaaaacc ataatgaaca actcggagat cagcaaaaga ctgggcgccg agtggaagct
+       61 gctctacgag tccgagaaga gaccttacat cgacgaggcc aagcggctgc gcgcccagca
+      121 catgaaggag caccccgact acaagtacag accccggcgc aaacccaaaa acctgctcaa
+      181 gaaggacagg tacgttttcc ctttgcctta cctcggggac accgaccact tgaaggggct
+      241 cccggtgtcg gccgcggatt ctcttttgat ccactcggag aaagccagag cgtttctgcc
+      301 gcccaccacg gctccgtact ccttcctcga cccgagccac ttcggctcca gcgccatcca
+      361 gaagatgacg gaaatgccgc acacgttgag caccagcact ttgccgtacg cgtcctcttt
+      421 gggataccat aacggcgcgt tcggcaccct ggggtgcccc agtcagcaca cccacaccca
+      481 tccgtcgccc acaaacccgg gctacgtcgt cccgtgtaac tgcaccgtct ggtcagcgtc
+      541 aagtttacag cccccggtgg cctacatact ttttccaggt atgaccaaga ctgggataga
+      601 cccatattca tccgcaca
+//
+
+LOCUS       KX298691                 567 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis oligosticta voucher ND_1_rep1 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298691
+VERSION     KX298691.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis oligosticta (vermillion hind)
+  ORGANISM  Cephalopholis oligosticta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 567)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 567)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..567
+                     /organism="Cephalopholis oligosticta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ND_1_rep1"
+                     /db_xref="taxon:1550411"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>567
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 taagaggtcc cgcctgccct gtgactatat gtttaacggc cgcggtattt tgaccgtgcg
+       61 aaggtagcgc aatcacttgt cttttaaatg gagacctgta tgaatggcat aacgagggct
+      121 tgactgtctc ctctttcaag tcaatgaaat tgatctcccc gtgaagaagc gaggataggc
+      181 acataagacg agaagaccct atggagcttt agacaccaag acagattata atccataatc
+      241 ctaatttaaa agggtataaa ttgattaagc cctgtcccta tgtctttggt tggggcgacc
+      301 gcggagaaac aaaaaacccc cgcacggacc gaacgtatat taacgtttac aatcaagagc
+      361 tacagctcta actaacagaa cttctgacca atcagatccg gcaatgccga tcaatgaacc
+      421 gagttaccct agggataaca gcgcaatccc ctcttagagt ccatatcgac gagggggttt
+      481 acgacctcga tgttggatca ggacatccta atggtgcagc cgctattaag ggttcgtttg
+      541 ttcaacgatt aaagtcctac gtgatct
+//
+
+LOCUS       KX298692                 566 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis oligosticta voucher ND_1_rep2 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298692
+VERSION     KX298692.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis oligosticta (vermillion hind)
+  ORGANISM  Cephalopholis oligosticta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 566)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 566)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..566
+                     /organism="Cephalopholis oligosticta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ND_1_rep2"
+                     /db_xref="taxon:1550411"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>566
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 taagaggtcc cgcctgccct gtgactatat gtttaacggc cgcggtattt tgaccgtgcg
+       61 aaggtagcgc aatcacttgt cttttaaatg gagacctgta tgaatggcat aacgagggct
+      121 tgactgtctc ctctttcaag tcaatgaaat tgatctcccc gtgaagaagc gaggataggc
+      181 acataagacg agaagaccct atggagcttt agacaccaag acagattata atccataatc
+      241 ctaatttaaa agggtataaa ttgattaagc cctgtcccta tgtctttggt tggggcgacg
+      301 cggagaaaca aaaaaccccc gcacggaccg aacgtatatt aacgtttaca atcaagagct
+      361 acagctctaa ctaacagaac ttctgaccaa tcagatccgg caatgccgat caatgaaccg
+      421 agttacccta gggataacag cgcaatcccc tcttagagtc catatcgacg agggggttta
+      481 cgacctcgat gttggatcag gacatcctaa tggtgcagcc gctattaagg gttcgtttgt
+      541 tcaacgatta aagtcctacg tgatct
+//
+
+LOCUS       KX298693                 569 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis oligosticta voucher ND_2_rep1 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298693
+VERSION     KX298693.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis oligosticta (vermillion hind)
+  ORGANISM  Cephalopholis oligosticta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 569)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 569)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..569
+                     /organism="Cephalopholis oligosticta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ND_2_rep1"
+                     /db_xref="taxon:1550411"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>569
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tgtgagtgtt cgcctgcgct gacgacgata tggctcacag aggttcgtat tgttctgatg
+       61 ccaaagcggc gcaatcactt gtcttttaaa tggagacctg tatgaatggc ataacgaggg
+      121 cttgactgtc tcctctttca agtcaatgaa attgatctcc ccgtgaagaa gcgaggatag
+      181 gcacataaga cgagaagacc ctatggagct ttagacacca agacagatta tagtccataa
+      241 tcctaattta aaagggtata aattgattaa gccctgtccc tatgtctttg gttggggcga
+      301 ccgcggagaa acaaaaaacc cccgcacgga ccgaacgtat attaacgttt acaatcaaga
+      361 gctacagctc taactaacag aacttctgac caatcagatc cggcaatgcc gatcaatgaa
+      421 ccgagttacc ctagggataa cagcgcaatc ccctcttaga gtccatatcg acgagggggt
+      481 ttacgacctc gatgttggat caggacatcc taatggtgca gccgctatta agggttcgtt
+      541 tgttcaacga ttaaagtcct acgtgatct
+//
+
+LOCUS       KX298694                 569 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis oligosticta voucher ND_2_rep2 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298694
+VERSION     KX298694.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis oligosticta (vermillion hind)
+  ORGANISM  Cephalopholis oligosticta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 569)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 569)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..569
+                     /organism="Cephalopholis oligosticta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ND_2_rep2"
+                     /db_xref="taxon:1550411"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>569
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tgtgagtgtt cgcctgcgct gacgacgata tggctcacag aggttcgtat tgttctgatg
+       61 ccaaagcggc gcaatcactt gtcttttaaa tggagacctg tatgaatggc ataacgaggg
+      121 cttgactgtc tcctctttca agtcaatgaa attgatctcc ccgtgaagaa gcgaggatag
+      181 gcacataaga cgagaagacc ctatggagct ttagacacca agacagatta tagtccataa
+      241 tcctaattta aaagggtata aattgattaa gccctgtccc tatgtctttg gttggggcga
+      301 ccgcggagaa acaaaaaacc cccgcacgga ccgaacgtat attaacgttt acaatcaaga
+      361 gctacagctc taactaacag aacttctgac caatcagatc cggcaatgcc gatcaatgaa
+      421 ccgagttacc ctagggataa cagcgcaatc ccctcttaga gtccatatcg acgagggggt
+      481 ttacgacctc gatgttggat caggacatcc taatggtgca gccgctatta agggttcgtt
+      541 tgttcaacga ttaaagtcct acgtgatct
+//
+
+LOCUS       KX298695                 567 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis oligosticta voucher ND_3_rep1 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298695
+VERSION     KX298695.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis oligosticta (vermillion hind)
+  ORGANISM  Cephalopholis oligosticta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 567)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 567)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..567
+                     /organism="Cephalopholis oligosticta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ND_3_rep1"
+                     /db_xref="taxon:1550411"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>567
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tatgaggtcc cgcctgcgct gtgactatat gtttaacggc cgcggtattt tgaccgtgcg
+       61 aaagtagcgc aatcacttgt cttttaaatg gagacctgta tgaatggcat aacgagggct
+      121 tgactgtctc ctctttcaag tcaatgaaat tgatctcccc gtgaagaagc gaggataggc
+      181 acataagacg agaagaccct atggagcttt agacaccaag acagattata gtccataatc
+      241 ctaatttaaa agggtataaa ttgattaagc cctgtcccta tgtctttggt tggggcgacc
+      301 gcggagaaac aaaaaacccc cgcacggacc gaacgtatat taacgtttac aatcaagagc
+      361 tacagctcta actaacagaa cttctgacca atcagatccg gcaatgccga tcaatgaacc
+      421 gagttaccct agggataaca gcgcaatccc ctcttagagt ccatatcgac gagggggttt
+      481 acgacctcga tgttggatca ggacatccta atggtgcagc cgctattaag ggttcgtttg
+      541 ttcaacgatt aaagtcctac gtgatct
+//
+
+LOCUS       KX298696                 567 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis oligosticta voucher ND_3_rep2 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298696
+VERSION     KX298696.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis oligosticta (vermillion hind)
+  ORGANISM  Cephalopholis oligosticta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 567)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 567)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..567
+                     /organism="Cephalopholis oligosticta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ND_3_rep2"
+                     /db_xref="taxon:1550411"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>567
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tatgaggtcc cgcctgcgct gtgactatat gtttaacggc cgcggtattt tgaccgtgcg
+       61 aaagtagcgc aatcacttgt cttttaaatg gagacctgta tgaatggcat aacgagggct
+      121 tgactgtctc ctctttcaag tcaatgaaat tgatctcccc gtgaagaagc gaggataggc
+      181 acataagacg agaagaccct atggagcttt agacaccaag acagattata gtccataatc
+      241 ctaatttaaa agggtataaa ttgattaagc cctgtcccta tgtctttggt tggggcgacc
+      301 gcggagaaac aaaaaacccc cgcacggacc gaacgtatat taacgtttac aatcaagagc
+      361 tacagctcta actaacagaa cttctgacca atcagatccg gcaatgccga tcaatgaacc
+      421 gagttaccct agggataaca gcgcaatccc ctcttagagt ccatatcgac gagggggttt
+      481 acgacctcga tgttggatca ggacatccta atggtgcagc cgctattaag ggttcgtttg
+      541 ttcaacgatt aaagtcctac gtgatct
+//
+
+LOCUS       KX298697                 579 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_1_rep2 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298697
+VERSION     KX298697.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 579)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 579)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..579
+                     /organism="Cephalopholis sonnerati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_1_rep2"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>579
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gaggtcccgc ctgccctgtg actatatgtt taacggccgc ggtattttga ccgtgcgaag
+       61 gtagcgcaat cacttgtctt ttaaatggag acctgtatga atggcataac gagggcttga
+      121 ctgtctcctc tttcaagtca atgaaattga tctccccgtg aagaagcgag gataggcaca
+      181 taagacgaga agaccctatg gagctttaga caccaagaca gattatagtc cataatccta
+      241 atttaaaagg gtataaattg attaagccct gtccctatgt ctttggttgg ggcgaccgcg
+      301 gagaaacaaa aaacccccgc acggaccgaa cgtatattaa cgtttacaat caagagctac
+      361 agctctaact aacagaactt ctgaccaatc agatccggca atgccgatca atgaaccgag
+      421 ttaccctagg gataacagcg caatcccctc ttagagtcca tatcgacgag ggggtttacg
+      481 acctcgatgt tggatcagga catcctaatg gtgcagccgc tattaagggt tcgtttgttc
+      541 aacgattaaa gtcctacgtg atctgatttc cagaccgga
+//
+
+LOCUS       KX298698                 581 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_5_rep1 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298698
+VERSION     KX298698.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 581)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 581)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..581
+                     /organism="Cephalopholis sonnerati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_5_rep1"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>581
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gagggctcgc ctgcgctgag acgatatgtt taacagccgc ggtattttga ccgtgcgaaa
+       61 gtggcgcaat cacttgtctt ttaaatggag acctgtatga atggcataac gagggcttga
+      121 ctgtctcctc tttcaagtca atgaaattga tctccccgtg aagaagcgag gataggcaca
+      181 taagacgaga agaccctatg gagctttaga caccaagaca gattatagtc cataatccta
+      241 atttaaaagg gtataaattg attaagccct gtccctatgt ctttggttgg ggcgaccgcg
+      301 gagaaacaaa aaacccccgc acggaccgaa cgtatattaa cgtttacaat caagagctac
+      361 agctctaact aacagaactt ctgaccaatc agatccggca atgccgatca atgaaccgag
+      421 ttaccctagg gataacagcg caatcccctc ttagagtcca tatcgacgag ggggtttacg
+      481 acctcgatgt tggatcagga catcctaatg gtgcagccgc tattaagggt tcgtttgttc
+      541 aacgattaaa gtcctacgtg atctggtttc caaaccggag g
+//
+
+LOCUS       KX298699                 581 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_5_rep2 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298699
+VERSION     KX298699.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 581)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 581)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..581
+                     /organism="Cephalopholis sonnerati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_5_rep2"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>581
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gagggctcgc ctgcgctgag acgatatgtt taacagccgc ggtattttga ccgtgcgaaa
+       61 gtggcgcaat cacttgtctt ttaaatggag acctgtatga atggcataac gagggcttga
+      121 ctgtctcctc tttcaagtca atgaaattga tctccccgtg aagaagcgag gataggcaca
+      181 taagacgaga agaccctatg gagctttaga caccaagaca gattatagtc cataatccta
+      241 atttaaaagg gtataaattg attaagccct gtccctatgt ctttggttgg ggcgaccgcg
+      301 gagaaacaaa aaacccccgc acggaccgaa cgtatattaa cgtttacaat caagagctac
+      361 agctctaact aacagaactt ctgaccaatc agatccggca atgccgatca atgaaccgag
+      421 ttaccctagg gataacagcg caatcccctc ttagagtcca tatcgacgag ggggtttacg
+      481 acctcgatgt tggatcagga catcctaatg gtgcagccgc tattaagggt tcgtttgttc
+      541 aacgattaaa gtcctacgtg atctggtttc caaaccggag g
+//
+
+LOCUS       KX298700                 561 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Plectropomus areolatus voucher NZ_2_rep1 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298700
+VERSION     KX298700.1
+KEYWORDS    .
+SOURCE      mitochondrion Plectropomus areolatus (squaretail coralgrouper)
+  ORGANISM  Plectropomus areolatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Plectropomus.
+REFERENCE   1  (bases 1 to 561)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 561)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..561
+                     /organism="Plectropomus areolatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZ_2_rep1"
+                     /db_xref="taxon:327818"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>561
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 aggtcccgcc tgccctgtga ctatatgttt aacggccgcg gtattttgac cgtgcgaagg
+       61 tagcgcaatc acttgtcttt taaatgggga cctgtatgaa tggcaagacg aaggcttaac
+      121 tgtctccttt tccaagtcga tgaaattgat ctacccgtgc agaagcgggt ataattacat
+      181 aagacgagaa gaccctatgg agcttcagac actaaagtag atcataccct ctgtacctga
+      241 acaaaaagag tacaagccta atgattcctt ccctaatgtc tttggttggg gcgaccatgg
+      301 ggaaacaaaa aacccccaca tggagtgggc acacagttcc tataaacaag agccacagct
+      361 ctaattacca gtaattttga ccaataaaga tccggcaatg ccgattaatg aaccaagtta
+      421 ccctagggat aacagcgcaa tcccctttaa gagtccatat cgacaagggg gtttacgacc
+      481 tcgatgttgg atcaggacat cctaatggtg tagccgctat taagggttcg tttgttcaac
+      541 gattaatagt cctacgtgat c
+//
+
+LOCUS       KX298701                 561 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Plectropomus areolatus voucher NZ_2_rep2 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298701
+VERSION     KX298701.1
+KEYWORDS    .
+SOURCE      mitochondrion Plectropomus areolatus (squaretail coralgrouper)
+  ORGANISM  Plectropomus areolatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Plectropomus.
+REFERENCE   1  (bases 1 to 561)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 561)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..561
+                     /organism="Plectropomus areolatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZ_2_rep2"
+                     /db_xref="taxon:327818"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>561
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 aggtcccgcc tgccctgtga ctatatgttt aacggccgcg gtattttgac cgtgcgaagg
+       61 tagcgcaatc acttgtcttt taaatgggga cctgtatgaa tggcaagacg aaggcttaac
+      121 tgtctccttt tccaagtcga tgaaattgat ctacccgtgc agaagcgggt ataattacat
+      181 aagacgagaa gaccctatgg agcttcagac actaaagtag atcataccct ctgtacctga
+      241 acaaaaagag tacaagccta atgattcctt ccctaatgtc tttggttggg gcgaccatgg
+      301 ggaaacaaaa aacccccaca tggagtgggc acacagttcc tataaacaag agccacagct
+      361 ctaattacca gtaattttga ccaataaaga tccggcaatg ccgattaatg aaccaagtta
+      421 ccctagggat aacagcgcaa tcccctttaa gagtccatat cgacaagggg gtttacgacc
+      481 tcgatgttgg atcaggacat cctaatggtg tagccgctat taagggttcg tttgttcaac
+      541 gattaatagt cctacgtgat c
+//
+
+LOCUS       KX298702                 561 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Plectropomus areolatus voucher NZ_4_rep2 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298702
+VERSION     KX298702.1
+KEYWORDS    .
+SOURCE      mitochondrion Plectropomus areolatus (squaretail coralgrouper)
+  ORGANISM  Plectropomus areolatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Plectropomus.
+REFERENCE   1  (bases 1 to 561)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 561)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..561
+                     /organism="Plectropomus areolatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZ_4_rep2"
+                     /db_xref="taxon:327818"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>561
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 aggtcccgcc tgccctgtga ctatatgttt aacggccgcg gtattttgac cgtgcgaagg
+       61 tagcgcaatc acttgtcttt taaatgggga cctgtatgaa tggcaagacg aaggcttaac
+      121 tgtctccttt tccaagtcga tgaaattgat ctacccgtgc agaagcgggt ataattacat
+      181 aagacgagaa gaccctatgg agcttcagac actaaagtag atcataccct ctgtacctga
+      241 acaaaaagag tacaagccta atgattcctt ccctaatgtc tttggttggg gcgaccatgg
+      301 ggaaacaaaa aacccccaca tggagtgggc acacagttcc tataaacaag agccacagct
+      361 ctaattacca gtaattttga ccaataaaga tccggcaatg ccgattaatg aaccaagtta
+      421 ccctagggat aacagcgcaa tcccctttaa gagtccatat cgacaagggg gtttacgacc
+      481 tcgatgttgg atcaggacat cctaatggtg tagccgctat taagggttcg tttgttcaac
+      541 gattaatagt cctacgtgat c
+//
+
+LOCUS       KX298703                 548 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis oligosticta voucher ND_3_rep1 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298703
+VERSION     KX298703.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis oligosticta (vermillion hind)
+  ORGANISM  Cephalopholis oligosticta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 548)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 548)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..548
+                     /organism="Cephalopholis oligosticta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ND_3_rep1"
+                     /db_xref="taxon:1550411"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>548
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gatttatccg cagtttgcca tgacaagtat ccgcaccccc gtgatatgcc ctacagtccc
+       61 ctgcttggga acaaggagct ggtatcaggc acatctctat gattagccca caacaccttg
+      121 cttagccaca ccctcaaggg aatccagcag tgataaacat taagccaata agtgtaaact
+      181 tgacttagtt atggctaaaa gggccggtaa aactcgtgcc agctaccgcg gttatacgag
+      241 aggcccaagt tgataagcat cggcgtaaag agtggttaag gttaaataaa tactaaagcc
+      301 gaacgcttac aaggctgtta tacgcacccg aaagtaagaa gtacaaccac gaaagtggct
+      361 ttattacacc tgaacccacg aaagccaagg cacaaactgg gattagatac cccactatgc
+      421 tttagcccta aacattgata gttttttaca cctactatcc gcctgggaac tacgagcaac
+      481 agcttaaaac ccaaaggact tggcggtgct ttagacccac ctagaggagc ctgttctaaa
+      541 aaaccgaa
+//
+
+LOCUS       KX298704                 548 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis oligosticta voucher ND_3_rep2 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298704
+VERSION     KX298704.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis oligosticta (vermillion hind)
+  ORGANISM  Cephalopholis oligosticta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 548)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 548)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..548
+                     /organism="Cephalopholis oligosticta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ND_3_rep2"
+                     /db_xref="taxon:1550411"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>548
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gatttatccg cagtttgcca tgacaagtat ccgcaccccc gtgatatgcc ctacagtccc
+       61 ctgcttggga acaaggagct ggtatcaggc acatctctat gattagccca caacaccttg
+      121 cttagccaca ccctcaaggg aatccagcag tgataaacat taagccaata agtgtaaact
+      181 tgacttagtt atggctaaaa gggccggtaa aactcgtgcc agctaccgcg gttatacgag
+      241 aggcccaagt tgataagcat cggcgtaaag agtggttaag gttaaataaa tactaaagcc
+      301 gaacgcttac aaggctgtta tacgcacccg aaagtaagaa gtacaaccac gaaagtggct
+      361 ttattacacc tgaacccacg aaagccaagg cacaaactgg gattagatac cccactatgc
+      421 tttagcccta aacattgata gttttttaca cctactatcc gcctgggaac tacgagcaac
+      481 agcttaaaac ccaaaggact tggcggtgct ttagacccac ctagaggagc ctgttctaaa
+      541 aaaccgaa
+//
+
+LOCUS       KX298705                 547 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis oligosticta voucher ND_5_rep1 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298705
+VERSION     KX298705.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis oligosticta (vermillion hind)
+  ORGANISM  Cephalopholis oligosticta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 547)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 547)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..547
+                     /organism="Cephalopholis oligosticta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ND_5_rep1"
+                     /db_xref="taxon:1550411"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>547
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 aatttaggca atgttacaca tgacaagtat ccgcaccccc gtgagaatgc cctacagtcc
+       61 cctgcttggg aacaaggagc tggtatcagg cacatctcta tgattagccc acaacacctt
+      121 gcttagccac accctcaagg gaatccagca gtgataaaca ttaagccaat aagtgtaaac
+      181 ttgacttagt tatggctaaa agggccggta aaactcgtgc cagctaccgc ggttatacga
+      241 gaggcccaag ttgataagca tcggcgtaaa gagtggttaa ggttaaataa atactaaagc
+      301 cgaacgctta caaggctgtt atacgcaccc gaaagtaaga agtacaacca cgaaagtggc
+      361 tttattacac ctgaacccac gaaagccaag gcacaaactg ggattagata ccccactatg
+      421 ctttagccct aaacattgat agttttttac acctactatc cgcctgggaa ctacgagcaa
+      481 cagcttaaaa cccaaaggac ttggcggtgc tttagaccca cctagaggag cctgttctag
+      541 aaccgaa
+//
+
+LOCUS       KX298706                 547 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis oligosticta voucher ND_5_rep2 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298706
+VERSION     KX298706.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis oligosticta (vermillion hind)
+  ORGANISM  Cephalopholis oligosticta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 547)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 547)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..547
+                     /organism="Cephalopholis oligosticta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ND_5_rep2"
+                     /db_xref="taxon:1550411"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>547
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 aatttaggca atgttacaca tgacaagtat ccgcaccccc gtgagaatgc cctacagtcc
+       61 cctgcttggg aacaaggagc tggtatcagg cacatctcta tgattagccc acaacacctt
+      121 gcttagccac accctcaagg gaatccagca gtgataaaca ttaagccaat aagtgtaaac
+      181 ttgacttagt tatggctaaa agggccggta aaactcgtgc cagctaccgc ggttatacga
+      241 gaggcccaag ttgataagca tcggcgtaaa gagtggttaa ggttaaataa atactaaagc
+      301 cgaacgctta caaggctgtt atacgcaccc gaaagtaaga agtacaacca cgaaagtggc
+      361 tttattacac ctgaacccac gaaagccaag gcacaaactg ggattagata ccccactatg
+      421 ctttagccct aaacattgat agttttttac acctactatc cgcctgggaa ctacgagcaa
+      481 cagcttaaaa cccaaaggac ttggcggtgc tttagaccca cctagaggag cctgttctag
+      541 aaccgaa
+//
+
+LOCUS       KX298707                 533 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_2_rep1 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298707
+VERSION     KX298707.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 533)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 533)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..533
+                     /organism="Cephalopholis sonnerati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_2_rep1"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>533
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ttacacatgc aagtatccgc acccccgtga gaatgcccta cagtcccctg cttgggaaca
+       61 aggagctggt atcaggcaca tctctatgat tagcccacaa caccttgctt agccacaccc
+      121 tcaagggaat ccagcagtga taaacattaa gccaataagt gtaaacttga cttagttatg
+      181 gctaaaaggg ccggtaaaac tcgtgccagc taccgcggtt atacgagagg cccaagttga
+      241 taagcatcgg cgtaaagagt ggttaaggtt aaataaatac taaagccgaa cgcttacaag
+      301 gctgttatac gcacccgaaa gtaagaagta caaccacgaa agtggcttta ttacacctga
+      361 acccacgaaa gccaaggcac aaactgggat tagatacccc actatgcttt agccctaaac
+      421 attgatagtt ttttacacct actatccgcc tgggaactac gagcaacagc ttaaaaccca
+      481 aaggacttgg cggtgcttta gacccaccta gaggagcctg ttctaaaacc gaa
+//
+
+LOCUS       KX298708                 533 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_2_rep2 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298708
+VERSION     KX298708.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 533)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 533)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..533
+                     /organism="Cephalopholis sonnerati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_2_rep2"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>533
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ttacacatgc aagtatccgc acccccgtga gaatgcccta cagtcccctg cttgggaaca
+       61 aggagctggt atcaggcaca tctctatgat tagcccacaa caccttgctt agccacaccc
+      121 tcaagggaat ccagcagtga taaacattaa gccaataagt gtaaacttga cttagttatg
+      181 gctaaaaggg ccggtaaaac tcgtgccagc taccgcggtt atacgagagg cccaagttga
+      241 taagcatcgg cgtaaagagt ggttaaggtt aaataaatac taaagccgaa cgcttacaag
+      301 gctgttatac gcacccgaaa gtaagaagta caaccacgaa agtggcttta ttacacctga
+      361 acccacgaaa gccaaggcac aaactgggat tagatacccc actatgcttt agccctaaac
+      421 attgatagtt ttttacacct actatccgcc tgggaactac gagcaacagc ttaaaaccca
+      481 aaggacttgg cggtgcttta gacccaccta gaggagcctg ttctaaaacc gaa
+//
+
+LOCUS       KX298709                 533 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_3_rep1 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298709
+VERSION     KX298709.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 533)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 533)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..533
+                     /organism="Cephalopholis sonnerati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_3_rep1"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>533
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ttacacatgc aagtatccgc acccccgtga gaatgcccta cagtcccctg cttgggaaca
+       61 aggagctggt atcaggcaca tctctatgat tagcccacaa caccttgctt agccacaccc
+      121 tcaagggaat ccagcagtga taaacattaa gccaataagt gtaaacttga cttagttatg
+      181 gctaaaaggg ccggtaaaac tcgtgccagc taccgcggtt atacgagagg cccaagttga
+      241 taagcatcgg cgtaaagagt ggttaaggtt aaataaatac taaagccgaa cgcttacaag
+      301 gctgttatac gcacccgaaa gtaagaagta caaccacgaa agtggcttta ttacacctga
+      361 acccacgaaa gccaaggcac aaactgggat tagatacccc actatgcttt agccctaaac
+      421 attgatagtt ttttacacct actatccgcc tgggaactac gagcaacagc ttaaaaccca
+      481 aaggacttgg cggtgcttta gacccaccta gaggagcctg ttctaaaacc gaa
+//
+
+LOCUS       KX298710                 533 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_3_rep2 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298710
+VERSION     KX298710.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 533)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 533)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..533
+                     /organism="Cephalopholis sonnerati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_3_rep2"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>533
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ttacacatgc aagtatccgc acccccgtga gaatgcccta cagtcccctg cttgggaaca
+       61 aggagctggt atcaggcaca tctctatgat tagcccacaa caccttgctt agccacaccc
+      121 tcaagggaat ccagcagtga taaacattaa gccaataagt gtaaacttga cttagttatg
+      181 gctaaaaggg ccggtaaaac tcgtgccagc taccgcggtt atacgagagg cccaagttga
+      241 taagcatcgg cgtaaagagt ggttaaggtt aaataaatac taaagccgaa cgcttacaag
+      301 gctgttatac gcacccgaaa gtaagaagta caaccacgaa agtggcttta ttacacctga
+      361 acccacgaaa gccaaggcac aaactgggat tagatacccc actatgcttt agccctaaac
+      421 attgatagtt ttttacacct actatccgcc tgggaactac gagcaacagc ttaaaaccca
+      481 aaggacttgg cggtgcttta gacccaccta gaggagcctg ttctaaaacc gaa
+//
+
+LOCUS       KX298711                 545 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Plectropomus areolatus voucher NZ_2_rep1 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298711
+VERSION     KX298711.1
+KEYWORDS    .
+SOURCE      mitochondrion Plectropomus areolatus (squaretail coralgrouper)
+  ORGANISM  Plectropomus areolatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Plectropomus.
+REFERENCE   1  (bases 1 to 545)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 545)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..545
+                     /organism="Plectropomus areolatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZ_2_rep1"
+                     /db_xref="taxon:327818"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>545
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gcctttaatc aacttacaca tgcaagtatc cgcactcccg tgaaaatgcc cccagttctc
+       61 tactaaagaa caaggagctg gtatcaggca catatacttt atagcccata acgccttgct
+      121 cagccacacc cccaagggaa tccagcagtg ataaacatta ggcaataagt gaaaacttga
+      181 cttagttatg gttaaaagag tcggtaaaac tcgtgccagc taccgcggtt aaacgagcga
+      241 ctcaagttga tgggtcacgg cgtaaagggt ggttaggatt agatataaac taaggccgaa
+      301 cacttacaga gctgttatac gcttccgaac gtaagaagag catctacgaa agtggcctta
+      361 atattcctga acccacgaaa gctaaggtac aaactgggat tagatacccc actatgctta
+      421 gccctaaaca ttgatagtat cgtacaccca ctatccgccc gggaactacg agcattagct
+      481 tgaaacccaa aggacttggc ggtgctttag acccatctag aggagcctgt cttaaaaacc
+      541 gaaaa
+//
+
+LOCUS       KX298712                 544 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Plectropomus areolatus voucher NZ_1_rep2 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298712
+VERSION     KX298712.1
+KEYWORDS    .
+SOURCE      mitochondrion Plectropomus areolatus (squaretail coralgrouper)
+  ORGANISM  Plectropomus areolatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Plectropomus.
+REFERENCE   1  (bases 1 to 544)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 544)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..544
+                     /organism="Plectropomus areolatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZ_1_rep2"
+                     /db_xref="taxon:327818"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>544
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gccttaatca acttacacat gcaagtatcc gcactcccgt gaaaatgccc ccagttctct
+       61 actaaagaac aaggagctgg tatcaggcac atatacttta tagcccataa cgccttgctc
+      121 agccacaccc ccaagggaat ccagcagtga taaacattag gcaataagtg aaaacttgac
+      181 ttagttatgg ttaaaagagt cggtaaaact cgtgccagct accgcggtta aacgagcgac
+      241 tcaagttgat gggtcacggc gtaaagggtg gttaggatta gatataaact aaggccgaac
+      301 acttacagag ctgttatacg cttccgaacg taagaagagc atctacgaaa gtggccttaa
+      361 tattcctgaa cccacgaaag ctaaggtaca aactgggatt agatacccca ctatgcttag
+      421 ccctaaacat tgatagtatc gtacacccac tatccgcccg ggaactacga gcattagctt
+      481 gaaacccaaa ggacttggcg gtgctttaga cccatctaga ggagcctgtc ttaaaaaccg
+      541 aaaa
+//
+
+LOCUS       KX298713                 542 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Plectropomus areolatus voucher NZ_2_rep3 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298713
+VERSION     KX298713.1
+KEYWORDS    .
+SOURCE      mitochondrion Plectropomus areolatus (squaretail coralgrouper)
+  ORGANISM  Plectropomus areolatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Plectropomus.
+REFERENCE   1  (bases 1 to 542)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 542)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..542
+                     /organism="Plectropomus areolatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZ_2_rep3"
+                     /db_xref="taxon:327818"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>542
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gccaaaatca cttacacatg caagtatccg cactcccgtg aaaatgcccc cagttctcta
+       61 ctaaagaaca aggagctggt atcaggcaca tatactttat agcccataac gccttgctca
+      121 gccacacccc caagggaatc cagcagtgat aaacattagg caataagtga aaacttgact
+      181 tagttatggt taaaagagtc ggtaaaactc gtgccagcta ccgcggttaa acgagcgact
+      241 caagttgatg ggtcacggcg taaagggtgg ttaggattag atataaacta aggccgaaca
+      301 cttacagagc tgttatacgc ttccgaacgt aaaaagagca tctacgaaag tggccttaat
+      361 attcctgaac ccacgaaagc taaggtacaa actgggatta gataccccac tatgcttagc
+      421 cctaaacatt gatagtatcg tacacccact atccgcccgg gaactacgag cattagcttg
+      481 aaacccaaag gacttggcgg tgctttagac ccatctagag gagcctgctt aaaaacccaa
+      541 aa
+//
+
+LOCUS       KX298714                 542 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Plectropomus areolatus voucher NZ_2_rep4 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298714
+VERSION     KX298714.1
+KEYWORDS    .
+SOURCE      mitochondrion Plectropomus areolatus (squaretail coralgrouper)
+  ORGANISM  Plectropomus areolatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Plectropomus.
+REFERENCE   1  (bases 1 to 542)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 542)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..542
+                     /organism="Plectropomus areolatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZ_2_rep4"
+                     /db_xref="taxon:327818"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>542
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gccaaaatca cttacacatg caagtatccg cactcccgtg aaaatgcccc cagttctcta
+       61 ctaaagaaca aggagctggt atcaggcaca tatactttat agcccataac gccttgctca
+      121 gccacacccc caagggaatc cagcagtgat aaacattagg caataagtga aaacttgact
+      181 tagttatggt taaaagagtc ggtaaaactc gtgccagcta ccgcggttaa acgagcgact
+      241 caagttgatg ggtcacggcg taaagggtgg ttaggattag atataaacta aggccgaaca
+      301 cttacagagc tgttatacgc ttccgaacgt aaaaagagca tctacgaaag tggccttaat
+      361 attcctgaac ccacgaaagc taaggtacaa actgggatta gataccccac tatgcttagc
+      421 cctaaacatt gatagtatcg tacacccact atccgcccgg gaactacgag cattagcttg
+      481 aaacccaaag gacttggcgg tgctttagac ccatctagag gagcctgctt aaaaacccaa
+      541 aa
+//
+
+LOCUS       KX298715                1463 bp    DNA     linear   BCT 02-JUN-2016
+DEFINITION  Enterococcus faecium strain RSAA8 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KX298715
+VERSION     KX298715.1
+KEYWORDS    .
+SOURCE      Enterococcus faecium
+  ORGANISM  Enterococcus faecium
+            Bacteria; Bacillati; Bacillota; Bacilli; Lactobacillales;
+            Enterococcaceae; Enterococcus.
+REFERENCE   1  (bases 1 to 1463)
+  AUTHORS   Sahoo,A. and Kumawat,P.
+  TITLE     Characterization of fibre degrading bacteria from sheep
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1463)
+  AUTHORS   Sahoo,A. and Kumawat,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAY-2016) ANIMAL NUTRITION DIVISION, CENTRAL SHEEP
+            AND WOOL RESEARCH INSTITUTE AVIKANAGAR, RAJASTHAN, AVIKANAGAR,
+            MALPURA, RAJASTHAN 304501, India
+COMMENT     Sequences were screened for chimeras by the submitter using
+            DECIPHER DECIPHER_2.0.1.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1463
+                     /organism="Enterococcus faecium"
+                     /mol_type="genomic DNA"
+                     /strain="RSAA8"
+                     /host="sheep"
+                     /db_xref="taxon:1352"
+                     /geo_loc_name="India"
+                     /collection_date="2015"
+     rRNA            <1..>1463
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 ggctcaggac gaacgctggc ggcgtgccta atacatgcaa gtcgtacgct tctttttcca
+       61 ccggagcttg ctccaccgga aaaagaagag tggcgaacgg gtgagtaaca cgtgggtaac
+      121 ctgcccatca gaaggggata acacttggaa acaggtgcta ataccgtata acaatcgaaa
+      181 ccgcatggtt ttgatttgaa aggcgctttc gggtgtcgct gatggatgga cccgcggtgc
+      241 attagctagt tggtgaggta acggctcacc aaggccacga tgcatagccg acctgagagg
+      301 gtgatcggcc acattgggac tgagacacgg cccaaactcc tacgggaggc agcagtaggg
+      361 aatcttcggc aatggacgaa agtctgaccg agcaacgccg cgtgagtgaa gaaggttttc
+      421 ggatcgtaaa actctgttgt tagagaagaa caaggatgag agtaactgtt catcccttga
+      481 cggtatctaa ccagaaagcc acggctaact acgtgccagc agccgcggta atacgtaggt
+      541 ggcaagcgtt gtccggattt attgggcgta aagcgagcgc aggcggtttc ttaagtctga
+      601 tgtgaaagcc cccggctcaa ccggggaggg tcattggaaa ctgggagact tgagtgcaga
+      661 agaggagagt ggaattccat gtgtagcggt gaaatgcgta gatatatgga ggaacaccag
+      721 tggcgaaggc ggctctctgg tctgtaactg acgctgaggc tcgaaagcgt ggggagcaaa
+      781 caggattaga taccctggta gtccacgccg taaacgatga gtgctaagtg ttggagggtt
+      841 tccgcccttc agtgctgcag ctaacgcatt aagcactccg cctggggagt acgaccgcaa
+      901 ggttgaaact caaaggaatt gacgggggcc cgcacaagcg gtggagcatg tggtttaatt
+      961 cgaagcaacg cgaagaacct taccaggtct tgacatcctt tgaccactct agagatagag
+     1021 cttccccttc gggggcaaag tgacaggtgg tgcatggttg tcgtcagctc gtgtcgtgag
+     1081 atgttgggtt aagtcccgca acgagcgcaa cccttattgt tagttgccat cattcagttg
+     1141 ggcactctag caagactgcc ggtgacaaac cggaggaagg tggggatgac gtcaaatcat
+     1201 catgcccctt atgacctggg ctacacacgt gctacaatgg gaagtacaac gagttgcgaa
+     1261 gtcgcgaggc taagctaatc tcttaaagct tctctcagtt cggattgcag gctgcaactc
+     1321 gcctgcatga agccggaatc gctagtaatc gcggatcagc acgccgcggt gaatacgttc
+     1381 ccgggccttg tacacaccgc ccgtcacacc acgagagttt gtaacacccg aagtcggtga
+     1441 ggtaaccttt tggagccagc cgc
+//
+
+LOCUS       KX298716                1462 bp    DNA     linear   BCT 02-JUN-2016
+DEFINITION  Enterococcus durans strain RSAA9 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KX298716
+VERSION     KX298716.1
+KEYWORDS    .
+SOURCE      Enterococcus durans
+  ORGANISM  Enterococcus durans
+            Bacteria; Bacillati; Bacillota; Bacilli; Lactobacillales;
+            Enterococcaceae; Enterococcus.
+REFERENCE   1  (bases 1 to 1462)
+  AUTHORS   Sahoo,A. and Kumawat,P.
+  TITLE     Characterization of fibre degrading bacteria from sheep
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1462)
+  AUTHORS   Sahoo,A. and Kumawat,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAY-2016) ANIMAL NUTRITION DIVISION, CENTRAL SHEEP
+            AND WOOL RESEARCH INSTITUTE AVIKANAGAR, RAJASTHAN, AVIKANAGAR,
+            MALPURA, RAJASTHAN 304501, India
+COMMENT     Sequences were screened for chimeras by the submitter using
+            DECIPHER DECIPHER_2.0.1.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1462
+                     /organism="Enterococcus durans"
+                     /mol_type="genomic DNA"
+                     /strain="RSAA9"
+                     /host="sheep"
+                     /db_xref="taxon:53345"
+                     /geo_loc_name="India"
+                     /collection_date="2015"
+     rRNA            <1..>1462
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gctcaggacg aacgctggcg gcgtgcctaa tacatgcaag tcgtacgctt ctttttccac
+       61 cggagcttgc tccaccggaa aaagaagagt ggcgaacggg tgagtaacac gtgggtaacc
+      121 tgcccatcag aaggggataa cacttggaaa caggtgctaa taccgtataa caatcgaaac
+      181 cgcatggttt tgatttgaaa ggcgctttcg ggtgtcgctg atggatggac ccgcggtgca
+      241 ttagctagtt ggtgaggtaa cggctcacca aggccacgat gcatagccga cctgagaggg
+      301 tgatcggcca cattgggact gagacacggc ccaaactcct acgggaggca gcagtaggga
+      361 atcttcggca atggacgaaa gtctgaccga gcaacgccgc gtgagtgaag aaggttttcg
+      421 gatcgtaaaa ctctgttgtt agagaagaac aaggatgaga gtaactgttc atcccttgac
+      481 ggtatctaac cagaaagcca cggctaacta cgtgccagca gccgcggtaa tacgtaggtg
+      541 gcaagcgttg tccggattta ttgggcgtaa agcgagcgca ggcggtttct taagtctgat
+      601 gtgaaagccc ccggctcaac cggggagggt cattggaaac tgggagactt gagtgcagaa
+      661 gaggagagtg gaattccatg tgtagcggtg aaatgcgtag atatatggag gaacaccagt
+      721 ggcgaaggcg gctctctggt ctgtaactga cgctgaggct cgaaagcgtg gggagcaaac
+      781 aggattagat accctggtag tccacgccgt aaacgatgag tgctaagtgt tggagggttt
+      841 ccgcccttca gtgctgcagc taacgcatta agcactccgc ctggggagta cgaccgcaag
+      901 gttgaaactc aaaggaattg acgggggccc gcacaagcgg tggagcatgt ggtttaattc
+      961 gaagcaacgc gaagaacctt accaggtctt gacatccttt gaccactcta gagatagagc
+     1021 ttccccttcg ggggcaaagt gacaggtggt gcatggttgt cgtcagctcg tgtcgtgaga
+     1081 tgttgggtta agtcccgcaa cgagcgcaac ccttattgtt agttgccatc atttagttgg
+     1141 gcactctagc aagactgccg gtgacaaacc ggaggaaggt ggggatgacg tcaaatcatc
+     1201 atgcccctta tgacctgggc tacacacgtg ctacaatggg aagtacaacg agtcgcgaag
+     1261 tcgcgaggct aagctaatct cttaaagctt ctctcagttc ggattgtagg ctgcaactcg
+     1321 cctacatgaa gccggaatcg ctagtaatcg cggatcagca cgccgcggtg aatacgttcc
+     1381 cgggccttgt acacaccgcc cgtcacacca cgagagtttg taacacccga agtcggtgag
+     1441 gtaacctttt ggagccagcc gc
+//
+
+LOCUS       KX298717                1478 bp    DNA     linear   BCT 02-JUN-2016
+DEFINITION  Enterococcus faecium strain RSAA10 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KX298717
+VERSION     KX298717.1
+KEYWORDS    .
+SOURCE      Enterococcus faecium
+  ORGANISM  Enterococcus faecium
+            Bacteria; Bacillati; Bacillota; Bacilli; Lactobacillales;
+            Enterococcaceae; Enterococcus.
+REFERENCE   1  (bases 1 to 1478)
+  AUTHORS   Sahoo,A. and Kumawat,P.
+  TITLE     Characterization of fibre degrading bacteria from sheep
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1478)
+  AUTHORS   Sahoo,A. and Kumawat,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAY-2016) ANIMAL NUTRITION DIVISION, CENTRAL SHEEP
+            AND WOOL RESEARCH INSTITUTE AVIKANAGAR, RAJASTHAN, AVIKANAGAR,
+            MALPURA, RAJASTHAN 304501, India
+COMMENT     Sequences were screened for chimeras by the submitter using
+            DECIPHER DECIPHER_2.0.1.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1478
+                     /organism="Enterococcus faecium"
+                     /mol_type="genomic DNA"
+                     /strain="RSAA10"
+                     /host="sheep"
+                     /db_xref="taxon:1352"
+                     /geo_loc_name="India"
+                     /collection_date="2015"
+     rRNA            <1..>1478
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 ggctcaggac gaacgctggc ggcgtgccta atacatgcaa gtcgtacgct tctttttcca
+       61 ccggagcttg ctccaccgga aaaagaagag tggcgaacgg gtgagtaaca cgtgggtaac
+      121 ctgcccatca gaaggggata acacttggaa acaggtgcta ataccgtata acaatcgaaa
+      181 ccgcatggtt ttgatttgaa aggcgctttc gggtgtcgct gatggatgga cccgcggtgc
+      241 attagctagt tggtgaggta acggctcacc aaggccacga tgcatagccg acctgagagg
+      301 gtgatcggcc acattgggac tgagacacgg cccaaactcc tacgggaggc agcagtaggg
+      361 aatcttcggc aatggacgaa agtctgaccg agcaacgccg cgtgagtgaa gaaggttttc
+      421 ggatcgtaaa actctgttgt tagagaagaa caaggatgag agtaactgtt catcccttga
+      481 cggtatctaa ccagaaagcc acggctaact acgtgccagc agccgcggta atacgtaggt
+      541 ggcaagcgtt gtccggattt attgggcgta aagcgagcgc aggcggtttc ttaagtctga
+      601 tgtgaaagcc cccggctcaa ccggggaggg tcattggaaa ctgggagact tgagtgcaga
+      661 agaggagagt ggaattccat gtgtagcggt gaaatgcgta gatatatgga ggaacaccag
+      721 tggcgaaggc ggctctctgg tctgtaactg acgctgaggc tcgaaagcgt ggggagcaaa
+      781 caggattaga taccctggta gtccacgccg taaacgatga gtgctaagtg ttggagggtt
+      841 tccgcccttc agtgctgcag ctaacgcatt aagcactccg cctggggagt acgaccgcaa
+      901 ggttgaaact caaaggaatt gacgggggcc cgcacaagcg gtggagcatg tggtttaatt
+      961 cgaagcaacg cgaagaacct taccaggtct tgacatcctt tgaccactct agagatagag
+     1021 cttccccttc gggggcaaag tgacaggtgg tgcatggttg tcgtcagctc gtgtcgtgag
+     1081 atgttgggtt aagtcccgca acgagcgcaa cccttattgt tagttgccat cattcagttg
+     1141 ggcactctag caagactgcc ggtgacaaac cggaggaagg tggggatgac gtcaaatcat
+     1201 catgcccctt atgacctggg ctacacacgt gctacaatgg gaagtacaac gagttgcgaa
+     1261 gtcgcgaggc taagctaatc tcttaaagct tctctcagtt cggattgcag gctgcaactc
+     1321 gcctgcatga agccggaatc gctagtaatc gcggatcagc acgccgcggt gaatacgttc
+     1381 ccgggccttg tacacaccgc ccgtcacacc acgagagttt gtaacacccg aagtcggtga
+     1441 ggtaaccttt tggagccagc cgcctaaggt gggaatta
+//
+
+LOCUS       KX298718                1469 bp    DNA     linear   BCT 02-JUN-2016
+DEFINITION  Enterococcus faecium strain RSAA11 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KX298718
+VERSION     KX298718.1
+KEYWORDS    .
+SOURCE      Enterococcus faecium
+  ORGANISM  Enterococcus faecium
+            Bacteria; Bacillati; Bacillota; Bacilli; Lactobacillales;
+            Enterococcaceae; Enterococcus.
+REFERENCE   1  (bases 1 to 1469)
+  AUTHORS   Sahoo,A. and Kumawat,P.
+  TITLE     Characterization of fibre degrading bacteria from sheep
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1469)
+  AUTHORS   Sahoo,A. and Kumawat,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAY-2016) ANIMAL NUTRITION DIVISION, CENTRAL SHEEP
+            AND WOOL RESEARCH INSTITUTE AVIKANAGAR, RAJASTHAN, AVIKANAGAR,
+            MALPURA, RAJASTHAN 304501, India
+COMMENT     Sequences were screened for chimeras by the submitter using
+            DECIPHER DECIPHER_2.0.1.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1469
+                     /organism="Enterococcus faecium"
+                     /mol_type="genomic DNA"
+                     /strain="RSAA11"
+                     /host="sheep"
+                     /db_xref="taxon:1352"
+                     /geo_loc_name="India"
+                     /collection_date="2015"
+     rRNA            <1..>1469
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gacgaacgct ggcggcgtgc ctaatacatg caagtcgtac gcttcttttt ccaccggagc
+       61 ttgctccacc ggaaaaagaa gagtggcgaa cgggtgagta acacgtgggt aacctgccca
+      121 tcagaagggg ataacacttg gaaacaggtg ctaataccgt ataacaatcg aaaccgcatg
+      181 gttttgattt gaaaggcgct ttcgggtgtc gctgatggat ggacccgcgg tgcattagct
+      241 agttggtgag gtaacggctc accaaggcca cgatgcatag ccgacctgag agggtgatcg
+      301 gccacattgg gactgagaca cggcccaaac tcctacggga ggcagcagta gggaatcttc
+      361 ggcaatggac gaaagtctga ccgagcaacg ccgcgtgagt gaagaaggtt ttcggatcgt
+      421 aaaactctgt tgttagagaa gaacaaggat gagagtaact gttcatccct tgacggtatc
+      481 taaccagaaa gccacggcta actacgtgcc agcagccgcg gtaatacgta ggtggcaagc
+      541 gttgtccgga tttattgggc gtaaagcgag cgcaggcggt ttcttaagtc tgatgtgaaa
+      601 gcccccggct caaccgggga gggtcattgg aaactgggag acttgagtgc agaagaggag
+      661 agtggaattc catgtgtagc ggtgaaatgc gtagatatat ggaggaacac cagtggcgaa
+      721 ggcggctctc tggtctgtaa ctgacgctga ggctcgaaag cgtggggagc aaacaggatt
+      781 agataccctg gtagtccacg ccgtaaacga tgagtgctaa gtgttggagg gtttccgccc
+      841 ttcagtgctg cagctaacgc attaagcact ccgcctgggg agtacgaccg caaggttgaa
+      901 actcaaagga attgacgggg gcccgcacaa gcggtggagc atgtggttta attcgaagca
+      961 acgcgaagaa ccttaccagg tcttgacatc ctttgaccac tctagagata gagcttcccc
+     1021 ttcgggggca aagtgacagg tggtgcatgg ttgtcgtcag ctcgtgtcgt gagatgttgg
+     1081 gttaagtccc gcaacgagcg caacccttat tgttagttgc catcattcag ttgggcactc
+     1141 tagcaagact gccggtgaca aaccggagga aggtggggat gacgtcaaat catcatgccc
+     1201 cttatgacct gggctacaca cgtgctacaa tgggaagtac aacgagttgc gaagtcgcga
+     1261 ggctaagcta atctcttaaa gcttctctca gttcggattg caggctgcaa ctcgcctgca
+     1321 tgaagccgga atcgctagta atcgcggatc agcacgccgc ggtgaatacg ttcccgggcc
+     1381 ttgtacacac cgcccgtcac accacgagag tttgtaacac ccgaagtcgg tgaggtaacc
+     1441 ttttggagcc agccgcctaa ggggaatgt
+//
+
+LOCUS       KX298719                1466 bp    DNA     linear   BCT 02-JUN-2016
+DEFINITION  Enterococcus hirae strain RSAA12 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KX298719
+VERSION     KX298719.1
+KEYWORDS    .
+SOURCE      Enterococcus hirae
+  ORGANISM  Enterococcus hirae
+            Bacteria; Bacillati; Bacillota; Bacilli; Lactobacillales;
+            Enterococcaceae; Enterococcus.
+REFERENCE   1  (bases 1 to 1466)
+  AUTHORS   Sahoo,A. and Kumawat,P.
+  TITLE     Characterization of fibre degrading bacteria from sheep
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1466)
+  AUTHORS   Sahoo,A. and Kumawat,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAY-2016) ANIMAL NUTRITION DIVISION, CENTRAL SHEEP
+            AND WOOL RESEARCH INSTITUTE AVIKANAGAR, RAJASTHAN, AVIKANAGAR,
+            MALPURA, RAJASTHAN 304501, India
+COMMENT     Sequences were screened for chimeras by the submitter using
+            DECIPHER DECIPHER_2.0.1.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1466
+                     /organism="Enterococcus hirae"
+                     /mol_type="genomic DNA"
+                     /strain="RSAA12"
+                     /host="sheep"
+                     /db_xref="taxon:1354"
+                     /geo_loc_name="India"
+                     /collection_date="2015"
+     rRNA            <1..>1466
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tggctcagga cgaacgctgg cggcgtgcct aatacatgca agtcgtacgc ttctttttcc
+       61 accggagctt gctccaccgg aaaaagaaga gtggcgaacg ggtgagtaac acgtgggtaa
+      121 cctgcccatc agaaggggat aacacttgga aacaggtgct aataccgtat aacaatcgaa
+      181 accgcatggt tttgatttga aaggcgcttt cgggtgtcgc tgatggatgg acccgcggtg
+      241 cattagctag ttggtgaggt aacggctcac caaggccacg atgcatagcc gacctgagag
+      301 ggtgatcggc cacattggga ctgagacacg gcccaaactc ctacgggagg cagcagtagg
+      361 gaatcttcgg caatggacga aagtctgacc gagcaacgcc gcgtgagtga agaaggtttt
+      421 cggatcgtaa aactctgttg ttagagaaga acaaggatga gagtaactgt tcatcccttg
+      481 acggtatcta accagaaagc cacggctaac tacgtgccag cagccgcggt aatacgtagg
+      541 tggcaagcgt tgtccggatt tattgggcgt aaagcgagcg caggcggttt cttaagtctg
+      601 atgtgaaagc ccccggctca accggggagg gtcattggaa actgggagac ttgagtgcag
+      661 aagaggagag tggaattcca tgtgtagcgg tgaaatgcgt agatatatgg aggaacacca
+      721 gtggcgaagg cggctctctg gtctgtaact gacgctgagg ctcgaaagcg tggggagcaa
+      781 acaggattag ataccctggt agtccacgcc gtaaacgatg agtgctaagt gttggagggt
+      841 ttccgccctt cagtgctgca gctaacgcat taagcactcc gcctggggag tacgaccgca
+      901 aggttgaaac tcaaaggaat tgacgggggc ccgcacaagc ggtggagcat gtggtttaat
+      961 tcgaagcaac gcgaagaacc ttaccaggtc ttgacatcct ttgaccactc tagagataga
+     1021 gcttcccctt cgggggcaaa gtgacaggtg gtgcatggtt gtcgtcagct cgtgtcgtga
+     1081 gatgttgggt taagtcccgc aacgagcgca acccttattg ttagttgcca tcattcagtt
+     1141 gggcactcta gcaagactgc cggtgacaaa ccggaggaag gtggggatga cgtcaaatca
+     1201 tcatgcccct tatgacctgg gctacacacg tgctacaatg ggaagtacaa cgagttgcga
+     1261 agtcgcgagg ctaagctaat ctcttaaagc ttctctcagt tcggattgca ggctgcaact
+     1321 cgcctgcatg aagccggaat cgctagtaat cgcggatcag cacgccgcgg tgaatacgtt
+     1381 cccgggcctt gtacacaccg cccgtcacac cacgagagtt tgtaacaccc gaagtcggtg
+     1441 aggtaacctt ttggagccag ccgcct
+//
+
+LOCUS       KX298720                1451 bp    DNA     linear   BCT 02-JUN-2016
+DEFINITION  Enterococcus faecium strain RSAA13 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KX298720
+VERSION     KX298720.1
+KEYWORDS    .
+SOURCE      Enterococcus faecium
+  ORGANISM  Enterococcus faecium
+            Bacteria; Bacillati; Bacillota; Bacilli; Lactobacillales;
+            Enterococcaceae; Enterococcus.
+REFERENCE   1  (bases 1 to 1451)
+  AUTHORS   Sahoo,A. and Kumawat,P.
+  TITLE     Characterization of fibre degrading bacteria from sheep
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1451)
+  AUTHORS   Sahoo,A. and Kumawat,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAY-2016) ANIMAL NUTRITION DIVISION, CENTRAL SHEEP
+            AND WOOL RESEARCH INSTITUTE AVIKANAGAR, RAJASTHAN, AVIKANAGAR,
+            MALPURA, RAJASTHAN 304501, India
+COMMENT     Sequences were screened for chimeras by the submitter using
+            DECIPHER DECIPHER_2.0.1.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1451
+                     /organism="Enterococcus faecium"
+                     /mol_type="genomic DNA"
+                     /strain="RSAA13"
+                     /host="sheep"
+                     /db_xref="taxon:1352"
+                     /geo_loc_name="India"
+                     /collection_date="2015"
+     rRNA            <1..>1451
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gacgaacgct ggcggcgtgc ctaatacatg caagtcgaac gcttcttttt ccaccggagc
+       61 ttgctccacc ggaaaaagag gagtggcgaa cgggtgagta acacgtgggt aacctgccca
+      121 tcagaagggg ataacacttg gaaacaggtg ctaataccgt ataacaatcr aaaccgcatg
+      181 gttttgattt gaaaggcgct ttcgggtgtc gctgatggat ggacccgcgg tgcattagct
+      241 agttggtgag gtaacggctc accaaggcca cgatgcatag ccgacctgag agggtgatcg
+      301 gccacattgg gactgagaca cggcccaaac tcctacggga ggcagcagta gggaatcttc
+      361 ggcaatggac gaaagtctga ccgagcaacg ccgcgtgagt gaagaaggtt ttcggatcgt
+      421 aaaactctgt tgttagagaa gaacaaggat gagagtaact gttcatccct tgacggtatc
+      481 taaccagaaa gccacggcta actacgtgcc agcagccgcg gtaatacgta ggtggcaagc
+      541 gttgtccgga tttattgggc gtaaagcgag cgcaggcggt ttcttaagtc tgatgtgaaa
+      601 gcccccggct caaccgggga gggtcattgg aaactgggag acttgagtgc agaagaggag
+      661 agtggaattc catgtgtagc ggtgaaatgc gtagatatat ggaggaacac cagtggcgaa
+      721 ggcggctctc tggtctgtaa ctgacgctga ggctcgaaag cgtggggagc aaacaggatt
+      781 agataccctg gtagtccacg ccgtaaacga tgagtgctaa gtgttggagg gtttccgccc
+      841 ttcagtgctg cagctaacgc attaagcact ccgcctgggg agtacgaccg caaggttgaa
+      901 actcaaagga attgacgggg gcccgcacaa gcggtggagc atgtggttta attcgaagca
+      961 acgcgaagaa ccttaccagg tcttgacatc ctttgaccac tctagagata gagcttcccc
+     1021 ttcgggggca aagtgacagg tggtgcatgg ttgtcgtcag ctcgtgtcgt gagatgttgg
+     1081 gttaagtccc gcaacgagcg caacccttat tgttagttgc catcattcag ttgggcactc
+     1141 tagcaagact gccggtgaca aaccggagga aggtggggat gacgtcaaat catcatgccc
+     1201 cttatgacct gggctacaca cgtgctacaa tgggaagtac aacgagttgc gaagtcgcga
+     1261 ggctaagcta atctcttaaa gcttctctca gttcggattg caggctgcaa ctcgcctgca
+     1321 tgaagccgga atcgctagta atcgcggatc agcacgccgc ggtgaatacg ttcccgggcc
+     1381 ttgtacacac cgcccgtcac accacgagag tttgtaacac ccgaagtcgg tgaggtaacc
+     1441 ttttggagcc a
+//

@@ -1,0 +1,5 @@
+Assembly Accession	Organism Name	Assembly Name	Assembly Level	Assembly Release Date	Assembly Submitter	Assembly BioProject Accession	Assembly BioSample Accession	Assembly Stats Total Sequence Length	Assembly Stats Number of Contigs	Assembly Stats Contig N50	Assembly Stats Scaffold N50	Assembly Stats GC Percent	Annotation Name	Annotation BUSCO Lineage	Annotation BUSCO Complete
+GCA_043388385.1	Cephalopholis sonnerati	ASM4338838v1	Complete Genome	2024-10-21	Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences	PRJNA1143726	SAMN41688836	1039913711	24	44092975	44092975	41			
+GCA_019142605.1	Cephalopholis sonnerati	JJU_Cson_1.0	Scaffold	2021-07-06	Jiujiang University	PRJNA699118	SAMN17766311	1043730103	939	2482587	43987100	41			
+GCA_043388425.1	Cephalopholis sonnerati	ASM4338842v1	Complete Genome	2024-10-21	Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences	PRJNA1143724	SAMN41688836	1039525268	24	43828159	43828159	41			
+GCA_988286015.1	Cephalopholis sonnerati	Cephalopholis sonnerati_OG354_draft	Contig	2026-09-21	Minderoo OceanOmics Centre at UWA	PRJEB123829	SAMN49597358	1121888852	388963	6778	6778	41			

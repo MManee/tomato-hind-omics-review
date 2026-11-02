@@ -1,0 +1,324 @@
+LOCUS       KX298697                 579 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_1_rep2 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298697
+VERSION     KX298697.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 579)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 579)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..579
+                     /organism="Cephalopholis sonnerati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_1_rep2"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>579
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gaggtcccgc ctgccctgtg actatatgtt taacggccgc ggtattttga ccgtgcgaag
+       61 gtagcgcaat cacttgtctt ttaaatggag acctgtatga atggcataac gagggcttga
+      121 ctgtctcctc tttcaagtca atgaaattga tctccccgtg aagaagcgag gataggcaca
+      181 taagacgaga agaccctatg gagctttaga caccaagaca gattatagtc cataatccta
+      241 atttaaaagg gtataaattg attaagccct gtccctatgt ctttggttgg ggcgaccgcg
+      301 gagaaacaaa aaacccccgc acggaccgaa cgtatattaa cgtttacaat caagagctac
+      361 agctctaact aacagaactt ctgaccaatc agatccggca atgccgatca atgaaccgag
+      421 ttaccctagg gataacagcg caatcccctc ttagagtcca tatcgacgag ggggtttacg
+      481 acctcgatgt tggatcagga catcctaatg gtgcagccgc tattaagggt tcgtttgttc
+      541 aacgattaaa gtcctacgtg atctgatttc cagaccgga
+//
+
+LOCUS       KX298698                 581 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_5_rep1 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298698
+VERSION     KX298698.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 581)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 581)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..581
+                     /organism="Cephalopholis sonnerati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_5_rep1"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>581
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gagggctcgc ctgcgctgag acgatatgtt taacagccgc ggtattttga ccgtgcgaaa
+       61 gtggcgcaat cacttgtctt ttaaatggag acctgtatga atggcataac gagggcttga
+      121 ctgtctcctc tttcaagtca atgaaattga tctccccgtg aagaagcgag gataggcaca
+      181 taagacgaga agaccctatg gagctttaga caccaagaca gattatagtc cataatccta
+      241 atttaaaagg gtataaattg attaagccct gtccctatgt ctttggttgg ggcgaccgcg
+      301 gagaaacaaa aaacccccgc acggaccgaa cgtatattaa cgtttacaat caagagctac
+      361 agctctaact aacagaactt ctgaccaatc agatccggca atgccgatca atgaaccgag
+      421 ttaccctagg gataacagcg caatcccctc ttagagtcca tatcgacgag ggggtttacg
+      481 acctcgatgt tggatcagga catcctaatg gtgcagccgc tattaagggt tcgtttgttc
+      541 aacgattaaa gtcctacgtg atctggtttc caaaccggag g
+//
+
+LOCUS       KX298699                 581 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_5_rep2 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298699
+VERSION     KX298699.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 581)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 581)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..581
+                     /organism="Cephalopholis sonnerati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_5_rep2"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>581
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gagggctcgc ctgcgctgag acgatatgtt taacagccgc ggtattttga ccgtgcgaaa
+       61 gtggcgcaat cacttgtctt ttaaatggag acctgtatga atggcataac gagggcttga
+      121 ctgtctcctc tttcaagtca atgaaattga tctccccgtg aagaagcgag gataggcaca
+      181 taagacgaga agaccctatg gagctttaga caccaagaca gattatagtc cataatccta
+      241 atttaaaagg gtataaattg attaagccct gtccctatgt ctttggttgg ggcgaccgcg
+      301 gagaaacaaa aaacccccgc acggaccgaa cgtatattaa cgtttacaat caagagctac
+      361 agctctaact aacagaactt ctgaccaatc agatccggca atgccgatca atgaaccgag
+      421 ttaccctagg gataacagcg caatcccctc ttagagtcca tatcgacgag ggggtttacg
+      481 acctcgatgt tggatcagga catcctaatg gtgcagccgc tattaagggt tcgtttgttc
+      541 aacgattaaa gtcctacgtg atctggtttc caaaccggag g
+//
+
+LOCUS       KX298707                 533 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_2_rep1 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298707
+VERSION     KX298707.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 533)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 533)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..533
+                     /organism="Cephalopholis sonnerati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_2_rep1"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>533
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ttacacatgc aagtatccgc acccccgtga gaatgcccta cagtcccctg cttgggaaca
+       61 aggagctggt atcaggcaca tctctatgat tagcccacaa caccttgctt agccacaccc
+      121 tcaagggaat ccagcagtga taaacattaa gccaataagt gtaaacttga cttagttatg
+      181 gctaaaaggg ccggtaaaac tcgtgccagc taccgcggtt atacgagagg cccaagttga
+      241 taagcatcgg cgtaaagagt ggttaaggtt aaataaatac taaagccgaa cgcttacaag
+      301 gctgttatac gcacccgaaa gtaagaagta caaccacgaa agtggcttta ttacacctga
+      361 acccacgaaa gccaaggcac aaactgggat tagatacccc actatgcttt agccctaaac
+      421 attgatagtt ttttacacct actatccgcc tgggaactac gagcaacagc ttaaaaccca
+      481 aaggacttgg cggtgcttta gacccaccta gaggagcctg ttctaaaacc gaa
+//
+
+LOCUS       KX298708                 533 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_2_rep2 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298708
+VERSION     KX298708.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 533)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 533)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..533
+                     /organism="Cephalopholis sonnerati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_2_rep2"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>533
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ttacacatgc aagtatccgc acccccgtga gaatgcccta cagtcccctg cttgggaaca
+       61 aggagctggt atcaggcaca tctctatgat tagcccacaa caccttgctt agccacaccc
+      121 tcaagggaat ccagcagtga taaacattaa gccaataagt gtaaacttga cttagttatg
+      181 gctaaaaggg ccggtaaaac tcgtgccagc taccgcggtt atacgagagg cccaagttga
+      241 taagcatcgg cgtaaagagt ggttaaggtt aaataaatac taaagccgaa cgcttacaag
+      301 gctgttatac gcacccgaaa gtaagaagta caaccacgaa agtggcttta ttacacctga
+      361 acccacgaaa gccaaggcac aaactgggat tagatacccc actatgcttt agccctaaac
+      421 attgatagtt ttttacacct actatccgcc tgggaactac gagcaacagc ttaaaaccca
+      481 aaggacttgg cggtgcttta gacccaccta gaggagcctg ttctaaaacc gaa
+//
+
+LOCUS       KX298709                 533 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_3_rep1 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298709
+VERSION     KX298709.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 533)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 533)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..533
+                     /organism="Cephalopholis sonnerati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_3_rep1"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>533
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ttacacatgc aagtatccgc acccccgtga gaatgcccta cagtcccctg cttgggaaca
+       61 aggagctggt atcaggcaca tctctatgat tagcccacaa caccttgctt agccacaccc
+      121 tcaagggaat ccagcagtga taaacattaa gccaataagt gtaaacttga cttagttatg
+      181 gctaaaaggg ccggtaaaac tcgtgccagc taccgcggtt atacgagagg cccaagttga
+      241 taagcatcgg cgtaaagagt ggttaaggtt aaataaatac taaagccgaa cgcttacaag
+      301 gctgttatac gcacccgaaa gtaagaagta caaccacgaa agtggcttta ttacacctga
+      361 acccacgaaa gccaaggcac aaactgggat tagatacccc actatgcttt agccctaaac
+      421 attgatagtt ttttacacct actatccgcc tgggaactac gagcaacagc ttaaaaccca
+      481 aaggacttgg cggtgcttta gacccaccta gaggagcctg ttctaaaacc gaa
+//
+
+LOCUS       KX298710                 533 bp    DNA     linear   VRT 23-AUG-2016
+DEFINITION  Cephalopholis sonnerati voucher NJ_3_rep2 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX298710
+VERSION     KX298710.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopholis sonnerati (tomato hind)
+  ORGANISM  Cephalopholis sonnerati
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Cephalopholis.
+REFERENCE   1  (bases 1 to 533)
+  AUTHORS   Saad,Y.M.
+  TITLE     Molecular variations among some Actinopterygii fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 533)
+  AUTHORS   Saad,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2016) Biological Sceince, King Abdul Aziz
+            University, Ring Road, Jeddah 21589, Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..533
+                     /organism="Cephalopholis sonnerati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NJ_3_rep2"
+                     /db_xref="taxon:160708"
+                     /geo_loc_name="Saudi Arabia"
+     rRNA            <1..>533
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ttacacatgc aagtatccgc acccccgtga gaatgcccta cagtcccctg cttgggaaca
+       61 aggagctggt atcaggcaca tctctatgat tagcccacaa caccttgctt agccacaccc
+      121 tcaagggaat ccagcagtga taaacattaa gccaataagt gtaaacttga cttagttatg
+      181 gctaaaaggg ccggtaaaac tcgtgccagc taccgcggtt atacgagagg cccaagttga
+      241 taagcatcgg cgtaaagagt ggttaaggtt aaataaatac taaagccgaa cgcttacaag
+      301 gctgttatac gcacccgaaa gtaagaagta caaccacgaa agtggcttta ttacacctga
+      361 acccacgaaa gccaaggcac aaactgggat tagatacccc actatgcttt agccctaaac
+      421 attgatagtt ttttacacct actatccgcc tgggaactac gagcaacagc ttaaaaccca
+      481 aaggacttgg cggtgcttta gacccaccta gaggagcctg ttctaaaacc gaa
+//

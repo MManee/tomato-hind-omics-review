@@ -1,0 +1,24 @@
+Curated C. sonnerati COI barcodes: 113 
+Without a recorded country (not plotted): 23 
+
+Plotted points (country, group, n): 
+  Australia        BOLD:AAD4737 (main group)                  8 
+  India            BOLD:AAD4737 (main group)                  9 
+  India            BOLD:ACC0647 (India)                       5 
+  Indonesia        BOLD:AAD4737 (main group)                 34 
+  Indonesia        No BIN assigned                            4 
+  Kenya            BOLD:AAB5431 (western Indian Ocean)        1 
+  Mauritius        No BIN assigned                            1 
+  New Caledonia    BOLD:AAD4737 (main group)                  1 
+  Philippines      BOLD:AAD4737 (main group)                  4 
+  Philippines      No BIN assigned                            2 
+  Seychelles       BOLD:AAB5431 (western Indian Ocean)        2 
+  South Africa     BOLD:AAB5431 (western Indian Ocean)       12 
+  Sri Lanka        No BIN assigned                            1 
+  Taiwan           BOLD:AAD4737 (main group)                  1 
+  Viet Nam         BOLD:AAD4737 (main group)                  5 
+  Saudi Arabia     16S/12S records deposited as C. sonnerati (Section 2.3)   7 
+  Egypt            COI reference, C. oligosticta (MH707291)   1 
+  China (Hainan)   Genome assemblies, hatchery fish           2 
+
+Done. Outputs: ./results/coi_map/Fig_Csonnerati_records_map.png and ./results/coi_map/map_summary.txt 

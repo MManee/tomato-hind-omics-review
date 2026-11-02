@@ -1,0 +1,5 @@
+Run: 2026-10-13 07:18:09 UTC
+Entrez Direct: 26.3
+Python: Python 3.12.15
+Requested range: KX298680-KX298720
+Records retrieved: 41

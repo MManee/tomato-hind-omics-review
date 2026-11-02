@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2026-03-31T00:00:00.000" last_update="2026-09-06T10:25:36.619" submission_date="2025-06-25T01:47:06.216" id="49597358" accession="SAMN49597358">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN49597358</Id>
+      <Id db_label="Sample name">Cephalopholis sonnerati (OG354)</Id>
+      <Id db="SRA">SRS25579008</Id>
+    </Ids>
+    <Description>
+      <Title>OG354.ilmn.NOVA_230324_AD</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>Keywords: GSC:MIxS;MIGS:6.0</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name abbreviation="Ocean Genomes">Ocean Genomes</Name>
+    </Owner>
+    <Models>
+      <Model>MIGS.eu</Model>
+    </Models>
+    <Package display_name="MIGS: eukaryote; version 6.0">MIGS.eu.6.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">OG354</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">missing</Attribute>
+      <Attribute attribute_name="env_broad_scale" harmonized_name="env_broad_scale" display_name="broad-scale environmental context">ENVO:00000447</Attribute>
+      <Attribute attribute_name="env_local_scale" harmonized_name="env_local_scale" display_name="local-scale environmental context">ENVO_01000048</Attribute>
+      <Attribute attribute_name="env_medium" harmonized_name="env_medium" display_name="environmental medium">ENVO:00002149</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">missing</Attribute>
+      <Attribute attribute_name="isol_growth_condt" harmonized_name="isol_growth_condt" display_name="isolation and growth condition">not applicable</Attribute>
+      <Attribute attribute_name="biotic_relationship" harmonized_name="biotic_relationship" display_name="observed biotic relationship">free living</Attribute>
+      <Attribute attribute_name="source_material_id" harmonized_name="source_material_id" display_name="source material identifiers">missing</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">not collected</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA1098793">1098793</Link>
+    </Links>
+    <Status status="live" when="2026-03-31T21:16:14.302"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2026-09-11T00:00:00.000" last_update="2026-09-15T01:46:44.000" submission_date="2026-09-12T12:07:25.616" id="63106385" accession="SAMEA123450337">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA123450337</Id>
+      <Id db="SRA">ERS31307163</Id>
+    </Ids>
+    <Description>
+      <Title>Cephalopholis sonnerati (Tomato Hind)</Title>
+      <Organism taxonomy_id="160708" taxonomy_name="Cephalopholis sonnerati">
+        <OrganismName>Cephalopholis sonnerati</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ENA-CHECKLIST">ERC000011</Attribute>
+      <Attribute attribute_name="INSDC center name">OceanOmics</Attribute>
+      <Attribute attribute_name="Submitter Id">OG354</Attribute>
+      <Attribute attribute_name="collection date" harmonized_name="collection_date" display_name="collection date">not collected</Attribute>
+      <Attribute attribute_name="collector">WA FIsheries</Attribute>
+      <Attribute attribute_name="common name">tomato hind</Attribute>
+      <Attribute attribute_name="geographic location (country and/or sea)" harmonized_name="geo_loc_name" display_name="geographic location">not collected</Attribute>
+      <Attribute attribute_name="preservation_method">Other</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">OG354</Attribute>
+      <Attribute attribute_name="sample same as">SAMN49597358</Attribute>
+      <Attribute attribute_name="scientific_name">Cephalopholis sonnerati</Attribute>
+    </Attributes>
+    <Status status="live" when="2026-09-13T10:07:58.083"/>
+  </BioSample>
+</BioSampleSet>

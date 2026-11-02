@@ -1,0 +1,23 @@
+species	n	max_within_pct	max_pair	max_pair_countries	max_pair_bins	max_pair_overlap_bp	min_between_pct	min_pair	min_pair_species	min_pair_overlap_bp
+Cephalopholis miniata	91	20.7	PX905042.1 / FTWS476-09	Indonesia / Taiwan	 / BOLD:AAC0217	542	0.33	FTWS476-09 / OQ386211.1	Cephalopholis cyanostigma	602
+Cephalopholis spiloparaea	22	16.46	MT888915.1 / OR524305.1	Mauritius / Philippines	BOLD:AAE4050 / BOLD:ADL0078	603	0	KU668655.1 / GU673953.1	Cephalopholis aurantia	603
+Cephalopholis fulva	43	8.18	FJ583005.1 / KF929697.1	Cuba / Belize	BOLD:AAB4588 / 	583	9.73	KP331698.1 / KR024641.1	Cephalopholis sonnerati	557
+Cephalopholis microprion	17	6.89	GU674037.1 / JX674953.1	Indonesia / India	BOLD:AAF0629 / BOLD:AAC0217	603	0.67	FJ237608.1 / DQ107918.1	Cephalopholis cyanostigma	603
+Cephalopholis boenak	283	5.52	KR863486.1 / FOAO1410-18	Malaysia / Australia	 / BOLD:AAB3684	603	7.81	MN870407.1 / FTWS476-09	Cephalopholis miniata	602
+Cephalopholis aurantia	24	4.69	OQ387248.1 / SAIAB975-08	Philippines / Tanzania	BOLD:AAB5432 / BOLD:AAI7557	597	0	GU673953.1 / KU668655.1	Cephalopholis spiloparaea	603
+Cephalopholis sonnerati	113	4.68	JQ268571.1 / FOAN570-11	Not recorded / Indonesia	BOLD:AAD4737 / BOLD:AAD4737	552	2.92	JN208563.1 / KM656840.1	Cephalopholis oligosticta	564
+Cephalopholis formosa	92	2.84	JQ268570.1 / MK340597.1	Not recorded / Bangladesh	BOLD:AAF0621 / BOLD:AAF0621	576	6	FGBOF031-13 / PX905050.1	Cephalopholis cyanostigma	528
+Cephalopholis cruentata	42	2.53	JQ840791.1 / MXIV488-10	Belize / Mexico	BOLD:AAB3619 / 	603	5.01	GU225173.1 / OXF100-11	Cephalopholis panamensis	603
+Cephalopholis urodeta	160	2.22	FJ459565.1 / KU686889.1	Not recorded / Philippines	BOLD:AAC4202 / BOLD:AAC4202	552	0	FJ583014.1 / KM226226.1	Cephalopholis nigripinnis	603
+Cephalopholis hemistiktos	71	1.86	KT216199.1 / KT216216.1	Saudi Arabia / Saudi Arabia	BOLD:AAW6020 / BOLD:AAW6020	603	7.13	KY675600.1 / OR524296.1	Cephalopholis leopardus	551
+Cephalopholis cyanostigma	44	1.76	OR829794.1 / PV034982.1	Not recorded / Australia	BOLD:AAC0217 / BOLD:AAC0217	578	0.33	OQ386211.1 / FTWS476-09	Cephalopholis miniata	602
+Cephalopholis igarashiensis	11	1.29	MH707709.1 / FTW073-08	Japan / Taiwan	 / BOLD:AAE9793	547	11.23	MH707707.1 / HM422434.1	Cephalopholis polleni	603
+Cephalopholis leopardus	26	1.26	OM273102.1 / OR524297.1	Indonesia / Philippines	BOLD:AAD9032 / BOLD:AAD9032	560	6.41	JQ431570.1 / KF929701.1	Cephalopholis spiloparaea	578
+Cephalopholis nigripinnis	96	1.17	KU064492.1 / FADLI053-17	Maldives / Indonesia	BOLD:AAC4202 / BOLD:AAC4202	603	0	KM226230.1 / FJ583012.1	Cephalopholis urodeta	603
+Cephalopholis sexmaculata	26	1.17	MH331696.1 / BIFZD322-17	Saudi Arabia / Indonesia	BOLD:AAE4051 / BOLD:AAE4051	603	3.61	KJ469385.1 / FJ237607.1	Cephalopholis miniata	603
+Cephalopholis argus	53	1.03	MH707304.1 / OQ387333.1	Egypt / Philippines	BOLD:AAC4474 / BOLD:AAC4474	588	12.9	MN733543.1 / GU674037.1	Cephalopholis microprion	602
+Cephalopholis nigri	7	0.35	MH707713.1 / PQ628610.1	South Africa / Guinea-Bissau	 / BOLD:ACC1733	576	14.26	MH707713.1 / FOAO1410-18	Cephalopholis boenak	603
+Cephalopholis polleni	9	0.35	HQ564407.1 / KJ594959.1	Indonesia / Philippines	BOLD:AAK0631 / 	579	11.23	HM422434.1 / MH707707.1	Cephalopholis igarashiensis	603
+Cephalopholis panamensis	8	0.33	OXF098-11 / OXF100-11	Mexico / Mexico	BOLD:ABA2702 / BOLD:ABA2702	603	5.01	OXF100-11 / GU225173.1	Cephalopholis cruentata	603
+Cephalopholis taeniops	7	0.17	IMFIB061-22 / IMFIB832-24	Ivory Coast / Ivory Coast	BOLD:ABX9081 / BOLD:ABX9081	574	10.15	KX758564.1 / KF929699.1	Cephalopholis leopardus	590
+Cephalopholis oligosticta	2	0	KM656840.1 / MH707291.1	Not recorded / Egypt	BOLD:ADJ9433 / BOLD:ADJ9433	603	2.92	KM656840.1 / JN208563.1	Cephalopholis sonnerati	564

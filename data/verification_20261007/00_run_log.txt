@@ -1,0 +1,52 @@
+Run started: Wed Oct  7 09:52:07 +03 2026
+edirect: 26.3
+datasets: datasets version: 18.38.0
+=== V1 BioProject PRJNA1433391 ===
+BioProject lines:        1
+SRA run lines (incl. header):       17
+=== V2 BioSample SAMN49597358 ===
+Organism: Cephalopholis sonnerati
+    /isolate="OG354"
+    /collection date="missing"
+    /latitude and longitude="not collected"
+=== V3 BioProject PRJNA720393 ===
+PRJNA720393	NOAA Genome Skimming of Marine animals inhabiting the US Exclusive Economic Zone	2021/04/07 00:00	This project aims to create a multi-locus genetic barcode reference library for marine species of interest to NOAA's National Marine Fisheries Science Centers. Each sample is voucher-based using curated and well identified specimens residing in museum collections. Reference sequences, e.g., annotated complete mitochondrial genomes and ribosomal repeats, will be derived by skimming from whole genome sequencing. These sequences will be critical for detecting marine species within environmental samples, many of which are being taken by different practitioners with varying aims.
+=== V4 NC_022143 vs KC593378 ===
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to KC593378.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: sequencher v. 4.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+KC593378	16587	2013/08/25	Cephalopholis sonnerati mitochondrion, complete genome
+NC_022143	16587	2013/08/27	Cephalopholis sonnerati mitochondrion, complete genome
+=== V5 GCA_019142605.1 assembly stats ===
+"assembly_level":"Scaffold"
+"contig_n50":2482587
+"number_of_contigs":939
+"number_of_scaffolds":196
+"scaffold_n50":43987100
+"total_sequence_length":"1043730103"
+Sequence roles (count):
+ 196 "role":"unplaced-scaffold"
+=== V6 DQ107916 DQ107927 ===
+LOCUS       DQ107916                 655 bp    DNA     linear   VRT 05-MAR-2012
+  ORGANISM  Cephalopholis sonnerati
+  TITLE     DNA barcoding Australia's fish species
+  TITLE     Direct Submission
+                     /specimen_voucher="BIOUG<CAN>:BW-A580"
+                     /gene="COI"
+                     /gene="COI"
+                     /product="cytochrome oxidase subunit 1"
+LOCUS       DQ107927                 652 bp    DNA     linear   VRT 05-MAR-2012
+  ORGANISM  Cephalopholis sonnerati
+  TITLE     DNA barcoding Australia's fish species
+  TITLE     Direct Submission
+                     /specimen_voucher="BIOUG<CAN>:BW-A577"
+                     /gene="COI"
+                     /gene="COI"
+                     /product="cytochrome oxidase subunit 1"
+Run finished: Wed Oct  7 09:52:42 +03 2026
